@@ -1,0 +1,1001 @@
+patient_id,age,cataract_type,locs_iii_grade,endothelial_cell_count,anterior_chamber_depth,zonular_integrity,pupil_dilation,axial_length,corneal_thickness,astigmatism,comorbidities,recommended_technique
+23f3cc96-e31c-4617-9afc-3e1de73fff97,85,Nuclear,1,1926,2.6,Mild Weakness,Poor,21.7,619,0.3,Glaucoma,Standard Phacoemulsification
+83d9ebf9-905a-4d3d-a4f0-b257bef28aa6,77,Nuclear,5,814,3.8,Severe Weakness,Good,24.1,551,2.83,Pseudoexfoliation,Intracapsular Cataract Extraction
+9269cff2-5a1a-401e-9284-1b4ff34a96d8,66,Posterior Subcapsular,2,1481,4.4,Moderate Weakness,Good,21.6,504,1.26,Diabetes,Standard Phacoemulsification
+9bd60da6-84cc-48d0-8d1b-e8a261397a79,74,Nuclear,4,522,3.4,Moderate Weakness,Poor,22.3,497,0.16,Diabetes,Small Incision Cataract Surgery (Manual)
+66d32011-0be8-46db-97b6-3ccfda7feb1d,59,Nuclear,4,1338,3.1,Moderate Weakness,Good,23.6,533,2.35,Diabetes,Small Incision Cataract Surgery (Manual)
+7df0b1b5-40b5-41a6-a245-6acf7c545b2f,85,Cortical,5,1002,2.4,Severe Weakness,Fair,27.9,643,2.41,None,Small Incision Cataract Surgery (Manual)
+b412eac7-84ef-4378-873d-01da764ac2e8,48,Cortical,1,2092,3.0,Intact,Good,27.4,625,3.07,None,Femtosecond Laser-Assisted Phacoemulsification
+57db3ba3-8b79-43e7-8af5-d869e55ea5ff,86,Mixed,2,1684,2.3,Moderate Weakness,Poor,25.1,629,1.4,None,Standard Phacoemulsification
+a37babe2-5848-4040-8a66-9a5193330a9d,50,Nuclear,1,1426,3.6,Severe Weakness,Poor,21.4,577,2.09,None,Extracapsular Cataract Extraction
+c53c8dbd-1f6f-482c-89ff-181fd58bca9b,45,Nuclear,5,1092,3.9,Moderate Weakness,Good,23.1,520,1.59,None,Small Incision Cataract Surgery (Manual)
+4328fd26-a889-4184-9dca-e60fa69bf652,77,Cortical,5,500,4.2,Moderate Weakness,Poor,24.6,530,0.53,None,Small Incision Cataract Surgery (Manual)
+9e4b6501-1c17-41a6-911a-89e106c1c3f8,78,Nuclear,5,1327,3.2,Intact,Fair,27.2,558,0.84,Diabetes,Small Incision Cataract Surgery (Manual)
+d20900ca-e3e2-475a-90f8-3042c31cc22b,91,Mixed,1,2981,3.9,Mild Weakness,Poor,24.3,620,0.58,None,Standard Phacoemulsification
+11900f37-ed6f-4e80-8150-8b7f3bab5b65,79,Cortical,3,2034,4.5,Moderate Weakness,Fair,27.3,595,0.42,None,Standard Phacoemulsification
+c80b62e0-1a52-4fde-a8ca-f19afb58e7f4,59,Cortical,1,1090,3.8,Intact,Good,21.5,488,3.01,Pseudoexfoliation,Standard Phacoemulsification
+891be75e-2031-42da-8bff-a6746909d980,58,Cortical,5,2360,3.2,Severe Weakness,Fair,22.3,504,2.31,None,Femtosecond Laser-Assisted Phacoemulsification
+11297a5b-a8f2-496f-b1fc-96ebe2470844,48,Nuclear,1,2449,3.8,Intact,Good,22.3,617,1.57,None,Femtosecond Laser-Assisted Phacoemulsification
+340983a9-3595-40bf-9f61-8c301c98aebe,49,Mixed,5,500,2.1,Intact,Good,27.5,540,0.58,None,Small Incision Cataract Surgery (Manual)
+6fed0ae9-0b72-40ab-9267-e3a8fd49c520,48,Cortical,4,500,4.5,Moderate Weakness,Fair,23.0,622,2.32,None,Small Incision Cataract Surgery (Manual)
+3db3ccdc-10e0-408e-9604-f127098fd1e8,48,Nuclear,3,634,2.1,Severe Weakness,Poor,27.4,615,0.55,"Glaucoma,Diabetes",Extracapsular Cataract Extraction
+659ebcf4-bb09-444b-8d6c-7286aad79342,83,Nuclear,2,2253,2.3,Mild Weakness,Poor,25.2,638,0.29,None,Standard Phacoemulsification
+75bd3c07-0ac4-492c-9d64-21832ae597a6,61,Cortical,3,1377,2.7,Mild Weakness,Poor,25.5,597,1.11,Glaucoma,Standard Phacoemulsification
+954071db-1c46-43a2-b8a1-a0dda761b520,81,Nuclear,1,3002,2.5,Moderate Weakness,Good,27.5,497,3.08,None,Standard Phacoemulsification
+66dbd601-d731-41ea-be85-b6e8ad259b34,90,Posterior Subcapsular,5,2166,2.0,Moderate Weakness,Poor,21.7,514,0.93,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+75dc80f3-a212-4e21-abe9-ce5fb04d177a,63,Cortical,3,1233,3.7,Moderate Weakness,Poor,24.4,493,0.32,Diabetes,Standard Phacoemulsification
+6e0df529-ef6c-4f66-b8f4-25cb1575cf19,94,Cortical,3,1061,3.9,Severe Weakness,Poor,21.1,499,3.31,Diabetes,Extracapsular Cataract Extraction
+1453a163-56df-4b27-a56d-da5ab05a9b14,68,Cortical,4,722,2.1,Moderate Weakness,Good,27.3,533,2.39,None,Small Incision Cataract Surgery (Manual)
+0f090471-0cf9-43fd-be61-d4205f712bd2,71,Cortical,2,1265,4.4,Mild Weakness,Fair,21.2,565,2.74,None,Standard Phacoemulsification
+577795c7-717b-4671-bccf-4a800af86572,60,Posterior Subcapsular,2,1042,3.0,Intact,Fair,22.6,597,1.22,None,Standard Phacoemulsification
+8a529d39-e62c-4420-854d-9fb027f4b378,87,Cortical,4,1544,2.7,Intact,Fair,23.5,610,1.4,None,Femtosecond Laser-Assisted Phacoemulsification
+3eff8cba-5954-4341-8e47-04c7703edf49,52,Posterior Subcapsular,2,2978,4.4,Moderate Weakness,Good,21.8,591,1.21,None,Standard Phacoemulsification
+1ccc0aae-5482-481b-8c0e-409fd831d5e3,52,Mixed,5,778,2.6,Severe Weakness,Good,24.6,617,2.4,Diabetes,Small Incision Cataract Surgery (Manual)
+d59990a1-f006-4d4e-960c-4d23a6c98835,72,Nuclear,3,1685,3.7,Intact,Poor,27.3,609,1.08,None,Standard Phacoemulsification
+023e9af6-c37d-4b27-a80a-279bf8ea18a9,53,Cortical,4,1752,3.7,Mild Weakness,Poor,25.0,583,1.92,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+da1da0cb-8b41-43e7-9e08-e5016a387b07,82,Posterior Subcapsular,4,2009,3.1,Mild Weakness,Poor,24.3,523,2.31,None,Femtosecond Laser-Assisted Phacoemulsification
+4326ed48-043d-4686-ad57-8804bcd3ce57,50,Cortical,3,1320,4.0,Mild Weakness,Good,21.3,601,2.14,None,Standard Phacoemulsification
+f5658975-2fbf-44fd-9e4c-7ce6cae55465,81,Cortical,4,2224,3.0,Mild Weakness,Poor,25.8,507,2.72,None,Femtosecond Laser-Assisted Phacoemulsification
+bfd76354-ff4d-4637-9398-6eb8376b0646,74,Nuclear,5,1020,4.3,Intact,Fair,21.9,598,2.34,None,Small Incision Cataract Surgery (Manual)
+8d5f6bc2-c5f1-4a95-bdd0-6657de218894,73,Mixed,5,1826,4.2,Severe Weakness,Fair,22.8,543,2.94,None,Femtosecond Laser-Assisted Phacoemulsification
+c5b22e7c-2008-48d6-bb88-0b53d28a72b6,60,Posterior Subcapsular,4,517,3.8,Mild Weakness,Fair,23.4,618,0.28,Diabetes,Small Incision Cataract Surgery (Manual)
+fb609eb9-fcf2-4c91-a312-5685832a6b53,58,Nuclear,4,1869,2.8,Severe Weakness,Fair,21.4,587,1.36,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+d33a3824-78eb-49d7-9754-bbbb97ef2fac,93,Mixed,4,500,4.4,Moderate Weakness,Fair,27.0,587,1.88,None,Small Incision Cataract Surgery (Manual)
+a9f201d3-4a2d-43a8-9529-0884b981b835,76,Cortical,3,2185,3.2,Severe Weakness,Fair,25.7,583,2.53,None,Extracapsular Cataract Extraction
+8feefa58-2889-47da-8dc4-ff438b6bfadd,79,Nuclear,4,2624,3.4,Intact,Good,25.5,514,3.03,None,Femtosecond Laser-Assisted Phacoemulsification
+1e736873-f2d5-4ba7-add6-8c1a0f04c07e,74,Posterior Subcapsular,3,1952,2.7,Severe Weakness,Fair,26.8,600,0.07,None,Extracapsular Cataract Extraction
+40560342-090d-45c3-90d8-51b764efca21,86,Nuclear,1,927,4.4,Mild Weakness,Good,25.3,541,0.44,None,Standard Phacoemulsification
+8bd3d38d-e6b3-4005-9fa3-ee630668da52,89,Posterior Subcapsular,3,1087,3.5,Intact,Good,27.8,507,2.03,None,Femtosecond Laser-Assisted Phacoemulsification
+412183ef-71af-4629-b5b9-83150d63d4fc,69,Mixed,2,911,3.5,Mild Weakness,Good,25.9,557,2.98,None,Standard Phacoemulsification
+cddee6ee-316a-4da3-8f93-f27dd92b28e9,95,Nuclear,3,2582,3.1,Moderate Weakness,Good,24.5,567,0.04,None,Standard Phacoemulsification
+febf047f-44ad-48ed-9278-5433ce66052f,68,Mixed,2,2383,2.4,Moderate Weakness,Poor,26.7,617,2.71,None,Standard Phacoemulsification
+a0277214-adbd-4187-99e5-2c1adb98b1df,65,Cortical,1,1942,4.2,Mild Weakness,Fair,25.0,577,1.18,None,Standard Phacoemulsification
+786b43ab-c72e-4629-8562-505daaf49296,67,Posterior Subcapsular,3,1545,4.2,Moderate Weakness,Poor,21.1,528,0.3,None,Standard Phacoemulsification
+6bfaf7fe-4e15-4627-8410-ba5924e5c918,89,Mixed,4,2035,4.0,Intact,Fair,22.6,542,1.07,None,Femtosecond Laser-Assisted Phacoemulsification
+fff951be-f741-4e97-acfc-9fa2e42b5e56,72,Posterior Subcapsular,3,2258,2.7,Moderate Weakness,Good,21.8,529,1.1,None,Standard Phacoemulsification
+515cf8d0-1aea-422d-8e39-fe66f956969a,57,Cortical,4,1332,3.8,Moderate Weakness,Good,26.8,555,0.8,Glaucoma,Small Incision Cataract Surgery (Manual)
+1e6cca89-1175-4a25-86a5-958688a7d779,62,Nuclear,1,3066,2.7,Mild Weakness,Poor,27.1,605,0.36,Pseudoexfoliation,Standard Phacoemulsification
+ef4575d7-ccf3-4d4b-96e8-60aeaa848d4d,66,Cortical,1,1834,4.4,Severe Weakness,Good,26.8,582,1.72,Diabetes,Extracapsular Cataract Extraction
+563b8135-37df-43d1-ad6d-f14f8de1ad07,81,Posterior Subcapsular,1,1816,2.3,Severe Weakness,Poor,25.2,638,0.79,None,Extracapsular Cataract Extraction
+cbfba1d8-6ca5-42fe-bc59-86152451aca2,82,Mixed,3,2729,3.6,Intact,Good,25.4,547,2.31,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+d6cf39c6-b23d-4249-944c-426821a78d9c,45,Mixed,4,2632,3.2,Intact,Good,23.0,552,2.46,None,Femtosecond Laser-Assisted Phacoemulsification
+6427e716-baf6-4b2d-9c84-770c4870038c,95,Cortical,4,670,3.4,Mild Weakness,Fair,26.8,498,0.21,None,Small Incision Cataract Surgery (Manual)
+3b0725cb-c47a-489a-b8ef-27a625c8e0ea,63,Mixed,1,2719,3.7,Severe Weakness,Fair,24.5,606,1.53,None,Extracapsular Cataract Extraction
+3584c14c-b39a-4bf9-94ff-9ded05b16b88,83,Posterior Subcapsular,1,1174,2.6,Intact,Poor,26.7,627,0.14,None,Standard Phacoemulsification
+c0ec6239-3078-45db-ae5b-666ecc93df89,62,Cortical,5,1785,3.6,Severe Weakness,Good,24.3,584,1.17,None,Femtosecond Laser-Assisted Phacoemulsification
+3a3dc35b-a23c-45bd-ae21-f4c0ebbf8b94,89,Mixed,3,2040,4.0,Intact,Fair,21.6,544,1.13,None,Standard Phacoemulsification
+3f6c5744-69b6-440a-999a-be0997bc5b84,45,Mixed,4,500,2.5,Moderate Weakness,Poor,26.3,640,1.55,"Pseudoexfoliation,Diabetes",Small Incision Cataract Surgery (Manual)
+c06ff399-54e4-411a-bbf6-bb3d7546d41e,63,Mixed,4,697,2.1,Mild Weakness,Poor,22.1,621,0.05,None,Small Incision Cataract Surgery (Manual)
+5e7ba62e-fb0f-48ff-80d4-79056240e8c4,52,Mixed,1,1430,3.2,Moderate Weakness,Poor,25.9,586,2.92,None,Standard Phacoemulsification
+bf08bc7d-3b3c-42cf-914b-894316989bef,69,Cortical,5,2081,3.9,Mild Weakness,Good,22.9,586,1.19,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+97c4c994-04a6-465a-9d7f-71576756c627,91,Posterior Subcapsular,5,2375,4.5,Severe Weakness,Good,24.1,603,1.21,None,Femtosecond Laser-Assisted Phacoemulsification
+387e785e-1269-4819-9fcf-bca82d8f743e,65,Cortical,2,2942,3.0,Severe Weakness,Good,23.2,601,2.47,None,Extracapsular Cataract Extraction
+c55acaed-47c7-46c4-a4d1-311a16ca5e8c,86,Cortical,4,500,2.3,Moderate Weakness,Good,27.1,592,0.35,"Glaucoma,Diabetes",Small Incision Cataract Surgery (Manual)
+0da6632a-7dca-4ce8-b16e-34e6a749c358,86,Cortical,1,2723,4.0,Moderate Weakness,Fair,25.4,581,2.27,None,Standard Phacoemulsification
+3d75134b-c093-460c-81fe-d648b01b842f,69,Posterior Subcapsular,4,2416,2.1,Intact,Good,25.4,553,3.49,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+4981ae50-8e68-4a49-8e19-6c9f06690d1a,85,Nuclear,4,881,3.7,Intact,Good,23.3,494,1.03,None,Small Incision Cataract Surgery (Manual)
+0a4f14b3-341e-4379-ace6-9e58c9d0ebf9,81,Cortical,2,1317,2.2,Severe Weakness,Poor,25.8,607,3.19,Pseudoexfoliation,Intracapsular Cataract Extraction
+493d25e7-fbcc-43bb-8dde-5a75b448950d,61,Nuclear,4,1378,3.7,Mild Weakness,Good,24.1,568,3.46,None,Small Incision Cataract Surgery (Manual)
+5c076327-ad1c-49b6-881b-7e6325e93cd1,74,Posterior Subcapsular,2,2175,4.1,Intact,Good,23.7,571,2.01,None,Femtosecond Laser-Assisted Phacoemulsification
+a2acbc23-d288-41b6-b53c-825458aa50d5,87,Mixed,3,500,3.4,Intact,Poor,26.2,553,2.72,None,Standard Phacoemulsification
+ea7954bf-eeb4-42bc-b238-f437f8d5acd6,57,Posterior Subcapsular,2,997,4.3,Intact,Fair,26.5,488,2.03,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+2596358a-03a2-4a70-b1d5-0285de33be41,92,Mixed,2,1422,2.3,Moderate Weakness,Poor,24.5,549,2.91,None,Standard Phacoemulsification
+49b88e7d-5fb2-4769-aea8-616f0cf1826a,63,Posterior Subcapsular,1,2718,4.4,Mild Weakness,Good,27.0,581,3.39,None,Standard Phacoemulsification
+21f9e33f-81ec-49ca-90b8-0315a0ccfa0d,45,Posterior Subcapsular,5,506,3.1,Moderate Weakness,Poor,23.7,643,3.29,"Pseudoexfoliation,Diabetes",Small Incision Cataract Surgery (Manual)
+d6a24235-7c91-4d83-a051-7c2fc8f9c0fe,80,Posterior Subcapsular,5,906,3.6,Severe Weakness,Poor,23.1,584,0.41,"Pseudoexfoliation,Glaucoma",Intracapsular Cataract Extraction
+b501922d-e91b-4b9b-b4b7-c7873e3de436,52,Nuclear,2,2801,2.3,Severe Weakness,Fair,25.7,618,1.47,None,Extracapsular Cataract Extraction
+e422c9e8-6686-4b59-8f2d-71cda685122e,51,Mixed,5,1671,4.3,Moderate Weakness,Good,25.8,535,1.55,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+42c6c289-ebed-498b-8fb8-15bcb753e1bc,88,Posterior Subcapsular,5,1469,2.2,Moderate Weakness,Good,27.8,596,0.32,None,Small Incision Cataract Surgery (Manual)
+9a6e5c31-a373-4c2f-ace9-e7edf6e8d799,48,Posterior Subcapsular,2,1115,4.0,Mild Weakness,Good,26.8,621,0.73,None,Standard Phacoemulsification
+c1356f9c-e7eb-4a40-a059-cf48c231a99c,54,Nuclear,3,992,4.5,Moderate Weakness,Good,21.8,486,0.46,None,Standard Phacoemulsification
+41476d05-9360-4da7-8818-07e104197aff,46,Cortical,3,614,2.3,Severe Weakness,Poor,21.8,496,1.67,Diabetes,Extracapsular Cataract Extraction
+da6d93ba-bb81-403c-9ab1-6c24bdc22951,77,Cortical,5,500,3.8,Moderate Weakness,Fair,25.5,487,0.21,None,Small Incision Cataract Surgery (Manual)
+68090710-8af9-415d-8b17-6b593a8ee7da,76,Mixed,1,1130,2.8,Mild Weakness,Good,21.9,639,2.22,None,Standard Phacoemulsification
+37e21fcd-743b-4d48-9ee8-46989f3557ca,78,Posterior Subcapsular,4,2270,3.5,Intact,Poor,21.8,647,2.28,None,Femtosecond Laser-Assisted Phacoemulsification
+a815fe79-4db3-4c4b-ab65-3cb69b7a5843,73,Cortical,4,1588,4.1,Severe Weakness,Fair,26.1,560,1.49,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+591167b1-1f73-4fea-aabd-edaf912e8a49,75,Nuclear,1,1149,2.2,Intact,Poor,26.2,513,1.95,None,Small Incision Cataract Surgery (Manual)
+caf62d0f-c4cb-4220-b80d-4c5686568475,52,Mixed,3,2132,4.2,Intact,Fair,25.2,570,0.36,None,Standard Phacoemulsification
+58c1aae8-e4fc-4c5b-90ec-5b535dc99620,51,Posterior Subcapsular,5,1505,2.3,Moderate Weakness,Poor,22.6,589,2.96,None,Femtosecond Laser-Assisted Phacoemulsification
+46e4e74c-101a-4f21-a3d9-fb396348597b,86,Nuclear,5,1095,2.1,Moderate Weakness,Poor,26.3,566,1.23,None,Small Incision Cataract Surgery (Manual)
+16a92b66-e7f5-4a2a-bd60-c90dbdfe5dce,49,Cortical,1,1175,3.9,Mild Weakness,Fair,23.9,567,0.55,None,Standard Phacoemulsification
+af201f43-e02e-4cfd-aa45-3f7091615919,83,Nuclear,1,1437,2.4,Intact,Poor,21.6,593,2.32,None,Small Incision Cataract Surgery (Manual)
+9a710443-29a1-495c-ba19-646dad9524ab,93,Nuclear,3,2160,2.3,Severe Weakness,Poor,25.7,491,0.77,Glaucoma,Extracapsular Cataract Extraction
+d6f6297d-5794-4f55-b41e-aa07862ca970,58,Cortical,3,1585,2.8,Intact,Fair,26.2,524,0.45,None,Standard Phacoemulsification
+9ff7ce40-e1d4-49b3-ac61-2d53fa8f028e,87,Posterior Subcapsular,1,2426,4.2,Intact,Fair,21.1,499,3.02,None,Femtosecond Laser-Assisted Phacoemulsification
+7b52e1b2-7055-4b21-aa71-baa75c2eb883,71,Posterior Subcapsular,1,2459,2.1,Moderate Weakness,Good,26.6,638,1.61,None,Standard Phacoemulsification
+bb61de62-d0b4-4b9d-9bf1-af9338888e63,51,Cortical,4,2612,3.0,Intact,Fair,27.1,566,0.78,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+bfa3ea4e-e8d8-4250-b95d-69abc21edea1,78,Cortical,3,1838,3.8,Mild Weakness,Good,21.7,545,0.69,None,Standard Phacoemulsification
+46917dec-5c71-4cbb-87b4-c85b53af279e,56,Mixed,4,2509,3.9,Severe Weakness,Poor,27.5,624,2.25,None,Femtosecond Laser-Assisted Phacoemulsification
+f172028e-6e50-4d6f-9205-2bedb44f9d7d,65,Cortical,4,500,3.2,Moderate Weakness,Fair,25.1,570,1.78,Diabetes,Small Incision Cataract Surgery (Manual)
+9d43fe7e-b598-4877-bd67-65fe50c654bb,63,Nuclear,1,3233,3.3,Severe Weakness,Poor,24.9,490,1.57,None,Extracapsular Cataract Extraction
+8ffed3a4-c315-431a-b1b2-39403f8bbc77,75,Cortical,1,2645,2.3,Moderate Weakness,Poor,21.6,645,0.6,None,Standard Phacoemulsification
+b2f980a6-465b-49b6-abaf-b2065ea3b107,78,Cortical,3,1927,4.3,Severe Weakness,Fair,26.4,633,0.18,None,Extracapsular Cataract Extraction
+c2eaa663-bb29-40e1-a451-4e8127764db5,80,Mixed,3,1432,3.8,Mild Weakness,Fair,21.6,649,0.49,None,Standard Phacoemulsification
+eaa81c3a-e720-481e-b5de-84f0b41cc5c3,70,Cortical,5,500,2.8,Severe Weakness,Poor,26.5,512,2.35,None,Small Incision Cataract Surgery (Manual)
+a1e805e6-228f-466c-b93e-2f187b84faf6,78,Nuclear,4,2282,2.9,Moderate Weakness,Fair,22.3,534,1.2,None,Femtosecond Laser-Assisted Phacoemulsification
+54c68dd8-c21c-484c-b5d0-00d04277063b,54,Nuclear,3,814,3.3,Intact,Poor,23.4,638,0.46,None,Standard Phacoemulsification
+a033ecf7-f52b-4585-9580-5a6596583a0b,94,Cortical,4,500,3.0,Mild Weakness,Fair,25.3,594,0.82,None,Small Incision Cataract Surgery (Manual)
+57905d3a-0d60-45a8-9a6b-6fa68173f5a1,57,Posterior Subcapsular,5,1804,3.2,Moderate Weakness,Fair,24.5,587,3.38,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+625709fe-1c63-4906-bb10-52734bd3222a,61,Nuclear,4,1720,3.4,Intact,Poor,26.9,511,1.0,None,Femtosecond Laser-Assisted Phacoemulsification
+96ca5fce-2f8f-4d34-9943-c2f7af146526,54,Mixed,1,1709,4.0,Moderate Weakness,Good,23.9,581,1.76,None,Standard Phacoemulsification
+723a0c19-560b-4c90-8aba-478c584d4d0a,46,Posterior Subcapsular,1,2173,4.0,Mild Weakness,Good,23.0,600,2.44,Pseudoexfoliation,Standard Phacoemulsification
+baf191c3-e3bb-42a4-9e26-6917ff2ad568,45,Nuclear,1,1848,2.5,Mild Weakness,Poor,27.6,635,1.85,Pseudoexfoliation,Standard Phacoemulsification
+01453e18-8137-4345-b898-cc2d51361c22,48,Cortical,4,2072,2.2,Severe Weakness,Poor,24.8,641,1.8,None,Femtosecond Laser-Assisted Phacoemulsification
+993de400-3901-40a7-8f85-67af7b55ccbf,84,Posterior Subcapsular,2,2937,3.0,Intact,Poor,27.8,497,3.34,None,Standard Phacoemulsification
+00187415-57c6-43aa-9fc3-bcf06c42683b,46,Mixed,4,500,3.6,Moderate Weakness,Fair,26.2,571,2.76,None,Small Incision Cataract Surgery (Manual)
+d6c6048c-7062-4d25-bb5e-603303352862,94,Posterior Subcapsular,2,781,2.9,Moderate Weakness,Poor,22.2,598,3.43,Diabetes,Standard Phacoemulsification
+9f3838e4-9607-4b3c-a7b4-cf01a3ef1f75,90,Mixed,1,2001,2.5,Mild Weakness,Good,23.2,559,1.8,None,Standard Phacoemulsification
+346d3e7d-079c-40b5-8ef1-c5a5e999ce35,93,Cortical,3,1862,4.2,Intact,Poor,23.3,511,2.8,None,Standard Phacoemulsification
+0b2bae27-9bec-49b1-8434-f5a90ec50697,69,Posterior Subcapsular,2,2632,3.7,Moderate Weakness,Poor,22.9,501,2.54,Pseudoexfoliation,Standard Phacoemulsification
+9f0a864b-29b7-4dbe-b951-c4098a970ece,79,Posterior Subcapsular,3,820,2.2,Moderate Weakness,Fair,24.1,589,0.58,None,Standard Phacoemulsification
+a2e566e6-068c-4b99-8319-b55bd96e6576,67,Mixed,3,634,2.2,Severe Weakness,Fair,24.6,520,3.33,Pseudoexfoliation,Intracapsular Cataract Extraction
+8a8e2970-4d87-4eda-b760-49535a750122,47,Cortical,1,1766,3.9,Moderate Weakness,Fair,23.7,625,0.11,None,Standard Phacoemulsification
+aaf35e91-0d78-46e1-9bf8-7675e51c1211,73,Nuclear,5,563,3.3,Severe Weakness,Fair,25.5,543,3.36,Pseudoexfoliation,Intracapsular Cataract Extraction
+b0a5f328-1b19-4c1f-8ae8-80a1e307d5bc,80,Nuclear,3,1466,3.8,Mild Weakness,Poor,23.0,605,0.7,"Pseudoexfoliation,Glaucoma,Diabetes",Standard Phacoemulsification
+44f5e27f-93e3-4d6b-b590-78563faee5db,90,Mixed,1,2109,3.7,Intact,Poor,24.8,556,2.98,None,Standard Phacoemulsification
+0f87af0b-f90d-44cf-ad44-b3e689800572,95,Posterior Subcapsular,5,918,2.3,Mild Weakness,Good,22.7,606,0.09,None,Small Incision Cataract Surgery (Manual)
+6f7458eb-f6c0-4508-a47e-ade5f0ddf253,80,Cortical,5,500,2.2,Severe Weakness,Poor,26.0,614,1.44,Diabetes,Small Incision Cataract Surgery (Manual)
+76cfce0b-8ee3-46bd-aa76-077fbbc9328c,65,Nuclear,4,2108,3.7,Moderate Weakness,Good,27.1,621,2.24,None,Femtosecond Laser-Assisted Phacoemulsification
+d10ef89f-b37e-4ef7-949a-7f92330cc583,48,Nuclear,5,626,2.8,Mild Weakness,Fair,27.5,537,1.21,None,Small Incision Cataract Surgery (Manual)
+a4d6fe75-ab61-4669-9358-3f9ea00c1341,61,Cortical,5,1124,2.3,Moderate Weakness,Poor,24.7,608,2.24,Diabetes,Small Incision Cataract Surgery (Manual)
+30b035e2-1ecb-42c6-98e7-fe6d536809f4,84,Posterior Subcapsular,5,500,4.1,Intact,Good,21.3,644,2.7,None,Small Incision Cataract Surgery (Manual)
+9f308227-24a7-430a-8d28-dc25196f1f77,84,Nuclear,4,2434,2.7,Moderate Weakness,Fair,22.7,583,1.04,"Pseudoexfoliation,Glaucoma",Femtosecond Laser-Assisted Phacoemulsification
+d7fe8797-3acc-4c18-b25e-4b349d0b61f5,75,Mixed,2,1993,3.5,Moderate Weakness,Poor,23.2,568,3.41,Pseudoexfoliation,Standard Phacoemulsification
+94be49ba-0820-43b4-ae83-c3420f5d9769,65,Cortical,4,701,2.7,Mild Weakness,Good,21.7,554,3.31,None,Small Incision Cataract Surgery (Manual)
+2d0fa73b-9d93-4c56-8eeb-241ba7131dc1,55,Posterior Subcapsular,5,1280,2.5,Mild Weakness,Fair,28.0,599,1.75,Glaucoma,Small Incision Cataract Surgery (Manual)
+9f3ea4ec-5572-4698-8f3a-4ad69f5ca0d5,77,Mixed,2,1481,3.5,Intact,Good,23.0,632,3.09,None,Femtosecond Laser-Assisted Phacoemulsification
+7f80558e-7c50-4a64-8ce4-730c51ccfef2,51,Mixed,2,1683,3.8,Severe Weakness,Fair,21.3,493,2.0,Diabetes,Extracapsular Cataract Extraction
+b5ba59dd-1a89-4054-8a41-95a0aa3fd6b0,77,Mixed,5,1145,4.1,Intact,Good,27.8,580,1.31,None,Small Incision Cataract Surgery (Manual)
+3dffce40-878c-4afd-a55d-9b848b544567,54,Cortical,5,2085,3.0,Intact,Good,21.3,565,2.81,None,Femtosecond Laser-Assisted Phacoemulsification
+41639387-52c9-4081-b232-8b2a902c785f,53,Posterior Subcapsular,5,1304,2.4,Moderate Weakness,Poor,23.4,610,1.86,None,Small Incision Cataract Surgery (Manual)
+eff41c97-29fa-4929-b176-73d6ac215740,68,Posterior Subcapsular,1,2506,3.5,Intact,Poor,24.3,647,2.74,None,Standard Phacoemulsification
+aba5355d-2a31-4595-8a1e-7380f17279e5,82,Mixed,2,2747,3.6,Severe Weakness,Good,26.8,542,0.11,Diabetes,Extracapsular Cataract Extraction
+1a0f7213-6fee-40c7-b0a0-7578e11288b1,65,Mixed,2,2291,3.7,Severe Weakness,Poor,26.4,600,3.05,"Glaucoma,Diabetes",Extracapsular Cataract Extraction
+c0324834-ed05-491b-a5af-dbb3a440d73f,58,Posterior Subcapsular,4,2352,2.9,Mild Weakness,Fair,27.4,567,1.91,None,Femtosecond Laser-Assisted Phacoemulsification
+ff8ddb30-6f31-4968-9f45-a5dfe78a1068,89,Posterior Subcapsular,5,1983,2.5,Mild Weakness,Fair,24.9,537,3.3,None,Femtosecond Laser-Assisted Phacoemulsification
+0a7c04f0-b472-4e38-93ad-49c493607217,89,Mixed,3,2365,2.9,Moderate Weakness,Fair,21.9,619,1.33,None,Standard Phacoemulsification
+7e4295fd-7c71-455d-be3d-4a7548654b6e,54,Posterior Subcapsular,1,1978,4.4,Intact,Fair,27.5,647,0.9,None,Standard Phacoemulsification
+b39fe06d-cfbe-4898-93ae-ab75bddec30e,80,Posterior Subcapsular,2,1047,3.5,Mild Weakness,Good,21.4,615,0.79,None,Standard Phacoemulsification
+e16be524-0361-4309-abc9-e0da0884b0f6,75,Nuclear,2,621,4.4,Mild Weakness,Fair,25.6,601,1.67,None,Standard Phacoemulsification
+aec15e0f-3ff0-4e88-8182-38d54c2fe27c,86,Nuclear,1,3151,2.6,Intact,Good,23.9,525,3.27,Pseudoexfoliation,Standard Phacoemulsification
+7b4cea53-1a5d-4b0a-91e0-118f076fab62,56,Posterior Subcapsular,1,837,2.7,Intact,Fair,23.0,644,1.9,None,Femtosecond Laser-Assisted Phacoemulsification
+3869758f-e590-4390-bb89-7b863bff0f9c,74,Posterior Subcapsular,2,1061,2.8,Severe Weakness,Poor,22.8,527,0.05,None,Extracapsular Cataract Extraction
+55cdc868-419b-47f8-8aa6-251cd011f48d,57,Cortical,5,1660,4.1,Moderate Weakness,Good,23.8,504,0.65,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+d805b669-8972-44db-a967-23deaf49242d,61,Mixed,2,2429,3.9,Moderate Weakness,Fair,25.1,626,0.04,Diabetes,Standard Phacoemulsification
+3e481c94-8274-4bf6-aad1-5dcf4a5eee02,52,Mixed,3,1054,3.0,Moderate Weakness,Poor,21.8,555,1.29,None,Standard Phacoemulsification
+e4020f7f-adf5-4c78-b29f-70bc4c33bd4d,74,Posterior Subcapsular,4,2449,4.3,Mild Weakness,Good,25.8,632,3.06,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+4549303d-6f8b-4035-8cd0-5c1e6f12c453,49,Nuclear,1,3043,4.3,Mild Weakness,Poor,24.8,522,1.15,None,Standard Phacoemulsification
+6a64985b-0a61-4d35-b63a-f202bafa2e6c,82,Mixed,1,2890,3.1,Intact,Fair,21.9,586,1.6,Pseudoexfoliation,Standard Phacoemulsification
+fe66eece-57b7-4935-89a8-89db427e6a28,91,Nuclear,4,1242,4.0,Mild Weakness,Poor,21.5,588,1.21,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+c83831cd-aae6-4644-91bd-f85c6dbfb68d,49,Mixed,1,1975,3.0,Mild Weakness,Poor,27.8,645,3.37,None,Standard Phacoemulsification
+e15af850-c936-45b4-9fdc-f545bd934eff,69,Mixed,1,3008,2.3,Moderate Weakness,Good,22.2,617,1.38,Pseudoexfoliation,Standard Phacoemulsification
+a2247a07-f59a-4542-817c-12b5cf46fa1b,93,Nuclear,3,2296,3.7,Severe Weakness,Poor,23.7,538,0.87,None,Extracapsular Cataract Extraction
+984161ee-65f7-4718-8773-61fcc8700874,91,Nuclear,1,2517,3.5,Intact,Good,22.4,505,2.08,None,Femtosecond Laser-Assisted Phacoemulsification
+f329d9fb-33a9-4359-9fae-3a4db9f6ec7b,60,Nuclear,4,1997,2.6,Mild Weakness,Good,22.0,554,0.82,None,Femtosecond Laser-Assisted Phacoemulsification
+3009dd65-6741-4bd2-bcec-0ba62f561254,94,Posterior Subcapsular,2,1836,4.2,Mild Weakness,Fair,23.1,495,1.95,Diabetes,Standard Phacoemulsification
+4b03f526-5872-4e37-872f-8b2e1787e68e,88,Mixed,5,2030,2.1,Moderate Weakness,Poor,25.7,614,1.12,None,Femtosecond Laser-Assisted Phacoemulsification
+abe9f0d8-d608-476f-afaa-32e60b9748d8,93,Mixed,2,1523,2.8,Mild Weakness,Fair,27.4,623,1.44,None,Standard Phacoemulsification
+e5b8adca-7939-48d0-a112-791beea6fe6c,61,Cortical,3,723,4.3,Moderate Weakness,Good,24.7,528,0.18,Diabetes,Standard Phacoemulsification
+f60f12d9-e427-4ec2-89de-c8b33ce87e49,49,Cortical,5,2289,2.5,Mild Weakness,Fair,23.1,483,0.74,None,Femtosecond Laser-Assisted Phacoemulsification
+556df706-220a-4907-a457-81cded50ee2c,93,Mixed,2,3075,3.8,Severe Weakness,Good,24.9,552,1.33,None,Extracapsular Cataract Extraction
+f9e17dee-dd87-4f35-82c0-adc477f5f557,77,Mixed,4,603,4.0,Severe Weakness,Fair,27.4,574,1.1,Pseudoexfoliation,Intracapsular Cataract Extraction
+c1bcece2-e472-4784-904e-c85a2cb18e77,46,Posterior Subcapsular,5,2392,3.4,Severe Weakness,Fair,22.1,564,0.81,None,Femtosecond Laser-Assisted Phacoemulsification
+79b5e7ab-e882-44c8-ab7e-d1b57dcccca5,88,Posterior Subcapsular,3,2401,4.4,Severe Weakness,Fair,22.2,570,0.59,None,Extracapsular Cataract Extraction
+5c6a7cce-01ec-40aa-8b41-da6cd4224a24,79,Nuclear,5,500,4.1,Intact,Poor,21.3,481,1.44,None,Small Incision Cataract Surgery (Manual)
+fc9878e6-058d-4d1c-b937-8af7ff58855a,45,Cortical,5,1867,2.9,Severe Weakness,Poor,24.4,481,1.86,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+d36644b0-cce3-4e11-8715-ef117130ebb8,79,Posterior Subcapsular,1,2857,4.0,Severe Weakness,Good,21.7,504,1.84,None,Extracapsular Cataract Extraction
+de8854ac-f2a0-4bb7-9b5c-925817b53001,67,Posterior Subcapsular,4,523,2.9,Severe Weakness,Fair,25.0,537,1.05,Glaucoma,Small Incision Cataract Surgery (Manual)
+91349bc5-4e2b-4d17-b3ac-d412096094a7,86,Nuclear,1,2460,2.9,Severe Weakness,Good,25.5,523,0.29,None,Extracapsular Cataract Extraction
+22a667b5-e5cf-412e-9928-a9ac895def5b,51,Nuclear,2,1465,4.3,Severe Weakness,Fair,21.3,499,2.4,None,Extracapsular Cataract Extraction
+2d0124fd-b67e-4a91-a31d-c9563ed45b6e,56,Posterior Subcapsular,1,1648,3.5,Severe Weakness,Good,23.1,624,0.84,None,Extracapsular Cataract Extraction
+a18ab2d6-bc0c-417e-b916-d02976d4306b,66,Mixed,2,921,3.3,Moderate Weakness,Good,21.7,539,2.94,None,Standard Phacoemulsification
+7509b221-a1da-4112-b62e-8943d6c42902,70,Posterior Subcapsular,1,1919,4.0,Severe Weakness,Fair,22.6,621,3.29,None,Extracapsular Cataract Extraction
+078249ea-7a19-49a5-9923-4f4084532c4b,50,Posterior Subcapsular,2,901,2.2,Mild Weakness,Fair,26.0,642,0.54,Diabetes,Standard Phacoemulsification
+ba54076c-f778-48b7-b546-6ba993c00db9,64,Mixed,3,1504,2.3,Intact,Good,24.0,622,1.94,Glaucoma,Small Incision Cataract Surgery (Manual)
+0aa4842e-bf96-424d-a7c9-544c0d72db58,50,Posterior Subcapsular,4,500,2.7,Severe Weakness,Good,26.1,623,3.17,Diabetes,Small Incision Cataract Surgery (Manual)
+ddd42a3d-831e-4d11-a3b4-17717da7c4c5,69,Cortical,2,1701,2.8,Severe Weakness,Good,21.4,591,0.97,None,Extracapsular Cataract Extraction
+8cdc8adc-1d16-4ec4-97ef-0169fcb07afc,60,Mixed,5,800,3.1,Mild Weakness,Fair,21.0,581,1.16,None,Small Incision Cataract Surgery (Manual)
+34d871b8-9b38-4770-a5b4-01c674e4c20d,66,Mixed,5,557,2.8,Mild Weakness,Fair,23.2,581,3.39,None,Small Incision Cataract Surgery (Manual)
+7769704e-2e57-408b-81cc-5dafdbe1af20,81,Cortical,3,1940,2.7,Severe Weakness,Fair,21.8,624,0.7,None,Extracapsular Cataract Extraction
+759c9153-adec-4504-9a2d-71384eb9a36a,46,Mixed,2,2395,4.0,Intact,Fair,25.7,515,2.22,None,Femtosecond Laser-Assisted Phacoemulsification
+c4c4292b-e59b-41e2-ac72-685c881f907c,95,Mixed,1,2639,4.5,Severe Weakness,Poor,23.8,609,3.23,Diabetes,Extracapsular Cataract Extraction
+b540d216-10c5-467e-b71a-1cb4e2f92568,68,Nuclear,1,1816,3.6,Moderate Weakness,Good,25.5,491,1.97,None,Standard Phacoemulsification
+546d3737-c6c0-4ef8-8043-455d2ff9f52f,66,Mixed,1,843,2.2,Mild Weakness,Poor,26.2,622,2.03,None,Standard Phacoemulsification
+5c0769ec-59cd-48e1-8d34-97e0f77824a7,94,Cortical,3,500,3.2,Moderate Weakness,Fair,27.4,501,0.41,None,Standard Phacoemulsification
+0abc37c5-616b-4cfa-8e33-959230eb58f7,74,Cortical,5,1978,2.9,Intact,Fair,26.1,595,1.12,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+fcea55b5-d31b-4e3c-9432-afe765083f1d,66,Nuclear,2,1599,3.3,Mild Weakness,Fair,24.9,598,0.81,None,Standard Phacoemulsification
+5c4691cc-0c82-4917-96dc-e4e7b4a046d1,72,Mixed,1,1608,3.1,Severe Weakness,Fair,21.0,534,0.72,Diabetes,Extracapsular Cataract Extraction
+c7e5d5dc-aa68-45be-b40e-bb20d5493261,51,Cortical,3,1735,2.5,Intact,Fair,25.7,605,1.85,None,Femtosecond Laser-Assisted Phacoemulsification
+b04854b7-e226-45a5-9ef9-a69f6a2e224e,82,Nuclear,3,1841,4.1,Mild Weakness,Poor,25.9,556,3.22,None,Standard Phacoemulsification
+63c00071-c040-4200-8323-7cecf89f7799,60,Posterior Subcapsular,1,1549,2.9,Mild Weakness,Poor,23.7,632,0.48,None,Standard Phacoemulsification
+daea5a97-f8dc-412f-b4ec-4702ed436bcf,89,Cortical,5,683,3.2,Mild Weakness,Good,23.2,595,2.17,None,Small Incision Cataract Surgery (Manual)
+e287c0c6-cd78-400e-8a0e-4ae5585b3aec,57,Mixed,5,2070,3.6,Severe Weakness,Poor,24.4,593,1.71,"Pseudoexfoliation,Glaucoma",Intracapsular Cataract Extraction
+11a1a2a0-6134-4c2b-bfde-0fef2e116035,63,Nuclear,3,1320,3.3,Mild Weakness,Fair,25.0,606,1.92,Pseudoexfoliation,Standard Phacoemulsification
+59ced5bc-c9b3-4e82-b360-512ba3c3efc9,68,Nuclear,4,2437,2.5,Severe Weakness,Good,26.2,647,2.63,None,Femtosecond Laser-Assisted Phacoemulsification
+76f11030-094e-4844-849a-b4c20b2f755f,67,Nuclear,4,680,3.9,Mild Weakness,Good,26.7,630,2.41,None,Small Incision Cataract Surgery (Manual)
+a1794693-cce0-4b1c-a7fb-064dfc08b422,84,Cortical,2,1447,4.0,Moderate Weakness,Poor,23.0,617,0.59,None,Standard Phacoemulsification
+0363c6a9-25a6-42e5-aaa5-453ee1e84fb2,77,Nuclear,2,2285,4.3,Moderate Weakness,Poor,21.9,513,0.87,None,Standard Phacoemulsification
+eb8afe04-90b0-4a63-b0aa-677f9b34cf25,88,Mixed,4,782,3.4,Moderate Weakness,Poor,23.9,595,0.26,None,Small Incision Cataract Surgery (Manual)
+15e24983-f6bf-4676-94a9-c7552051b4fe,92,Posterior Subcapsular,3,2262,4.4,Moderate Weakness,Poor,21.0,503,2.56,None,Standard Phacoemulsification
+b90c0be3-1c24-4544-8b14-365df4980733,49,Mixed,2,2359,4.1,Severe Weakness,Fair,23.3,552,1.18,None,Extracapsular Cataract Extraction
+e5eab4db-43bc-4c4f-b84d-f5361873282e,66,Nuclear,1,1207,3.6,Severe Weakness,Good,21.9,520,1.54,Pseudoexfoliation,Intracapsular Cataract Extraction
+54afbc9f-8f59-433a-95ab-a951316c01cd,89,Cortical,3,1051,4.2,Moderate Weakness,Good,25.6,544,0.29,Diabetes,Standard Phacoemulsification
+86cd3e0a-e8c3-45c0-8fc5-2a0756a91446,85,Posterior Subcapsular,2,2358,3.6,Intact,Good,22.5,499,0.46,Diabetes,Standard Phacoemulsification
+7178a4ef-96be-4581-8cb9-8a2858bb5be4,89,Posterior Subcapsular,1,2529,3.7,Severe Weakness,Good,22.6,502,2.56,Pseudoexfoliation,Intracapsular Cataract Extraction
+45081491-29c5-4c6b-a353-01671c469805,53,Mixed,2,1185,2.2,Intact,Poor,25.6,592,1.23,None,Small Incision Cataract Surgery (Manual)
+1a4d6d41-90af-4163-ac84-4cb0ce2ccfbb,84,Mixed,2,955,4.2,Mild Weakness,Good,25.1,578,1.23,None,Standard Phacoemulsification
+18dbad43-bf6e-4623-b5f6-a3b00305babf,86,Nuclear,2,2866,3.5,Moderate Weakness,Poor,21.2,648,3.07,Diabetes,Standard Phacoemulsification
+64fcb0ea-b8e5-455f-9350-85acb75aab40,70,Posterior Subcapsular,1,1780,3.2,Intact,Good,24.5,632,0.25,Glaucoma,Standard Phacoemulsification
+ff090526-785f-4d84-b5f4-8383a957a528,65,Cortical,4,2528,3.1,Mild Weakness,Fair,27.7,498,0.06,"Pseudoexfoliation,Diabetes",Femtosecond Laser-Assisted Phacoemulsification
+69492400-b5c5-4f27-b8e6-7d11166374a6,48,Mixed,5,1173,3.6,Severe Weakness,Fair,25.9,501,2.24,Diabetes,Small Incision Cataract Surgery (Manual)
+d1c75ef9-b9dc-40cd-8670-ed3bbcbc4c52,50,Cortical,2,2797,2.8,Intact,Fair,25.9,541,0.2,Pseudoexfoliation,Standard Phacoemulsification
+8574efb4-6178-4e68-813b-7265e9e6c528,83,Nuclear,3,1119,2.3,Mild Weakness,Poor,21.1,607,3.34,None,Standard Phacoemulsification
+3153eaef-2733-4873-b905-819cceeca3ae,55,Posterior Subcapsular,2,1700,3.8,Intact,Good,23.3,589,0.95,Pseudoexfoliation,Standard Phacoemulsification
+a9a5e8f0-8bd0-4e4b-92cc-08fa89977768,49,Mixed,4,2292,2.9,Severe Weakness,Poor,22.2,520,0.89,Pseudoexfoliation,Intracapsular Cataract Extraction
+df48781e-5662-42af-bcb3-548ad89cd80a,59,Nuclear,1,850,2.6,Severe Weakness,Fair,23.7,518,0.63,Glaucoma,Extracapsular Cataract Extraction
+22edd93b-0dd6-4322-bb5e-5696583ec786,90,Mixed,2,1918,2.6,Moderate Weakness,Fair,26.8,626,1.3,Diabetes,Standard Phacoemulsification
+1af0aef9-93cc-4cb7-b16e-c51629ca2fff,78,Nuclear,4,500,4.2,Moderate Weakness,Fair,23.3,621,1.6,None,Small Incision Cataract Surgery (Manual)
+6a33dfb5-c056-417d-90f0-45248283dbe5,92,Cortical,4,1708,3.5,Severe Weakness,Good,26.1,619,2.66,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+574877d2-2616-4fc1-9b0a-8958b6b6108f,59,Posterior Subcapsular,1,2172,2.0,Severe Weakness,Poor,26.1,506,0.72,None,Extracapsular Cataract Extraction
+e0568e59-f0fc-4550-865a-87e636e17cc6,54,Posterior Subcapsular,1,979,4.3,Severe Weakness,Poor,27.3,597,3.41,"Pseudoexfoliation,Glaucoma,Diabetes",Intracapsular Cataract Extraction
+f1cfea2a-1a8e-43f9-a3cd-48b176256be8,70,Nuclear,5,2325,2.2,Mild Weakness,Good,23.0,560,3.24,None,Femtosecond Laser-Assisted Phacoemulsification
+a386d65b-c223-41be-9895-4ff442a671c6,73,Posterior Subcapsular,2,905,4.4,Mild Weakness,Poor,21.8,507,0.58,None,Standard Phacoemulsification
+c2aefb73-9b68-438a-8f93-7ef87bda40a1,94,Cortical,4,1462,3.2,Intact,Good,22.1,557,2.89,Glaucoma,Small Incision Cataract Surgery (Manual)
+41e90e1d-07c8-42a9-82cd-9f5db8c49d17,65,Cortical,1,1816,4.4,Severe Weakness,Poor,21.3,556,0.91,Glaucoma,Extracapsular Cataract Extraction
+f3fcac32-7976-4149-a1e1-bd15f8873573,73,Cortical,1,2692,2.3,Mild Weakness,Good,21.1,536,0.46,None,Standard Phacoemulsification
+a67149b2-5095-45d8-b9e6-cb79b8eeeabb,86,Nuclear,5,2400,2.6,Intact,Good,28.0,530,3.16,None,Femtosecond Laser-Assisted Phacoemulsification
+7ea51927-a935-4e5a-ab16-69fdb1788efc,66,Nuclear,1,2688,2.1,Severe Weakness,Poor,23.8,487,1.34,None,Extracapsular Cataract Extraction
+f8252a46-b58c-4d07-b9fb-1a6dd26467b1,62,Posterior Subcapsular,4,808,2.1,Mild Weakness,Poor,23.1,585,3.09,Glaucoma,Small Incision Cataract Surgery (Manual)
+6a1f5b52-1cdc-4714-a461-740432026186,71,Cortical,5,1020,3.6,Intact,Fair,26.5,571,1.68,None,Small Incision Cataract Surgery (Manual)
+80ca3375-ceee-4feb-90dd-fab76290f4f4,65,Mixed,3,1136,2.1,Mild Weakness,Good,27.3,551,0.21,None,Standard Phacoemulsification
+b59077a8-b06b-42dd-b452-fe2e7ca5fb26,59,Cortical,1,1815,3.6,Moderate Weakness,Poor,26.7,494,2.67,None,Standard Phacoemulsification
+9d1cd61b-c419-423b-ade0-ff4b09affc55,69,Posterior Subcapsular,2,1321,2.6,Moderate Weakness,Poor,25.9,631,0.1,None,Standard Phacoemulsification
+10af009b-a4c6-4269-b710-2052b2284a35,81,Cortical,4,2420,2.8,Severe Weakness,Good,21.6,539,2.11,Pseudoexfoliation,Intracapsular Cataract Extraction
+4ee77150-9a3d-4041-b2ce-93c934835e06,84,Cortical,2,1995,3.8,Moderate Weakness,Good,21.2,630,2.47,Pseudoexfoliation,Standard Phacoemulsification
+a6355004-3a28-4177-b8c6-4bdc5d9e4aa2,68,Nuclear,3,2020,3.5,Moderate Weakness,Fair,23.3,520,2.56,None,Standard Phacoemulsification
+1b94ad88-ee06-4073-986f-cc6733510f62,65,Cortical,5,1461,2.6,Mild Weakness,Fair,23.1,555,0.45,None,Small Incision Cataract Surgery (Manual)
+e3ae7cf7-3d6c-49ea-a8a1-5ee5d8b04666,70,Nuclear,2,3067,2.8,Mild Weakness,Poor,25.0,607,0.49,None,Standard Phacoemulsification
+8436b12f-7406-44fd-8156-b44ba19b1bda,55,Nuclear,3,2229,2.0,Mild Weakness,Good,25.9,569,0.9,"Pseudoexfoliation,Glaucoma",Standard Phacoemulsification
+5d255ece-ea1e-4ee8-a119-0b516cb501df,91,Mixed,2,2295,3.2,Severe Weakness,Fair,24.8,505,2.9,None,Extracapsular Cataract Extraction
+a6fd0702-e609-4230-9b53-98ffa52bd7e2,59,Cortical,4,501,4.0,Intact,Fair,21.1,546,3.33,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+d808c7e6-005d-48c9-a675-fcdc4f7843ae,91,Nuclear,5,500,2.8,Severe Weakness,Poor,21.2,647,0.58,Diabetes,Small Incision Cataract Surgery (Manual)
+e263b51d-cc48-42a5-b92f-f133ad2fcd6b,58,Cortical,4,2469,3.8,Moderate Weakness,Poor,23.0,540,0.34,None,Femtosecond Laser-Assisted Phacoemulsification
+c67d6bd5-7f65-4b4c-b21c-6bcebeb17bb9,48,Posterior Subcapsular,1,2551,2.2,Severe Weakness,Good,21.7,532,0.6,Glaucoma,Extracapsular Cataract Extraction
+23181b0b-9183-41d0-87f9-cfdab949e659,64,Mixed,4,2203,4.2,Moderate Weakness,Good,25.5,579,0.65,None,Femtosecond Laser-Assisted Phacoemulsification
+d6a50da9-443d-4b8a-b88b-13f20e98b67a,61,Mixed,4,1278,2.6,Moderate Weakness,Poor,21.4,650,0.34,None,Small Incision Cataract Surgery (Manual)
+5dd7c241-de12-4a36-a449-2fbf30b1099e,93,Cortical,5,500,4.1,Severe Weakness,Poor,25.8,601,2.0,None,Small Incision Cataract Surgery (Manual)
+d9d3bc7c-26d3-4dd8-97af-a3d4587301ae,90,Nuclear,5,2339,4.3,Mild Weakness,Good,27.6,594,0.61,None,Femtosecond Laser-Assisted Phacoemulsification
+3be7cd7e-9bb8-48cf-867b-6296c827584f,53,Nuclear,4,520,4.5,Severe Weakness,Good,28.0,640,0.52,None,Small Incision Cataract Surgery (Manual)
+f21c1254-b2e9-4eb8-8ea6-272c5c8c4c86,49,Nuclear,4,2478,3.0,Moderate Weakness,Fair,24.6,483,2.75,None,Femtosecond Laser-Assisted Phacoemulsification
+fbfb7b45-8656-455c-9466-f95d61fa0565,71,Cortical,2,2920,3.5,Intact,Good,24.9,505,2.75,None,Femtosecond Laser-Assisted Phacoemulsification
+2beddfbc-9b9a-43ae-a598-4666f8bdc3fe,61,Mixed,4,2543,3.5,Intact,Good,22.9,516,2.16,None,Femtosecond Laser-Assisted Phacoemulsification
+1503c4ee-9110-4dfc-9d85-ac9a4bd62d8a,66,Cortical,1,2746,4.3,Moderate Weakness,Good,23.4,557,1.09,None,Standard Phacoemulsification
+a0533d2b-bcb4-4f5d-9409-d5c83038457f,59,Cortical,3,2214,3.9,Moderate Weakness,Fair,26.1,634,2.26,None,Standard Phacoemulsification
+7f205bcf-22cc-4f2d-a302-4c34090f944a,92,Mixed,5,1531,4.1,Mild Weakness,Good,23.2,609,1.41,None,Femtosecond Laser-Assisted Phacoemulsification
+c33666df-a671-4d0f-9a7e-c25fbac29b37,56,Cortical,2,836,2.6,Severe Weakness,Good,27.4,530,0.96,None,Extracapsular Cataract Extraction
+452f37db-de10-4b41-ac85-e6535646e134,52,Nuclear,2,2125,3.2,Severe Weakness,Good,27.7,601,2.05,None,Extracapsular Cataract Extraction
+2a2c7968-12f4-4c96-b068-9b173291622d,92,Nuclear,3,512,3.0,Mild Weakness,Poor,26.5,534,3.0,None,Standard Phacoemulsification
+122c34ea-b472-478b-9804-724d74b9f4c4,71,Nuclear,1,2741,4.3,Mild Weakness,Poor,26.6,537,0.88,None,Standard Phacoemulsification
+19e42369-3980-4df9-a54a-503ae41011b3,86,Posterior Subcapsular,4,1742,4.1,Severe Weakness,Fair,22.5,557,2.37,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+875a3d49-aaad-40bc-9dbf-5365945ebf46,77,Posterior Subcapsular,5,2432,3.5,Moderate Weakness,Poor,21.8,496,1.18,None,Femtosecond Laser-Assisted Phacoemulsification
+b828f9c0-51a7-4758-a1a1-d7abdaf20a3a,86,Posterior Subcapsular,2,1214,3.3,Mild Weakness,Good,26.6,633,1.41,Diabetes,Standard Phacoemulsification
+f32a3abd-d4fe-4532-ac69-40ded0c8f6ba,76,Posterior Subcapsular,3,2114,3.0,Intact,Poor,26.0,626,2.86,None,Standard Phacoemulsification
+5b32b712-8d04-4acf-b4b4-c732a5c0c9de,85,Mixed,3,2477,2.8,Mild Weakness,Poor,27.1,526,1.03,None,Standard Phacoemulsification
+fde6a7b5-4b33-4cc3-9fcc-822239a277e9,80,Cortical,3,765,2.6,Mild Weakness,Poor,27.1,587,2.76,None,Standard Phacoemulsification
+6fce3a7b-8f7d-4075-8a79-fedd08dc2d54,52,Mixed,1,3190,3.5,Intact,Fair,27.2,608,0.42,None,Standard Phacoemulsification
+5c5526fd-cf0c-49a3-9960-bae2d5e48ea0,54,Cortical,2,2003,3.0,Severe Weakness,Good,23.2,526,2.73,Diabetes,Extracapsular Cataract Extraction
+8d7c5374-09e3-4b8c-9b4a-58502c67dfbf,85,Nuclear,1,2651,2.7,Mild Weakness,Poor,26.4,605,2.75,None,Standard Phacoemulsification
+c1b85a5d-52f1-4a54-9e46-3e7fd0273762,72,Mixed,4,2155,3.0,Intact,Poor,22.4,575,3.33,None,Femtosecond Laser-Assisted Phacoemulsification
+8ec83859-dd84-4ade-be36-63edc12097af,46,Nuclear,2,1526,3.7,Moderate Weakness,Fair,21.9,578,1.76,"Glaucoma,Diabetes",Standard Phacoemulsification
+3669f4c6-9b23-4fb3-9a36-9b578305c2d1,63,Mixed,5,2442,3.3,Severe Weakness,Poor,28.0,567,3.49,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+7218a5a2-1630-4b7d-adc7-07c714584746,70,Nuclear,2,1518,3.8,Mild Weakness,Good,26.1,630,1.77,Pseudoexfoliation,Standard Phacoemulsification
+686b35a1-4f51-42ed-b5f7-fe0ca0563228,69,Posterior Subcapsular,5,500,3.5,Intact,Poor,21.8,485,0.17,"Pseudoexfoliation,Diabetes",Small Incision Cataract Surgery (Manual)
+ac619d2a-8e95-4b77-9e07-42c309b53cd1,61,Mixed,2,1441,3.7,Intact,Fair,23.9,505,2.32,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+9fa03d44-511b-49df-ac24-608ffc386d7b,51,Nuclear,3,866,4.0,Severe Weakness,Good,25.3,547,2.91,None,Extracapsular Cataract Extraction
+786dbb51-cb33-449b-a1ce-2d469b125786,55,Nuclear,5,2033,4.3,Severe Weakness,Fair,22.6,483,2.35,None,Femtosecond Laser-Assisted Phacoemulsification
+ed1e0d2e-d004-48e8-b4a0-79748cacf915,54,Nuclear,5,500,3.8,Intact,Fair,25.5,596,3.46,Diabetes,Small Incision Cataract Surgery (Manual)
+4919a1b1-0a75-49b6-abb3-d970a09e6f7d,56,Nuclear,3,1875,4.0,Moderate Weakness,Fair,26.2,504,2.98,"Glaucoma,Diabetes",Standard Phacoemulsification
+8ad6ed41-8d17-4f29-8e0f-9b08bd325179,86,Cortical,3,1864,4.2,Moderate Weakness,Poor,21.7,567,0.64,None,Standard Phacoemulsification
+bc299682-244e-43d4-abb2-0f0668dde5be,69,Mixed,4,883,2.3,Intact,Good,21.7,631,1.69,None,Small Incision Cataract Surgery (Manual)
+5f43cafd-fed9-422d-8aea-177d3118a5ab,94,Posterior Subcapsular,5,500,4.2,Mild Weakness,Fair,27.4,508,3.11,Glaucoma,Small Incision Cataract Surgery (Manual)
+7adec3ad-ae57-4a87-8848-e519d78784d6,45,Cortical,3,2526,3.3,Intact,Fair,25.6,543,1.69,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+8a129304-2704-4514-a96e-3dadac752bb5,80,Nuclear,1,1442,3.3,Severe Weakness,Fair,27.1,499,2.63,None,Extracapsular Cataract Extraction
+bd805e1d-7d7d-468f-a20e-8a8f7491fd7e,77,Cortical,5,1550,3.0,Mild Weakness,Good,24.2,626,1.57,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+aaa226d9-2884-4a36-8cbb-cc8bea850b48,76,Nuclear,1,2452,3.0,Intact,Good,26.5,638,2.23,None,Femtosecond Laser-Assisted Phacoemulsification
+de94b4c0-803f-491f-b58a-8840fc862bd2,74,Posterior Subcapsular,3,622,4.0,Severe Weakness,Fair,24.9,638,2.1,None,Extracapsular Cataract Extraction
+1c05903c-9ffc-474c-b1fc-3a851336becb,51,Cortical,1,2198,2.9,Moderate Weakness,Poor,24.7,507,0.16,None,Standard Phacoemulsification
+cf3f6c15-7be7-43c2-aec6-238a77948c60,91,Mixed,1,1841,3.5,Mild Weakness,Good,27.5,580,0.75,None,Standard Phacoemulsification
+6ba3a1ec-527d-4c89-9f7d-3ad4720b73b2,93,Mixed,1,3211,2.3,Severe Weakness,Fair,25.6,609,0.47,Diabetes,Extracapsular Cataract Extraction
+56fcf09e-a520-4315-8c61-28bbba39775c,72,Mixed,5,725,3.7,Mild Weakness,Poor,26.7,506,1.36,None,Small Incision Cataract Surgery (Manual)
+39b4290e-50bf-45ca-9228-527ff7dc3044,69,Mixed,5,1016,2.7,Moderate Weakness,Fair,24.2,514,0.48,None,Small Incision Cataract Surgery (Manual)
+75c0af5b-3475-495d-9533-8e995f9aad52,89,Posterior Subcapsular,5,890,2.5,Moderate Weakness,Poor,23.4,513,3.43,None,Small Incision Cataract Surgery (Manual)
+07b30668-3f5a-4ca8-a627-23af625bba2c,89,Posterior Subcapsular,1,2242,3.4,Severe Weakness,Poor,26.2,616,1.0,None,Extracapsular Cataract Extraction
+7f66f0a6-4099-4274-afa3-80335f8af6aa,46,Mixed,2,817,3.7,Mild Weakness,Fair,26.3,521,3.44,Diabetes,Standard Phacoemulsification
+34947232-7dab-4db3-b664-db5390a162aa,95,Posterior Subcapsular,2,2816,2.1,Severe Weakness,Good,25.3,623,3.03,None,Extracapsular Cataract Extraction
+81d86ab6-1874-4500-bb1d-7fdabe807eaa,95,Posterior Subcapsular,1,2362,3.0,Moderate Weakness,Poor,21.4,544,0.71,None,Standard Phacoemulsification
+ad1a0cf2-4fa7-4838-b954-dac962e0e7fc,59,Posterior Subcapsular,5,2238,3.8,Mild Weakness,Poor,27.8,555,1.57,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+6f57b3d4-865b-456b-9c18-673aad513f0d,92,Nuclear,4,500,3.1,Moderate Weakness,Good,22.1,545,0.02,Diabetes,Small Incision Cataract Surgery (Manual)
+803f262b-3b0b-47ac-a3a2-484c4da83599,65,Nuclear,5,1233,3.2,Moderate Weakness,Good,26.5,561,1.84,None,Small Incision Cataract Surgery (Manual)
+437a9ef4-917c-46de-adc7-b1c0abd9b314,55,Mixed,5,2199,3.0,Moderate Weakness,Good,27.2,649,1.16,None,Femtosecond Laser-Assisted Phacoemulsification
+86f992bf-e057-4a6b-9b9a-9db94a4cb0d9,78,Mixed,5,500,2.3,Moderate Weakness,Fair,22.7,644,2.15,None,Small Incision Cataract Surgery (Manual)
+6d3349f0-f2ea-423d-9774-7051f1d5152c,65,Mixed,1,2380,2.6,Moderate Weakness,Good,27.4,575,1.8,None,Standard Phacoemulsification
+d878ccee-d9e6-4dcf-bfc6-c7b6fe02a89d,86,Cortical,3,2504,2.2,Intact,Good,27.8,617,1.87,None,Small Incision Cataract Surgery (Manual)
+09f22127-ca2a-4ec9-a087-b8f10e7b7226,58,Mixed,1,1642,3.3,Severe Weakness,Poor,26.7,498,2.61,None,Extracapsular Cataract Extraction
+35e757a4-25b1-4285-9ff8-c5048231b075,50,Nuclear,1,1529,4.0,Intact,Poor,26.8,546,1.43,None,Standard Phacoemulsification
+5e89e276-ed31-45a0-bded-7b360f369c14,69,Nuclear,5,500,3.6,Intact,Poor,25.1,498,1.25,None,Small Incision Cataract Surgery (Manual)
+94cfcc25-a868-45e8-a83d-5b33301ec25b,83,Nuclear,3,2192,3.0,Intact,Fair,22.1,536,0.48,None,Standard Phacoemulsification
+1c433bed-3730-4cbd-8c79-106b64c488ac,85,Cortical,3,1928,4.4,Intact,Poor,27.1,516,0.43,Pseudoexfoliation,Standard Phacoemulsification
+3fec35b0-c201-4849-825b-9d852f5e6522,50,Posterior Subcapsular,2,2008,2.5,Mild Weakness,Good,22.3,637,2.92,None,Standard Phacoemulsification
+d7adc950-204e-47c2-89e7-18faaa3bec2c,48,Mixed,5,500,2.7,Intact,Fair,21.7,628,1.71,None,Small Incision Cataract Surgery (Manual)
+780ec48a-597c-48f1-be81-b9800725be50,51,Posterior Subcapsular,5,500,4.3,Moderate Weakness,Fair,24.2,637,2.31,None,Small Incision Cataract Surgery (Manual)
+bd77c7e4-23da-48cb-a9a3-a13e29ceb4c0,65,Mixed,2,619,2.8,Mild Weakness,Poor,26.2,591,0.97,None,Standard Phacoemulsification
+c60a4d79-3ee9-4692-a605-f48e77fdc044,75,Mixed,4,1669,3.9,Severe Weakness,Poor,21.8,645,2.12,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+285b573d-d3a1-47e9-a03d-4cfcad4c6eee,79,Cortical,3,713,3.8,Intact,Poor,25.4,628,2.03,Diabetes,Standard Phacoemulsification
+0a89af31-f47e-48e7-8582-6acd2fbb24c5,61,Mixed,2,2098,3.0,Moderate Weakness,Good,24.3,610,0.32,Glaucoma,Standard Phacoemulsification
+831beb84-3672-4b99-a091-399634ffd858,84,Cortical,5,574,3.1,Mild Weakness,Poor,27.6,648,3.05,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+8e79b053-f37f-4da1-8a14-d09e02607cd5,47,Cortical,4,1149,2.2,Moderate Weakness,Good,21.3,532,1.81,None,Small Incision Cataract Surgery (Manual)
+994979f0-09cf-4aa7-ac6e-656fe1f867ce,47,Nuclear,3,822,3.8,Moderate Weakness,Poor,22.8,619,2.0,None,Standard Phacoemulsification
+156bdbb9-2772-4459-9f9f-f2d3beb37b42,49,Posterior Subcapsular,4,1112,3.3,Moderate Weakness,Fair,24.4,603,3.11,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+89d56104-6dbb-407a-a635-16f456246b78,59,Nuclear,5,1150,2.5,Mild Weakness,Good,23.5,510,2.31,Diabetes,Small Incision Cataract Surgery (Manual)
+b48afdac-fa3f-4af2-a471-59f3b38ceaeb,88,Mixed,4,1063,3.5,Severe Weakness,Good,22.7,512,2.01,Diabetes,Small Incision Cataract Surgery (Manual)
+ecd6c7e5-d315-4aa0-9892-7bd4e11c8602,81,Cortical,1,1481,2.6,Mild Weakness,Poor,27.7,633,3.39,None,Standard Phacoemulsification
+9490a842-02f5-4141-af29-dbfd0ff41dd4,63,Nuclear,2,2439,3.5,Severe Weakness,Fair,22.2,585,2.1,Diabetes,Extracapsular Cataract Extraction
+99057111-0848-43fd-a1b6-f90b62103af0,87,Posterior Subcapsular,2,2003,4.3,Intact,Good,23.6,513,0.38,None,Standard Phacoemulsification
+f3b29801-3af4-4152-98fe-788cfd1de4b0,71,Cortical,5,500,2.4,Intact,Poor,24.5,510,0.33,None,Small Incision Cataract Surgery (Manual)
+7ca1532b-55e3-488c-9706-8f0e63811f7d,45,Mixed,5,1723,2.9,Intact,Poor,24.7,538,3.28,None,Femtosecond Laser-Assisted Phacoemulsification
+e18f6c55-1af0-4280-94dd-a7c642ace843,92,Nuclear,4,748,2.6,Mild Weakness,Good,23.0,619,1.43,None,Small Incision Cataract Surgery (Manual)
+795c5e9e-733b-45c8-8612-2281219136c1,81,Nuclear,5,500,2.9,Mild Weakness,Poor,26.6,584,1.27,None,Small Incision Cataract Surgery (Manual)
+e2370496-a9ee-4c2e-b356-ff969ed7bc2e,79,Mixed,5,1497,3.5,Severe Weakness,Good,23.9,622,1.69,None,Small Incision Cataract Surgery (Manual)
+4ed89ca7-85ef-4f0c-bc82-9001b36bce66,64,Posterior Subcapsular,4,765,4.1,Intact,Poor,22.6,521,0.35,None,Small Incision Cataract Surgery (Manual)
+b932113b-106d-4a95-9829-142c3a005cbe,84,Nuclear,2,2193,4.4,Intact,Good,26.8,600,3.24,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+c44ac486-4fbb-4bc1-a37a-53939730605c,50,Nuclear,4,1841,3.5,Moderate Weakness,Poor,27.7,494,3.31,None,Femtosecond Laser-Assisted Phacoemulsification
+e24f610c-ed85-408f-aa53-efa8cd236cb3,57,Posterior Subcapsular,2,737,4.0,Mild Weakness,Poor,22.2,489,1.26,Diabetes,Standard Phacoemulsification
+f8d35bf4-ca32-48d0-80aa-1d0ab2a3ee3d,62,Mixed,3,2018,3.0,Mild Weakness,Poor,21.1,497,3.22,None,Standard Phacoemulsification
+c6432200-f589-441b-9813-7d3998942c65,82,Posterior Subcapsular,3,1532,2.6,Mild Weakness,Fair,27.5,627,0.02,None,Standard Phacoemulsification
+a507eae3-b2d2-45c3-abdb-4e950f5135f8,77,Posterior Subcapsular,3,879,4.0,Moderate Weakness,Poor,26.7,627,0.88,None,Standard Phacoemulsification
+0f7c9a86-7e57-484e-8b40-c7a1cbd8e005,60,Posterior Subcapsular,4,2087,4.2,Intact,Fair,21.8,497,1.34,None,Femtosecond Laser-Assisted Phacoemulsification
+b31bb3d3-2c67-4eb9-8fb7-9b34acdca219,65,Mixed,3,2515,3.3,Moderate Weakness,Good,23.0,582,2.36,Glaucoma,Standard Phacoemulsification
+ec9fd0a7-070d-42fa-aa7c-8b6a3b09adf0,75,Posterior Subcapsular,3,1295,4.2,Moderate Weakness,Good,27.6,528,1.75,None,Standard Phacoemulsification
+49a45786-86b2-4d73-a256-5be4e2cec4a3,58,Cortical,2,1622,4.1,Moderate Weakness,Good,26.5,510,3.22,None,Standard Phacoemulsification
+d1de6bf1-eca7-492b-bf4a-90827c95de3f,93,Nuclear,4,1720,3.6,Severe Weakness,Poor,27.1,605,0.64,None,Femtosecond Laser-Assisted Phacoemulsification
+35c0ea25-cdbc-4d2b-82b1-f2ebce4f02b9,93,Cortical,1,2953,4.0,Severe Weakness,Poor,21.2,568,1.38,None,Extracapsular Cataract Extraction
+d3cf3200-be12-4866-bd4c-17be3dc60aaf,89,Mixed,3,500,2.0,Mild Weakness,Fair,25.1,563,1.27,None,Standard Phacoemulsification
+ef6c4507-0634-45d7-8472-29744b39cdd5,62,Mixed,5,1405,2.9,Severe Weakness,Fair,22.5,575,1.28,None,Small Incision Cataract Surgery (Manual)
+2920bd13-67ec-4d73-97f0-a65545aebfc8,81,Cortical,1,1905,4.0,Severe Weakness,Fair,22.4,518,1.66,"Pseudoexfoliation,Diabetes",Intracapsular Cataract Extraction
+e191a8e9-a8b4-443b-a042-62d92831bfd7,85,Posterior Subcapsular,4,1428,2.6,Intact,Fair,21.7,521,0.21,None,Small Incision Cataract Surgery (Manual)
+2e1f7ef2-e036-412c-bd8b-457ee2fc7147,73,Posterior Subcapsular,3,1878,2.9,Moderate Weakness,Fair,21.1,511,1.23,None,Standard Phacoemulsification
+8fd6e6f5-e2d5-45c9-8fe7-f9905fcfb513,86,Cortical,3,1854,2.8,Severe Weakness,Poor,24.1,500,1.33,Diabetes,Extracapsular Cataract Extraction
+66fa97d5-d460-42c0-967a-693f5c706c33,55,Posterior Subcapsular,4,2541,3.0,Intact,Good,22.1,538,1.1,None,Femtosecond Laser-Assisted Phacoemulsification
+ebcf5467-24e4-4890-8889-4aef75dbce15,70,Posterior Subcapsular,4,1687,3.9,Severe Weakness,Fair,22.2,485,0.44,None,Femtosecond Laser-Assisted Phacoemulsification
+04044c00-d3cf-4ee2-b2bb-910b0965ebbb,92,Nuclear,2,1283,3.0,Intact,Good,27.6,601,1.92,Pseudoexfoliation,Standard Phacoemulsification
+5b319f1f-1148-49ca-9344-438af42f3d7a,50,Nuclear,3,1036,2.2,Severe Weakness,Fair,22.6,552,1.55,"Pseudoexfoliation,Diabetes",Intracapsular Cataract Extraction
+a33c9c6f-c757-4d33-a927-4446ed068945,47,Posterior Subcapsular,3,2350,3.2,Moderate Weakness,Poor,24.1,618,0.62,None,Standard Phacoemulsification
+07c1195d-600f-40cf-aec7-1ca63ce6ece7,81,Mixed,5,2186,2.8,Moderate Weakness,Fair,24.8,502,1.55,None,Femtosecond Laser-Assisted Phacoemulsification
+63450d9e-eccc-4d88-8a50-708e5fca3f24,45,Cortical,3,1574,3.2,Intact,Poor,27.5,602,1.05,None,Standard Phacoemulsification
+1e82a608-9638-4917-9975-03d688045b13,95,Nuclear,5,1530,2.5,Severe Weakness,Fair,22.7,645,1.36,None,Femtosecond Laser-Assisted Phacoemulsification
+1fb33e3f-1c53-46a7-abc8-455c42e6610d,60,Posterior Subcapsular,3,2578,4.0,Severe Weakness,Good,27.0,526,0.48,Pseudoexfoliation,Intracapsular Cataract Extraction
+738b83b9-d18e-49f2-8fa3-b7c67500cf84,89,Mixed,2,1913,2.0,Intact,Poor,21.2,506,0.99,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+12f8bf1c-3df3-441a-bc5f-48e6f5579a04,50,Cortical,1,2821,2.5,Severe Weakness,Fair,26.5,607,3.49,None,Extracapsular Cataract Extraction
+0ccca4ee-ba30-47e0-b8ae-e32ca6c4ddc4,93,Cortical,1,1891,3.9,Intact,Poor,24.3,529,3.13,Diabetes,Standard Phacoemulsification
+7cb5855e-7c40-4c53-8d9c-66b3f72ffd51,94,Cortical,4,2014,2.6,Intact,Good,24.2,504,1.82,None,Femtosecond Laser-Assisted Phacoemulsification
+8a891a2a-ef07-4735-9788-a4cf89b7008e,64,Posterior Subcapsular,2,772,3.9,Intact,Fair,24.4,556,0.7,None,Standard Phacoemulsification
+8864f9b3-195e-47a3-99de-423fa69b3263,52,Cortical,4,1529,2.0,Moderate Weakness,Poor,21.8,542,0.03,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+7bb4e9bb-5582-41c5-a0d6-8272734d3bc9,83,Cortical,3,766,2.6,Severe Weakness,Good,25.8,566,3.26,Diabetes,Extracapsular Cataract Extraction
+7cdd1e75-8a3a-4fd9-8531-7c0ea862c898,86,Cortical,5,500,2.3,Mild Weakness,Fair,27.9,645,2.65,Diabetes,Small Incision Cataract Surgery (Manual)
+f040dae4-1753-4bed-bd4d-17daa3691a7f,89,Mixed,3,951,2.6,Intact,Fair,25.9,623,1.03,Diabetes,Standard Phacoemulsification
+11e12256-7047-4b03-9d5e-0164cf93adba,67,Posterior Subcapsular,4,1327,4.2,Mild Weakness,Good,24.7,595,1.03,Diabetes,Small Incision Cataract Surgery (Manual)
+870c41d1-37d0-4770-a46b-892080e2f18b,85,Mixed,2,676,3.5,Moderate Weakness,Poor,22.7,496,2.3,None,Standard Phacoemulsification
+07b6b11c-60df-4fba-a984-998e0461fed2,76,Cortical,5,1159,2.8,Moderate Weakness,Good,21.7,648,0.23,None,Small Incision Cataract Surgery (Manual)
+a1997354-7de8-4955-92bd-a8985d1795ad,57,Nuclear,4,984,2.2,Severe Weakness,Poor,24.4,639,2.45,None,Small Incision Cataract Surgery (Manual)
+1ad677c8-3a95-4682-8816-b29b26d6966b,49,Nuclear,2,2612,4.3,Intact,Fair,26.6,495,1.26,None,Standard Phacoemulsification
+bc78d2fd-2591-4758-a79a-8245d830a1f2,95,Nuclear,5,1088,3.3,Intact,Fair,21.5,535,3.36,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+03bbfa6c-236d-4b59-ad64-50b70f23db53,57,Cortical,5,1018,3.4,Mild Weakness,Poor,26.2,586,2.61,None,Small Incision Cataract Surgery (Manual)
+5312c796-2cad-48cd-acba-9f720b972051,89,Mixed,1,1483,4.0,Severe Weakness,Poor,23.4,520,1.87,None,Extracapsular Cataract Extraction
+f7b5ea5b-a763-4def-afdb-16df939de356,80,Posterior Subcapsular,3,2088,3.9,Severe Weakness,Poor,23.3,541,1.97,None,Extracapsular Cataract Extraction
+d49e7ba0-0e48-4938-b7d0-3a5366c4ffc8,61,Posterior Subcapsular,4,2032,4.4,Intact,Poor,21.2,552,2.09,None,Femtosecond Laser-Assisted Phacoemulsification
+230198f1-d5c0-496e-9a21-65a2eb2b97c2,64,Cortical,2,1889,2.1,Moderate Weakness,Poor,24.6,626,3.24,Glaucoma,Standard Phacoemulsification
+cc19117d-86c9-4e50-9dbc-6d3f4c502613,53,Posterior Subcapsular,3,2784,2.6,Moderate Weakness,Fair,21.6,582,1.99,Glaucoma,Standard Phacoemulsification
+c749e059-72db-43bb-8af1-b1c28471790d,75,Cortical,4,2560,4.0,Intact,Poor,25.5,489,2.56,"Glaucoma,Diabetes",Femtosecond Laser-Assisted Phacoemulsification
+7d8cf84d-9849-4a98-91ea-e667aee8d54a,94,Posterior Subcapsular,3,2178,3.0,Intact,Good,26.2,634,3.25,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+d50fead4-1835-42e7-a0c8-74b0bd149d1d,78,Nuclear,3,2611,3.4,Moderate Weakness,Poor,25.9,519,0.18,None,Standard Phacoemulsification
+287e4fc2-38d2-46b6-aad8-0fd3f93fc30a,83,Nuclear,2,2369,2.7,Severe Weakness,Good,21.9,501,1.67,None,Extracapsular Cataract Extraction
+164884ab-da5f-464a-9594-052f7ad25bb2,70,Mixed,2,1152,3.2,Mild Weakness,Fair,23.8,626,0.69,None,Standard Phacoemulsification
+162c8ff3-f433-4eb4-a790-3f5a1fcac09f,49,Posterior Subcapsular,4,1524,3.7,Intact,Good,25.7,588,1.28,None,Femtosecond Laser-Assisted Phacoemulsification
+049238f5-b188-4205-acf4-bb09cc339ec0,94,Posterior Subcapsular,2,2032,3.5,Severe Weakness,Poor,22.0,491,3.23,Diabetes,Extracapsular Cataract Extraction
+2b825f3d-3a85-4710-bcf0-59b867790913,91,Nuclear,1,1023,2.6,Mild Weakness,Fair,21.1,508,1.07,None,Standard Phacoemulsification
+a2ac7c1b-766c-4ae9-a206-f4deb0719134,58,Cortical,5,2143,3.9,Severe Weakness,Poor,26.1,516,2.43,None,Femtosecond Laser-Assisted Phacoemulsification
+b4874f67-6dd1-4865-9583-354df16be628,78,Nuclear,3,1097,2.2,Mild Weakness,Poor,25.3,493,1.63,Glaucoma,Standard Phacoemulsification
+1b4a67b6-7cf1-4706-a825-5bb159e633ed,87,Posterior Subcapsular,1,878,2.7,Severe Weakness,Good,27.9,610,3.42,Pseudoexfoliation,Intracapsular Cataract Extraction
+dc33158a-0733-4342-8c48-f95002acb6dc,79,Nuclear,2,1414,3.3,Severe Weakness,Poor,27.5,485,0.14,None,Extracapsular Cataract Extraction
+a07f88b4-7387-455c-a5e2-3c8a282b3417,92,Cortical,1,2220,3.7,Moderate Weakness,Poor,23.1,608,0.97,Pseudoexfoliation,Standard Phacoemulsification
+728cc6d4-c0f4-4a60-bc15-a98bcc5ec6d5,46,Posterior Subcapsular,2,1221,2.9,Severe Weakness,Poor,22.0,577,1.82,None,Extracapsular Cataract Extraction
+b4d8d760-cff6-4ca9-a917-ea4b065bb5cb,71,Cortical,5,625,3.1,Moderate Weakness,Poor,23.3,618,0.46,None,Small Incision Cataract Surgery (Manual)
+3f3ba777-2e3e-45d8-9f7a-a254fe2969dd,57,Cortical,3,2545,4.3,Severe Weakness,Good,25.6,624,3.21,None,Extracapsular Cataract Extraction
+53250602-34e0-42bc-bfcb-93ac8f6e09c4,52,Cortical,3,996,3.8,Moderate Weakness,Fair,27.7,557,1.55,None,Standard Phacoemulsification
+fed114f0-9ce9-4cf0-8244-35164a32aa7b,62,Cortical,2,1037,2.3,Intact,Poor,25.3,635,1.98,None,Small Incision Cataract Surgery (Manual)
+2da22b03-d1fd-4b8e-84e8-4cbc23927109,67,Nuclear,4,749,3.3,Severe Weakness,Poor,25.5,527,2.98,Diabetes,Small Incision Cataract Surgery (Manual)
+8168ea60-a544-426c-8979-7cfa215805e6,47,Mixed,1,1905,4.4,Mild Weakness,Poor,25.7,531,2.65,Pseudoexfoliation,Standard Phacoemulsification
+08045ddc-6572-498b-af5a-9dc09d07a3f3,84,Mixed,3,2274,4.2,Severe Weakness,Fair,26.4,635,2.57,None,Extracapsular Cataract Extraction
+ab68e44d-79a3-453e-b61a-c0270adda4f7,92,Nuclear,5,500,3.1,Intact,Good,24.6,581,3.44,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+4f6847de-c3c9-4688-9ae6-61724ab5f4d7,48,Cortical,3,2200,3.0,Moderate Weakness,Fair,24.2,588,1.03,None,Standard Phacoemulsification
+3e82816b-72e7-42ab-af4e-c610d60b54c3,74,Mixed,1,2850,2.3,Mild Weakness,Fair,23.9,595,0.09,None,Standard Phacoemulsification
+ac3985af-d658-47c8-a07b-84510dd806e0,74,Nuclear,3,1727,3.7,Mild Weakness,Poor,26.1,503,0.4,None,Standard Phacoemulsification
+9590f66e-9254-44e4-8451-9e4aca364307,69,Cortical,4,2454,3.0,Mild Weakness,Fair,25.0,648,3.02,None,Femtosecond Laser-Assisted Phacoemulsification
+6e9ad152-dd63-4712-a43b-a32215d5fbd1,48,Mixed,3,1667,3.8,Severe Weakness,Fair,25.4,510,3.14,Glaucoma,Extracapsular Cataract Extraction
+89674e3e-f505-45ca-bbdb-35e684806e83,45,Mixed,4,2242,3.4,Intact,Poor,27.2,540,0.76,None,Femtosecond Laser-Assisted Phacoemulsification
+29b29c6f-df51-4214-85e0-d7bcae01146f,83,Nuclear,2,2841,2.7,Mild Weakness,Good,22.3,494,2.29,Pseudoexfoliation,Standard Phacoemulsification
+5c84a066-b893-4846-a992-72d18ff23490,83,Posterior Subcapsular,3,759,2.1,Severe Weakness,Good,22.1,552,2.14,None,Extracapsular Cataract Extraction
+ca1cd87b-c8e6-47f4-bbee-13bf52573fba,56,Mixed,5,1475,4.3,Intact,Fair,23.3,577,2.87,Diabetes,Small Incision Cataract Surgery (Manual)
+8646fc42-00c8-43cd-9629-9d5432fc671c,75,Cortical,1,1924,2.8,Severe Weakness,Poor,22.5,533,2.14,Pseudoexfoliation,Intracapsular Cataract Extraction
+92fdc223-5687-4b86-832c-c648a77cfcfb,50,Mixed,5,1176,3.1,Moderate Weakness,Fair,24.7,639,1.24,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+4029cf43-d30a-4e04-8d07-6e3a5cef1741,85,Mixed,4,936,4.2,Mild Weakness,Poor,23.0,529,0.01,"Pseudoexfoliation,Diabetes",Small Incision Cataract Surgery (Manual)
+ed0328b9-9b3e-4566-869c-ff55cdd6698e,58,Mixed,4,500,2.8,Mild Weakness,Good,25.5,552,0.89,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+6b164474-a9d5-4297-b0ec-c414cecd76db,94,Nuclear,1,2165,2.9,Intact,Good,22.4,566,3.23,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+a4a742aa-0312-4aa6-9268-f180ffb898e6,53,Mixed,2,2486,4.2,Moderate Weakness,Fair,26.5,585,3.25,Pseudoexfoliation,Standard Phacoemulsification
+88ca7a66-5f99-4f85-8027-c6e34068135f,88,Posterior Subcapsular,5,2194,2.0,Moderate Weakness,Fair,21.5,518,0.98,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+2b3220dc-0d86-4f33-a939-bbe904a14eaa,55,Mixed,2,3037,2.3,Moderate Weakness,Poor,27.0,488,0.95,Pseudoexfoliation,Standard Phacoemulsification
+b2d34f13-3776-4982-9180-77b248891d9e,64,Cortical,5,1238,2.4,Moderate Weakness,Good,26.4,503,1.55,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+6b3258de-035e-43ed-8df1-36ce4000a086,57,Posterior Subcapsular,4,2344,2.8,Moderate Weakness,Good,26.4,505,2.88,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+7eb9917d-a8b7-41a1-b09f-d09454eb31bd,91,Nuclear,4,1787,3.8,Intact,Good,23.2,491,2.4,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+e2c9600a-f44b-426b-bae0-74da9eab760c,47,Nuclear,5,1279,2.1,Moderate Weakness,Poor,27.2,562,0.7,None,Small Incision Cataract Surgery (Manual)
+ac9d102e-6182-49e6-a3dc-94f533f04a16,87,Nuclear,3,1011,2.4,Intact,Good,27.7,623,1.8,None,Small Incision Cataract Surgery (Manual)
+4c614e95-fa52-4894-8a48-44d2e334bfd0,54,Posterior Subcapsular,5,1002,2.4,Moderate Weakness,Poor,27.2,618,1.55,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+b8b6d3a2-1917-40be-bd8e-5cc2518ec0d8,51,Mixed,1,1152,3.1,Mild Weakness,Poor,25.2,631,2.2,None,Standard Phacoemulsification
+56b0e055-bc96-46ee-b635-ad3412242c8d,66,Cortical,5,500,4.4,Severe Weakness,Poor,21.9,599,0.34,None,Small Incision Cataract Surgery (Manual)
+87a9560a-eab8-4f6a-93f5-0526d69a6d30,75,Cortical,2,1188,4.2,Moderate Weakness,Fair,23.7,650,1.16,None,Standard Phacoemulsification
+de714823-d892-44b8-80bf-8e7d6278bec4,49,Mixed,1,2239,3.2,Mild Weakness,Fair,26.4,634,2.01,None,Standard Phacoemulsification
+65137bad-b266-4d3f-9814-08536c9dc52b,51,Posterior Subcapsular,5,500,4.0,Severe Weakness,Fair,25.1,541,2.17,None,Small Incision Cataract Surgery (Manual)
+10ce6ef6-e2ab-4e54-bb0d-bc2316cd2be8,66,Cortical,5,1765,4.0,Severe Weakness,Poor,26.5,619,2.43,None,Femtosecond Laser-Assisted Phacoemulsification
+1719e641-3178-440c-a649-faf9dbb79f22,90,Mixed,1,3225,3.5,Moderate Weakness,Poor,21.7,593,0.62,"Glaucoma,Diabetes",Standard Phacoemulsification
+a8c485a1-0cf9-443a-8219-14a538cbe62d,83,Mixed,3,2424,3.6,Intact,Good,22.5,515,3.11,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+4b724173-c374-4007-b090-33b1c0a152db,54,Cortical,4,2376,2.7,Severe Weakness,Good,22.4,561,1.05,None,Femtosecond Laser-Assisted Phacoemulsification
+c7b8ebcb-5e16-4f3f-87df-b0203c9d07ae,72,Posterior Subcapsular,1,3186,2.0,Severe Weakness,Good,27.0,495,1.29,Glaucoma,Extracapsular Cataract Extraction
+c94e150e-f3c0-48fa-8f07-afc332ea2e17,67,Nuclear,3,527,2.6,Severe Weakness,Poor,23.2,577,1.42,Diabetes,Extracapsular Cataract Extraction
+4905f5d4-4f6a-4e12-a366-1544fde65ce5,53,Cortical,5,1575,4.1,Moderate Weakness,Fair,22.1,512,0.47,"Pseudoexfoliation,Glaucoma",Femtosecond Laser-Assisted Phacoemulsification
+fcf81931-e54f-441c-b207-872f124f18d1,76,Mixed,2,946,2.3,Severe Weakness,Fair,27.3,634,3.26,None,Extracapsular Cataract Extraction
+83b5f2a7-c819-47b7-8b43-6c572ce94f4d,73,Mixed,3,1324,2.5,Intact,Poor,24.5,540,2.49,None,Standard Phacoemulsification
+ed3d6e5e-0b96-477f-824d-15396d845ca6,47,Nuclear,5,1979,3.8,Intact,Poor,24.4,500,0.5,None,Femtosecond Laser-Assisted Phacoemulsification
+17eea450-e978-420a-97f8-cb1f7992457a,94,Posterior Subcapsular,4,2317,2.2,Intact,Good,24.3,649,3.36,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+9aa82173-451a-40c8-b668-48e624327140,64,Nuclear,3,2591,3.9,Severe Weakness,Fair,24.6,600,2.01,None,Extracapsular Cataract Extraction
+ed948010-cae3-42b8-97bb-fed4d4c95057,63,Posterior Subcapsular,2,744,3.7,Moderate Weakness,Poor,26.5,546,0.21,Diabetes,Standard Phacoemulsification
+5e968ea2-ba7e-4af5-a9ae-59cd92d1be91,63,Nuclear,3,2385,2.2,Intact,Fair,22.8,637,0.98,"Glaucoma,Diabetes",Small Incision Cataract Surgery (Manual)
+fcb28b86-b92a-4800-8c88-034360725965,56,Cortical,4,1714,4.0,Moderate Weakness,Poor,22.7,526,2.8,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+8967d6fa-2ed5-4468-84f6-995bde243642,54,Cortical,4,1891,3.9,Mild Weakness,Poor,24.1,643,0.59,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+eb94c718-9062-4f95-9a88-ec3837f83edf,61,Nuclear,1,1486,3.2,Severe Weakness,Fair,24.3,616,0.82,None,Extracapsular Cataract Extraction
+1f24fba7-1d1c-4cf3-ae5e-8bc3637f9c76,78,Mixed,1,1982,4.3,Severe Weakness,Fair,25.7,615,2.39,Pseudoexfoliation,Intracapsular Cataract Extraction
+9a7968d9-dd2e-4bf5-8af5-8981a769fda2,72,Posterior Subcapsular,3,1507,2.7,Intact,Fair,25.6,580,1.61,None,Femtosecond Laser-Assisted Phacoemulsification
+b6a725b6-c3ef-4185-8e0a-1d562e635b89,94,Cortical,5,1382,3.7,Mild Weakness,Fair,24.8,482,2.91,"Pseudoexfoliation,Glaucoma,Diabetes",Small Incision Cataract Surgery (Manual)
+5e2e8372-fb7b-4322-8a13-a1af9752ea80,73,Posterior Subcapsular,2,1760,2.6,Intact,Good,25.3,494,3.28,None,Femtosecond Laser-Assisted Phacoemulsification
+cc8633fe-5013-4164-a7fe-530258978a4f,85,Nuclear,1,1153,4.1,Mild Weakness,Fair,25.6,645,1.98,None,Standard Phacoemulsification
+27764bc7-1d3e-45bd-896f-59203008fa6d,61,Posterior Subcapsular,4,510,3.6,Moderate Weakness,Fair,25.8,650,2.69,Diabetes,Small Incision Cataract Surgery (Manual)
+9c71b149-b274-4e7f-86cf-9af9a6dfad6e,94,Nuclear,4,1791,2.8,Intact,Fair,27.7,547,0.62,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+ac2eec8a-ac7e-4bc8-a713-e6efaceb79f3,70,Cortical,4,644,2.4,Severe Weakness,Good,25.3,507,3.19,Diabetes,Small Incision Cataract Surgery (Manual)
+d5e83773-b82c-4f69-bdf2-a2fab7f94566,81,Posterior Subcapsular,4,500,4.2,Mild Weakness,Poor,25.5,489,2.33,None,Small Incision Cataract Surgery (Manual)
+d92ed3c1-40fe-4017-aa95-a9e68a96a81a,81,Nuclear,5,2009,3.2,Severe Weakness,Poor,26.5,497,1.89,Pseudoexfoliation,Intracapsular Cataract Extraction
+0304326d-fd5b-4f1e-824b-ec0c5d3f7841,75,Nuclear,5,2192,4.3,Moderate Weakness,Fair,25.8,582,0.19,None,Femtosecond Laser-Assisted Phacoemulsification
+bfd6fc2a-102c-435c-aff2-895c1528c084,66,Nuclear,4,1387,3.6,Mild Weakness,Poor,21.3,578,2.31,Diabetes,Small Incision Cataract Surgery (Manual)
+7220864e-c4cb-4421-bd77-4fa4237d14d2,89,Posterior Subcapsular,4,547,4.2,Severe Weakness,Poor,22.3,489,0.68,None,Small Incision Cataract Surgery (Manual)
+7749cc98-bd2f-45b1-9444-161102d15ddd,49,Posterior Subcapsular,4,2387,4.4,Severe Weakness,Good,21.3,494,1.18,None,Femtosecond Laser-Assisted Phacoemulsification
+5022b1be-1f14-4c09-b69f-c1183133a122,86,Mixed,5,610,3.9,Mild Weakness,Good,21.3,516,1.71,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+155f3516-96d4-4e91-9a01-d60cd8e9f499,60,Cortical,1,1505,3.6,Moderate Weakness,Good,24.2,523,2.92,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+ffa7d72d-194c-4604-a7f8-5fc2d8c42f7b,83,Cortical,1,1630,3.1,Severe Weakness,Fair,21.8,627,1.91,None,Extracapsular Cataract Extraction
+c6f9d696-ebff-4793-aec0-f50b31d8eaf8,47,Cortical,3,658,2.3,Mild Weakness,Fair,22.2,574,1.94,Diabetes,Standard Phacoemulsification
+caea0fec-a13c-4d72-887a-a66fb3c91ecc,51,Mixed,2,664,4.2,Intact,Good,21.1,502,2.47,None,Femtosecond Laser-Assisted Phacoemulsification
+7d1d2af0-2cbf-44c4-bf26-b8c647de0e42,95,Mixed,2,1444,2.4,Moderate Weakness,Poor,24.2,541,3.28,"Glaucoma,Diabetes",Standard Phacoemulsification
+f6f718db-560b-48aa-b66f-a3fe93ffbc3a,76,Nuclear,3,1824,3.0,Mild Weakness,Good,21.8,615,3.42,None,Standard Phacoemulsification
+bb5da86a-814c-45cd-818a-b003a3494b1c,77,Cortical,4,1052,2.7,Mild Weakness,Good,26.6,601,1.74,Diabetes,Small Incision Cataract Surgery (Manual)
+1247a6f6-15d0-4bf4-90ff-c7460a85a140,68,Posterior Subcapsular,2,2380,2.6,Severe Weakness,Good,21.7,493,3.24,None,Extracapsular Cataract Extraction
+17dae5da-5d4d-4fee-b87c-e84dcb6ed8e7,52,Nuclear,2,2421,3.5,Moderate Weakness,Fair,22.4,563,0.81,Pseudoexfoliation,Standard Phacoemulsification
+35cab74f-617b-48bb-bc59-b83655f67536,71,Cortical,4,1103,2.2,Severe Weakness,Good,27.2,517,0.76,None,Small Incision Cataract Surgery (Manual)
+4a2626f2-ed83-4291-a966-7c47cc014af0,74,Cortical,3,1504,2.5,Mild Weakness,Good,25.8,495,0.98,Pseudoexfoliation,Standard Phacoemulsification
+7dc4c61b-604f-43f8-84ba-590e0ecbf7b8,93,Posterior Subcapsular,2,1808,3.5,Mild Weakness,Poor,27.8,538,0.3,None,Standard Phacoemulsification
+7be4c7ea-5c68-42a1-ba44-5e8427de4799,82,Mixed,4,1343,2.0,Severe Weakness,Poor,27.1,543,1.15,None,Small Incision Cataract Surgery (Manual)
+e4a6702b-2e63-4390-a979-9a2f7991a5f9,54,Nuclear,4,500,2.1,Severe Weakness,Poor,26.4,488,1.49,None,Small Incision Cataract Surgery (Manual)
+97b3631b-a3bc-4cf9-9d74-34804df2cf34,51,Mixed,4,1185,2.2,Intact,Poor,26.1,535,0.46,Diabetes,Small Incision Cataract Surgery (Manual)
+5b155146-46d4-4e5f-aab3-bc55b9f5d833,75,Posterior Subcapsular,2,2481,4.1,Intact,Fair,24.2,515,3.06,None,Femtosecond Laser-Assisted Phacoemulsification
+ea160541-9fa2-45b5-afa2-5253e749a99f,74,Nuclear,1,2376,4.2,Moderate Weakness,Poor,21.2,589,2.64,None,Standard Phacoemulsification
+df8f8314-7eb3-4835-91d2-fd7f550f3dd9,58,Nuclear,5,1375,3.8,Intact,Poor,27.6,573,3.11,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+d631beab-7721-4cbb-80cd-8c4bdab2aa3c,68,Posterior Subcapsular,2,2888,3.8,Mild Weakness,Good,27.9,541,1.89,None,Standard Phacoemulsification
+79c8afbb-fdff-4d5a-b998-841805627e2b,89,Cortical,2,1912,2.9,Moderate Weakness,Poor,25.8,550,0.19,None,Standard Phacoemulsification
+d0c1daba-96e6-4300-bf16-7709a5076979,52,Mixed,5,2182,4.2,Severe Weakness,Poor,23.6,496,0.66,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+34ce11d1-bdaa-4c52-917f-0327d6e224ef,56,Posterior Subcapsular,1,1247,2.4,Intact,Poor,22.0,518,3.06,None,Small Incision Cataract Surgery (Manual)
+9504c040-22bb-48d5-8a5a-15050200312a,88,Cortical,4,1620,3.1,Intact,Fair,22.3,485,3.05,None,Femtosecond Laser-Assisted Phacoemulsification
+4638468f-0270-4a4e-be7b-95481db02cb5,71,Posterior Subcapsular,3,2391,3.5,Severe Weakness,Fair,23.1,513,3.14,None,Extracapsular Cataract Extraction
+94fdd73a-ddd6-4f51-bd04-908da65f0ea0,68,Posterior Subcapsular,1,1407,2.9,Severe Weakness,Good,25.3,521,2.49,None,Extracapsular Cataract Extraction
+95eaa82a-fc0b-4346-9624-04c58cfe860f,89,Cortical,2,1574,2.3,Moderate Weakness,Poor,21.9,546,1.29,None,Standard Phacoemulsification
+abe85164-ec5f-4aeb-9a9a-d57a24145afd,67,Cortical,3,2236,3.3,Mild Weakness,Poor,23.1,486,1.42,None,Standard Phacoemulsification
+36514913-3464-4d43-b9ef-5ca889b09fe0,65,Cortical,1,3037,4.4,Moderate Weakness,Poor,25.9,601,3.14,None,Standard Phacoemulsification
+e351d457-cdaa-49ca-94f5-019098937b66,87,Cortical,5,1810,2.8,Intact,Poor,24.4,490,0.49,None,Femtosecond Laser-Assisted Phacoemulsification
+8c3dc1cb-8f71-4b19-8517-6498929f16a9,59,Mixed,3,778,2.8,Mild Weakness,Poor,24.7,551,0.69,Pseudoexfoliation,Standard Phacoemulsification
+d9d012b7-ced3-4921-bd0a-ebb4d381703c,50,Mixed,2,2608,2.8,Intact,Poor,23.5,517,2.51,Diabetes,Standard Phacoemulsification
+1560b9ea-02d1-4b39-8573-30a61c43b87c,67,Posterior Subcapsular,3,2225,4.2,Intact,Good,26.1,593,2.6,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+cbec7b9b-fee7-4413-8217-4fae75839036,91,Mixed,4,771,4.1,Intact,Good,22.5,601,3.46,None,Small Incision Cataract Surgery (Manual)
+9a64fc47-f98f-46e3-abaa-1d8b01815b82,82,Mixed,1,827,3.0,Moderate Weakness,Fair,22.2,598,2.49,Diabetes,Standard Phacoemulsification
+c24b1184-75f0-4dad-8aab-a7a564e1fc61,69,Posterior Subcapsular,5,2009,2.1,Moderate Weakness,Poor,23.1,623,2.59,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+6c04c740-5945-4ccd-9061-12aa4b5791cc,64,Mixed,1,1978,3.0,Severe Weakness,Poor,25.5,487,0.42,Diabetes,Extracapsular Cataract Extraction
+33b16cd5-f83b-42dd-b681-adafd26b6a4e,92,Posterior Subcapsular,5,1968,3.4,Moderate Weakness,Poor,25.8,510,1.31,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+66c7f4fb-d151-49cb-8cb1-4047181dd897,82,Nuclear,2,1909,3.2,Mild Weakness,Fair,22.1,549,1.26,Diabetes,Standard Phacoemulsification
+7788d7d6-0602-4277-af38-099c70236a98,63,Nuclear,5,793,3.9,Mild Weakness,Good,25.2,522,1.9,None,Small Incision Cataract Surgery (Manual)
+1aa68dba-a6bc-4222-b274-147ab63b29db,64,Posterior Subcapsular,3,792,3.3,Moderate Weakness,Good,21.1,612,0.98,None,Standard Phacoemulsification
+d6a488a5-8614-4f02-9f33-fa557499419d,55,Nuclear,2,1233,3.3,Mild Weakness,Poor,25.3,614,2.96,None,Standard Phacoemulsification
+17b80cf2-4c55-47ee-b8c8-b27db01bebb8,71,Mixed,1,1277,4.0,Intact,Fair,23.4,572,0.49,None,Standard Phacoemulsification
+891e1f4f-8739-4f13-97a5-528d1e9bc2b5,66,Cortical,3,517,3.9,Intact,Good,21.9,516,2.41,None,Femtosecond Laser-Assisted Phacoemulsification
+168fd4ac-82b5-4923-897b-255e983ba50f,72,Nuclear,1,877,3.9,Severe Weakness,Good,22.4,488,2.78,"Glaucoma,Diabetes",Extracapsular Cataract Extraction
+435f4ef2-e7bf-4b4c-98f3-88ae908514e5,61,Nuclear,1,2035,3.7,Intact,Good,27.4,532,2.06,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+d4f8f06c-cdf1-4086-bbb6-66ccfaf3cdf8,54,Posterior Subcapsular,5,1424,2.9,Mild Weakness,Poor,25.0,505,2.87,None,Small Incision Cataract Surgery (Manual)
+3f14909b-3a8e-48bc-93fd-659e1dbf3749,63,Cortical,5,500,4.4,Intact,Good,27.4,601,1.28,None,Small Incision Cataract Surgery (Manual)
+9ffdfb24-4b37-45b7-9b2b-63bd80810436,56,Posterior Subcapsular,4,1937,2.5,Mild Weakness,Fair,21.8,560,0.43,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+845d77b1-2868-4b56-bd8b-c73a4f9f2e6a,90,Posterior Subcapsular,5,500,2.2,Severe Weakness,Good,23.7,596,2.1,None,Small Incision Cataract Surgery (Manual)
+a774b5e7-abed-486c-99fa-7bcf27ad008b,80,Mixed,3,2152,2.5,Intact,Fair,27.6,574,0.63,Diabetes,Standard Phacoemulsification
+085d25e8-1a13-4fea-beb1-f41a03115586,73,Nuclear,1,1387,3.0,Intact,Poor,27.5,523,0.23,None,Standard Phacoemulsification
+87e91b2e-5760-4dcf-af5b-b4bbd2d0b8bb,70,Nuclear,2,2339,3.8,Moderate Weakness,Poor,26.4,631,0.96,None,Standard Phacoemulsification
+1b3e4e2a-87ac-4e27-a109-215ab7537254,75,Mixed,4,2294,2.7,Severe Weakness,Good,21.9,605,1.74,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+6e62a07d-28ed-4289-bcf2-97aaedc24a47,48,Nuclear,4,500,4.4,Severe Weakness,Poor,25.8,519,1.06,None,Small Incision Cataract Surgery (Manual)
+d2962eb6-6a91-407a-b9c1-87504c7b4116,78,Mixed,4,1027,2.7,Severe Weakness,Fair,24.5,618,1.2,None,Small Incision Cataract Surgery (Manual)
+b4f791d7-afb5-4940-baab-94af72f828fd,47,Mixed,1,2371,3.1,Severe Weakness,Fair,24.2,488,0.62,None,Extracapsular Cataract Extraction
+0fd248e6-6406-4d4e-8774-8370efeb65e6,55,Mixed,4,750,2.8,Severe Weakness,Fair,26.3,625,2.36,None,Small Incision Cataract Surgery (Manual)
+c8b5228c-8c29-4f0f-b9e8-ee24e4631d0b,75,Cortical,5,500,3.0,Severe Weakness,Poor,27.8,637,2.37,Diabetes,Small Incision Cataract Surgery (Manual)
+8aadc661-7448-45ca-a26e-853657188497,82,Nuclear,2,2100,2.9,Intact,Poor,23.4,504,1.5,Diabetes,Standard Phacoemulsification
+7f707ca2-0a5e-4b94-95bf-9b117acf79a2,60,Cortical,2,1878,3.5,Intact,Fair,21.8,523,0.07,None,Standard Phacoemulsification
+a6d4735b-3153-446a-87fe-4fa9ed279c50,81,Mixed,3,500,3.7,Intact,Fair,23.6,579,1.13,Pseudoexfoliation,Standard Phacoemulsification
+464e86b0-5538-4e83-8b3f-6b318aaa21a1,58,Posterior Subcapsular,4,2259,4.0,Moderate Weakness,Good,25.3,573,3.39,None,Femtosecond Laser-Assisted Phacoemulsification
+eb7ba840-1bd1-4c4c-b963-c930891c8bfb,49,Cortical,3,1486,2.1,Severe Weakness,Good,25.4,503,2.51,None,Extracapsular Cataract Extraction
+0468f8d7-658f-4b57-a328-c45fd8cca786,81,Mixed,4,1059,2.9,Intact,Poor,26.8,609,2.81,None,Small Incision Cataract Surgery (Manual)
+c5e2f779-0610-47db-bba9-4fa53074ef53,70,Posterior Subcapsular,5,2110,3.1,Mild Weakness,Good,25.4,612,3.02,None,Femtosecond Laser-Assisted Phacoemulsification
+95d5aa18-c8df-464b-a4f8-2354915d31de,92,Mixed,3,2582,4.0,Severe Weakness,Poor,26.1,495,1.83,Diabetes,Extracapsular Cataract Extraction
+25d393b2-9e2c-4848-b04a-f9241a103922,88,Posterior Subcapsular,4,1880,2.8,Intact,Poor,22.4,585,0.93,None,Femtosecond Laser-Assisted Phacoemulsification
+f71bf408-e748-4b98-8dd3-45d25ffe91b9,60,Mixed,2,1065,2.4,Intact,Good,26.6,559,1.62,None,Small Incision Cataract Surgery (Manual)
+05372630-71db-48dd-8299-fa0c11fcdd61,47,Cortical,2,1717,2.3,Moderate Weakness,Fair,25.6,525,2.26,Pseudoexfoliation,Standard Phacoemulsification
+534300d5-2a99-4e9c-81d0-28f58db42456,48,Nuclear,3,2864,2.7,Intact,Fair,27.3,648,3.1,None,Femtosecond Laser-Assisted Phacoemulsification
+3abc9d9b-86ae-4bbb-a907-9d92f299af4a,60,Nuclear,5,2049,4.3,Moderate Weakness,Fair,27.2,540,2.1,None,Femtosecond Laser-Assisted Phacoemulsification
+985d9394-8590-4459-9475-51977662b11f,92,Mixed,2,2332,2.5,Intact,Good,22.5,550,1.54,None,Femtosecond Laser-Assisted Phacoemulsification
+ff30d4c2-363e-4b1d-a84b-ee773afb7952,68,Nuclear,3,2635,3.1,Mild Weakness,Fair,27.2,517,1.27,Diabetes,Standard Phacoemulsification
+acae5eb0-35d1-4a04-8b2b-3aaf8bfd8f25,83,Nuclear,1,1781,2.6,Severe Weakness,Fair,25.5,572,3.16,None,Extracapsular Cataract Extraction
+62571234-f7e4-4442-87fa-85e8fb588eab,73,Mixed,1,2409,4.3,Moderate Weakness,Fair,21.6,540,1.04,None,Standard Phacoemulsification
+5bc424ae-d086-4511-81c8-ca8d6f95cbd3,65,Mixed,1,1922,4.2,Severe Weakness,Fair,26.2,565,2.51,None,Extracapsular Cataract Extraction
+6d3bd494-0b07-4c4a-9b0a-f35b86095074,89,Posterior Subcapsular,5,500,2.9,Moderate Weakness,Fair,25.9,493,2.24,None,Small Incision Cataract Surgery (Manual)
+35cdaa6e-c6d4-4dd8-b9ea-694b386b2524,45,Mixed,2,1851,2.8,Intact,Good,22.1,612,2.5,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+2044234d-88de-4209-aebf-08f0f9fd01a2,83,Mixed,3,2249,3.2,Mild Weakness,Fair,22.2,631,2.89,None,Standard Phacoemulsification
+8f3aaff1-ebab-439e-9b89-fe0cd270f899,56,Mixed,4,2536,2.6,Intact,Poor,25.5,640,0.8,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+625573cd-0f40-4930-9fef-b3da81b31ae9,55,Nuclear,4,1956,3.5,Mild Weakness,Good,27.7,523,3.32,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+2ce4389d-e889-4789-9a15-83701b559b5b,74,Mixed,1,1719,3.8,Mild Weakness,Fair,23.0,606,1.34,None,Standard Phacoemulsification
+91578614-3f0f-4182-98de-680396c84f11,63,Cortical,4,938,3.0,Mild Weakness,Good,23.0,547,0.82,None,Small Incision Cataract Surgery (Manual)
+4efed9f9-a072-4321-a0ab-4c1e495d9d94,86,Mixed,1,842,3.2,Moderate Weakness,Poor,23.8,534,2.5,None,Standard Phacoemulsification
+a627c779-21fa-4002-8c6a-53dd754e7e15,51,Nuclear,1,2163,4.3,Severe Weakness,Fair,28.0,633,2.48,Glaucoma,Extracapsular Cataract Extraction
+081d8a47-2b26-43c0-a95d-f57917a36ce4,69,Posterior Subcapsular,4,1719,2.3,Intact,Poor,22.3,523,1.76,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+806e6ea6-aa55-458d-bb8a-32f03d1a1ce2,65,Mixed,2,1666,2.3,Intact,Good,24.5,551,2.62,None,Small Incision Cataract Surgery (Manual)
+48db4234-b8f9-4a06-8529-16f86fc6f089,84,Posterior Subcapsular,5,1282,3.1,Mild Weakness,Fair,26.2,605,2.67,None,Small Incision Cataract Surgery (Manual)
+2a4dcc67-cc73-4705-8795-88c26309d0bf,73,Nuclear,2,1208,2.1,Mild Weakness,Good,24.3,521,2.47,None,Standard Phacoemulsification
+217eb63b-3468-492f-af0f-9a8244725472,47,Mixed,3,2697,3.2,Severe Weakness,Good,26.9,517,0.43,"Pseudoexfoliation,Diabetes",Intracapsular Cataract Extraction
+6ca86a81-6d9e-481c-ae6b-a89188a0c6e6,55,Posterior Subcapsular,5,2398,2.5,Intact,Poor,26.4,526,1.46,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+04ba32c8-c820-47bc-b959-b6ab167f2eda,66,Nuclear,3,899,3.0,Intact,Fair,22.1,500,1.61,None,Femtosecond Laser-Assisted Phacoemulsification
+9f6ec69e-039a-411b-89a5-5b4dbde1a3c0,62,Nuclear,3,579,3.6,Severe Weakness,Fair,27.6,625,0.45,None,Extracapsular Cataract Extraction
+f9d5db75-317b-45fa-a531-58083989c576,48,Nuclear,5,2466,3.0,Severe Weakness,Fair,22.2,582,0.31,None,Femtosecond Laser-Assisted Phacoemulsification
+d8f256c5-f16d-4ef6-8f82-5e9d996ef6f2,63,Cortical,1,2022,3.2,Severe Weakness,Poor,26.6,559,3.16,Diabetes,Extracapsular Cataract Extraction
+c71dda2f-b763-4567-a1a3-a6fdc538f0c5,68,Cortical,4,2024,4.2,Severe Weakness,Fair,24.9,588,0.32,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+d78b7cf0-4394-45bd-aa8b-2bdbdf68a151,85,Mixed,1,965,3.3,Severe Weakness,Poor,22.6,519,3.26,Diabetes,Extracapsular Cataract Extraction
+96828555-ebb8-450e-b391-e9ea944ef6ab,74,Mixed,1,2756,2.8,Mild Weakness,Poor,27.3,543,1.83,"Glaucoma,Diabetes",Standard Phacoemulsification
+abf762e2-6239-4bcb-9893-b33908999cc7,47,Nuclear,5,1740,3.0,Severe Weakness,Poor,26.0,544,1.24,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+74459d0b-f0a6-4824-992f-9cee8be2d7b3,92,Mixed,2,1346,4.1,Intact,Good,23.9,556,1.1,None,Standard Phacoemulsification
+8f28a956-aa4d-43e6-8573-953ec75a1789,61,Posterior Subcapsular,2,1464,2.5,Moderate Weakness,Poor,21.7,616,0.06,Glaucoma,Standard Phacoemulsification
+a307c8fb-3fb0-4b73-a0d8-d35932905bbe,74,Mixed,5,1993,2.8,Moderate Weakness,Poor,25.7,581,2.82,"Pseudoexfoliation,Diabetes",Femtosecond Laser-Assisted Phacoemulsification
+9950918d-7c46-44cb-9879-3f04274f3b90,46,Cortical,1,1657,3.2,Mild Weakness,Poor,22.7,640,3.0,Glaucoma,Standard Phacoemulsification
+a8e62731-ccb8-435a-be3f-ba21541ca835,54,Mixed,4,500,2.3,Mild Weakness,Poor,25.9,604,1.65,None,Small Incision Cataract Surgery (Manual)
+aa9b6a3a-fdfc-4bda-ab42-f345185734c0,81,Mixed,1,2167,2.0,Severe Weakness,Fair,26.9,628,2.09,None,Extracapsular Cataract Extraction
+69bde5d4-3fa8-4365-afe6-9bc324c02887,76,Mixed,2,848,3.3,Severe Weakness,Poor,23.2,496,0.94,Diabetes,Extracapsular Cataract Extraction
+0d351ffb-7607-47f5-9245-a8d5b1341a7d,84,Posterior Subcapsular,4,1986,2.1,Moderate Weakness,Poor,22.3,568,1.53,None,Femtosecond Laser-Assisted Phacoemulsification
+6bcda741-9463-4d03-a26d-ed1689f423b6,83,Mixed,2,1801,3.8,Severe Weakness,Fair,26.8,647,2.57,None,Extracapsular Cataract Extraction
+46ba61d3-4ac4-4dd9-be6f-3e18c253e400,84,Cortical,3,753,3.7,Mild Weakness,Good,22.4,635,1.72,None,Standard Phacoemulsification
+b9364cfe-1694-4b11-b1b3-72188683a026,60,Cortical,5,500,4.5,Moderate Weakness,Fair,23.5,520,0.61,None,Small Incision Cataract Surgery (Manual)
+d65e177d-2e54-4038-8029-b0400a25495b,66,Mixed,1,1728,2.3,Mild Weakness,Fair,22.8,567,2.75,None,Standard Phacoemulsification
+d5c2c672-d96c-4562-860f-efac0d8da4ff,54,Nuclear,1,2593,4.0,Intact,Good,26.5,636,2.74,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+fd988ba4-507f-4cb4-950f-800e98762d0b,51,Cortical,1,1641,4.3,Mild Weakness,Poor,23.0,593,2.67,Diabetes,Standard Phacoemulsification
+e0adb0b2-56d5-43fd-b370-577c95473fdc,68,Posterior Subcapsular,2,1103,4.1,Severe Weakness,Fair,26.4,481,0.86,None,Extracapsular Cataract Extraction
+0913d5df-aff8-4ed6-97e5-79a85964205e,50,Posterior Subcapsular,3,2099,2.9,Mild Weakness,Good,26.3,615,1.48,None,Standard Phacoemulsification
+6dec6870-5628-47a0-99a8-da7488689867,71,Mixed,5,1481,4.4,Severe Weakness,Good,26.4,612,3.3,Pseudoexfoliation,Intracapsular Cataract Extraction
+ebbf8603-64a5-4f42-a662-f62eab9d9928,55,Mixed,1,2410,3.9,Mild Weakness,Poor,21.4,641,3.43,None,Standard Phacoemulsification
+a39ad86a-9980-414a-95ec-914fe07a00c9,71,Mixed,5,1246,3.8,Moderate Weakness,Fair,21.1,551,3.15,None,Small Incision Cataract Surgery (Manual)
+a50fe662-5645-4d34-8606-bc05be94b032,86,Cortical,5,1811,3.7,Severe Weakness,Good,27.2,501,0.13,None,Femtosecond Laser-Assisted Phacoemulsification
+6742482e-a664-4149-81b6-fd682a1c947f,53,Posterior Subcapsular,2,980,3.3,Moderate Weakness,Poor,23.4,642,0.56,Pseudoexfoliation,Standard Phacoemulsification
+9cd6cdb0-082c-4d7a-a6a9-02f2e83e2a86,60,Posterior Subcapsular,4,2269,2.3,Intact,Fair,22.8,609,1.24,"Pseudoexfoliation,Diabetes",Femtosecond Laser-Assisted Phacoemulsification
+4b929589-5e89-471a-abda-3a026ea84b81,64,Nuclear,4,1588,4.5,Mild Weakness,Fair,23.1,650,2.75,None,Femtosecond Laser-Assisted Phacoemulsification
+87f22515-4492-4c56-9784-489af0d618bf,78,Cortical,1,2142,3.3,Mild Weakness,Fair,24.2,517,2.49,"Glaucoma,Diabetes",Standard Phacoemulsification
+fb51ce36-94ea-46c8-aac6-d421809802f2,53,Mixed,2,2427,2.2,Severe Weakness,Poor,24.9,581,3.05,None,Extracapsular Cataract Extraction
+737b95ae-adc7-469d-bb7f-772371d26eeb,89,Mixed,4,867,2.4,Mild Weakness,Fair,26.0,513,3.39,None,Small Incision Cataract Surgery (Manual)
+23a10b55-20ea-4f44-aa19-66845cdd44e8,74,Mixed,1,1442,4.4,Moderate Weakness,Good,25.2,584,0.39,None,Standard Phacoemulsification
+92bd1afa-57a0-476c-be43-a461d61b729f,52,Posterior Subcapsular,3,1933,2.8,Severe Weakness,Good,26.5,516,2.74,None,Extracapsular Cataract Extraction
+c191cdae-5463-4372-ad40-65ad90ff342f,63,Cortical,2,2602,2.0,Moderate Weakness,Good,27.1,586,1.68,None,Standard Phacoemulsification
+54b8af9d-e8aa-4bfb-b14d-e9b3cec81f5a,69,Mixed,5,543,3.9,Severe Weakness,Fair,25.7,518,3.03,None,Small Incision Cataract Surgery (Manual)
+cfa3cafc-6f02-4620-a209-91dc15b5e2c0,71,Mixed,2,2219,2.8,Intact,Poor,27.2,551,2.26,None,Standard Phacoemulsification
+2abd2473-e331-4bdd-9e79-8343553f7ea4,95,Posterior Subcapsular,5,507,3.6,Intact,Good,27.7,618,2.02,"Pseudoexfoliation,Diabetes",Small Incision Cataract Surgery (Manual)
+73ac5326-0772-49ba-9c17-ec90692a120b,75,Nuclear,1,2978,2.4,Intact,Fair,26.5,542,2.9,Diabetes,Small Incision Cataract Surgery (Manual)
+9db224b9-806e-4be1-8886-2589559a791a,79,Posterior Subcapsular,4,2612,2.1,Intact,Fair,24.1,586,0.08,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+8eeab5c2-523e-40d4-9897-13aa925c0b5b,51,Cortical,3,989,2.5,Intact,Good,23.1,584,2.38,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+07e8c648-a86d-405a-a74f-1494cd041340,90,Nuclear,3,1997,2.2,Mild Weakness,Fair,27.3,546,1.31,None,Standard Phacoemulsification
+981521f2-503c-48ff-a535-857de001b1a8,93,Cortical,4,2283,3.9,Severe Weakness,Good,22.9,561,1.63,None,Femtosecond Laser-Assisted Phacoemulsification
+237f0341-5bc7-4a34-aae5-6e84f835bab7,59,Nuclear,3,2669,4.4,Intact,Good,26.3,646,2.75,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+82e0e1ca-efed-4de0-a610-6498de4e06a8,85,Cortical,2,2129,3.4,Mild Weakness,Good,24.8,588,3.36,Glaucoma,Standard Phacoemulsification
+05b23bea-f1f2-4844-b7d4-b3fb08de42fb,84,Posterior Subcapsular,2,602,2.2,Severe Weakness,Fair,25.2,577,3.5,None,Extracapsular Cataract Extraction
+ecb9c53d-72a3-4931-876a-fd35604e2b94,63,Nuclear,2,2787,3.4,Moderate Weakness,Good,23.8,511,2.91,None,Standard Phacoemulsification
+3ee673a2-26b4-451c-84e0-be8343a93d13,58,Posterior Subcapsular,3,1470,4.4,Severe Weakness,Fair,22.7,562,1.2,Diabetes,Extracapsular Cataract Extraction
+b3bc6696-8651-4d9a-835b-9870167fcd3b,89,Cortical,1,3293,3.2,Intact,Poor,22.2,622,3.13,None,Standard Phacoemulsification
+6aaf8547-30f5-47d7-946e-dfcd990071f0,95,Nuclear,5,500,4.2,Severe Weakness,Poor,21.9,576,2.9,None,Small Incision Cataract Surgery (Manual)
+4bd0cb26-1ce2-484a-99c0-b91ee3300eb4,89,Nuclear,1,2695,2.9,Mild Weakness,Fair,21.1,485,2.65,Diabetes,Standard Phacoemulsification
+b83fe58e-bb48-48ec-8954-28da7f4f5c7d,84,Posterior Subcapsular,2,1559,4.5,Moderate Weakness,Good,23.0,635,0.73,None,Standard Phacoemulsification
+f180eeb0-12e3-47e3-86fa-2f17c5dd886e,62,Mixed,2,2860,2.5,Mild Weakness,Good,25.1,496,0.45,None,Standard Phacoemulsification
+eddcdcdc-8e86-4d01-81ac-d4eed6e988cf,91,Posterior Subcapsular,2,694,4.5,Moderate Weakness,Poor,24.9,596,0.01,None,Standard Phacoemulsification
+272d4ee3-3aa5-4168-a9e4-28f33aee2895,65,Mixed,4,1322,2.3,Severe Weakness,Fair,23.5,491,3.09,None,Small Incision Cataract Surgery (Manual)
+c0a4f994-713d-4c29-ad45-6e07143a12a6,73,Posterior Subcapsular,1,2405,2.5,Intact,Poor,26.7,537,3.42,Glaucoma,Standard Phacoemulsification
+139a5224-e68a-49a3-b2cc-657fc010bb2a,55,Posterior Subcapsular,3,657,3.6,Intact,Good,24.4,486,2.07,None,Femtosecond Laser-Assisted Phacoemulsification
+f2bdcf48-411d-424b-ab03-fe39e3943d89,51,Mixed,2,1995,4.1,Moderate Weakness,Poor,26.6,498,2.72,None,Standard Phacoemulsification
+5e721039-3fd6-4a13-a8d7-35f586ff7244,82,Nuclear,1,1048,4.3,Severe Weakness,Fair,27.2,496,2.74,"Pseudoexfoliation,Diabetes",Intracapsular Cataract Extraction
+a152c4d0-9abc-4421-b2af-2f369ac2d975,84,Mixed,1,1217,3.7,Intact,Fair,26.9,582,0.34,None,Standard Phacoemulsification
+03bbd0eb-b1c0-4981-952d-965a1a134e88,87,Nuclear,4,1772,3.2,Severe Weakness,Poor,25.3,566,2.28,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+087cc680-fec9-422b-acd1-8529da24474e,82,Cortical,1,1220,2.0,Intact,Poor,26.5,529,3.17,Pseudoexfoliation,Standard Phacoemulsification
+0959cbc5-85a4-4364-84b0-168f7e94a46e,75,Mixed,2,1595,2.3,Intact,Good,21.9,629,1.53,None,Small Incision Cataract Surgery (Manual)
+907a5e64-ef72-43a6-91df-5ce88fb1bd46,79,Cortical,2,2523,2.8,Moderate Weakness,Fair,23.6,482,1.81,None,Standard Phacoemulsification
+71351990-7478-42e0-bd9e-fbf9c30d7ff6,80,Nuclear,4,1608,2.5,Mild Weakness,Poor,27.4,497,1.2,None,Femtosecond Laser-Assisted Phacoemulsification
+dd7144c9-53d4-4a12-a1f4-ab5447e6a10b,83,Posterior Subcapsular,5,2318,4.4,Moderate Weakness,Fair,23.3,506,1.59,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+175cfa7f-cfea-4f08-b252-e5d986f856dc,45,Cortical,2,2510,3.6,Mild Weakness,Fair,26.1,564,2.83,None,Standard Phacoemulsification
+992bc9bd-ab05-40d2-8982-4868f9c274d0,45,Posterior Subcapsular,1,1102,2.9,Intact,Good,23.0,529,2.21,None,Femtosecond Laser-Assisted Phacoemulsification
+4205f151-18be-48c9-98d4-c94d9251e63a,57,Cortical,3,1113,2.5,Moderate Weakness,Poor,22.2,621,0.86,None,Standard Phacoemulsification
+0776be5d-0c81-47cc-8763-2a183d043242,51,Nuclear,2,2152,3.6,Intact,Fair,27.6,558,1.6,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+27f47028-d3ef-40be-814a-b02f7c961e9d,78,Mixed,1,1285,2.4,Mild Weakness,Good,22.3,576,2.43,None,Standard Phacoemulsification
+2c68df6b-530e-452e-b5ea-2c7fe3b85783,47,Cortical,5,1204,4.0,Moderate Weakness,Good,21.4,551,3.05,None,Small Incision Cataract Surgery (Manual)
+c7ad7095-be77-4af7-8c47-80026cfc6c65,58,Nuclear,4,500,2.4,Severe Weakness,Poor,26.3,575,1.75,None,Small Incision Cataract Surgery (Manual)
+7e277b97-e066-491e-a56c-a21e3d4a92e0,89,Mixed,4,2140,2.7,Severe Weakness,Poor,27.4,629,2.27,None,Femtosecond Laser-Assisted Phacoemulsification
+57b98cc5-85ce-47ac-b391-6a7cef795acd,60,Mixed,2,1853,3.1,Severe Weakness,Poor,22.1,575,0.89,Pseudoexfoliation,Intracapsular Cataract Extraction
+e62e7f5a-b2c9-42b0-a8a3-8a45fc20e46d,78,Posterior Subcapsular,2,2991,2.1,Moderate Weakness,Fair,24.2,590,1.43,None,Standard Phacoemulsification
+b90c4aea-818e-45e9-99cc-f2dc338775d4,56,Mixed,2,1687,3.6,Moderate Weakness,Good,23.1,608,1.79,None,Standard Phacoemulsification
+fd7836b7-e389-4ec0-846e-08d80578db19,51,Nuclear,1,2275,2.1,Mild Weakness,Fair,22.4,564,0.88,None,Standard Phacoemulsification
+a6f56aa6-05e9-45e0-9b5f-c1c3bb308da1,57,Cortical,5,1069,2.0,Moderate Weakness,Fair,26.8,583,3.31,Diabetes,Small Incision Cataract Surgery (Manual)
+5cec1439-2e54-467c-aaf3-01b196185ccc,86,Cortical,4,1132,2.6,Mild Weakness,Fair,22.6,630,2.75,None,Small Incision Cataract Surgery (Manual)
+18bd54b0-d1b5-4f3a-bc60-beffdcfe3985,95,Nuclear,3,1169,3.1,Severe Weakness,Good,24.1,622,0.11,Pseudoexfoliation,Intracapsular Cataract Extraction
+617411fa-eff1-4723-aee3-cda26ca47d21,92,Nuclear,4,1652,2.8,Severe Weakness,Fair,25.8,583,2.67,None,Femtosecond Laser-Assisted Phacoemulsification
+a80318e4-427c-4253-b503-8db7663a29fc,81,Nuclear,2,1229,4.4,Moderate Weakness,Poor,25.4,634,3.2,None,Standard Phacoemulsification
+3b9a6304-29ff-490d-9904-ccc4f79ec584,70,Nuclear,5,1582,2.5,Intact,Fair,25.0,595,2.24,None,Femtosecond Laser-Assisted Phacoemulsification
+684fef24-72dc-458a-af6d-9136c40d28ae,56,Nuclear,5,2001,2.1,Mild Weakness,Good,27.4,578,0.99,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+32b7bcc2-06af-414f-a8af-fb277e84a515,48,Posterior Subcapsular,5,500,2.4,Severe Weakness,Fair,22.1,508,0.45,None,Small Incision Cataract Surgery (Manual)
+ac6af795-2a79-40fe-b26b-cd4853f97c27,58,Cortical,2,1868,3.1,Severe Weakness,Good,25.2,559,2.06,None,Extracapsular Cataract Extraction
+b69694eb-3806-46a1-baba-684e2d57f323,45,Cortical,4,500,4.1,Mild Weakness,Poor,23.3,625,3.08,None,Small Incision Cataract Surgery (Manual)
+de64e4f3-4420-4ad0-a4f6-ceba50643c43,63,Mixed,3,1618,3.0,Mild Weakness,Fair,22.7,638,2.57,Diabetes,Standard Phacoemulsification
+ecd043eb-f2ad-4210-b850-34943e46ba34,81,Nuclear,4,500,2.6,Mild Weakness,Fair,27.2,617,1.02,None,Small Incision Cataract Surgery (Manual)
+1dfb3c06-a773-4143-a761-52b8cfdfc0e6,58,Mixed,4,2464,2.3,Moderate Weakness,Good,26.3,609,2.68,None,Femtosecond Laser-Assisted Phacoemulsification
+4f4ea7bc-ad6b-4011-ad2c-6871db840643,77,Nuclear,4,500,2.2,Severe Weakness,Fair,23.4,582,3.0,"Glaucoma,Diabetes",Small Incision Cataract Surgery (Manual)
+09c7a7fb-6f38-4456-a431-45ff15732712,53,Posterior Subcapsular,4,2185,3.2,Intact,Poor,25.6,592,0.49,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+afb5c6b0-d9bc-4893-9ff4-4a17aede005b,46,Nuclear,2,1804,2.3,Severe Weakness,Good,21.5,482,2.37,None,Extracapsular Cataract Extraction
+02934e87-11c4-4d3d-8852-6d839d345fed,47,Cortical,4,500,4.1,Intact,Fair,25.8,593,0.18,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+3c30b601-fa48-4def-b154-4c2f00d60cf5,60,Posterior Subcapsular,2,1419,2.2,Severe Weakness,Good,27.9,566,2.87,Glaucoma,Extracapsular Cataract Extraction
+0300a9e0-7358-42a5-b403-4aba01549144,51,Cortical,2,780,3.0,Intact,Fair,23.3,640,0.66,None,Standard Phacoemulsification
+9a1ba34b-ed9d-4d5d-8c45-462baaac412a,52,Cortical,2,1033,2.9,Mild Weakness,Good,23.8,560,0.04,None,Standard Phacoemulsification
+680cdc88-abc8-4320-ab5f-5d91a90b80dc,62,Posterior Subcapsular,1,1075,4.2,Severe Weakness,Fair,26.4,607,3.44,Pseudoexfoliation,Intracapsular Cataract Extraction
+363d427d-e65e-4775-8970-514ce393885a,81,Cortical,3,788,3.5,Severe Weakness,Poor,27.5,514,1.16,None,Extracapsular Cataract Extraction
+546c6e21-f1e6-41c2-9b20-31028f6a43db,87,Mixed,1,2172,2.0,Severe Weakness,Fair,24.6,539,1.76,"Glaucoma,Diabetes",Extracapsular Cataract Extraction
+e1c91a9d-1084-4800-8239-72aef1c054c5,93,Nuclear,3,1368,3.8,Mild Weakness,Poor,21.6,515,1.31,None,Standard Phacoemulsification
+64eb5d69-6e1f-4048-b308-3935ea85b11c,47,Cortical,5,1817,3.8,Moderate Weakness,Good,22.9,644,2.75,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+46fe6750-d65f-414b-9f5d-4184bcfa8414,63,Nuclear,2,1956,2.9,Mild Weakness,Poor,21.4,650,3.46,None,Standard Phacoemulsification
+17419e74-afa2-4334-b865-715c7668288f,69,Posterior Subcapsular,2,2411,3.6,Intact,Fair,21.5,529,0.18,Diabetes,Standard Phacoemulsification
+cd321075-202e-49bf-bb45-55b81b9844f2,56,Cortical,2,2678,2.2,Severe Weakness,Fair,22.1,530,0.86,None,Extracapsular Cataract Extraction
+86dc6be4-2f9e-4805-8efc-651276ccf9ac,73,Cortical,3,2370,2.2,Moderate Weakness,Fair,23.6,600,1.54,None,Standard Phacoemulsification
+1e1839c3-926b-4e53-b2f5-3a5e0af8b350,95,Mixed,1,2362,3.1,Intact,Fair,25.2,519,1.93,None,Femtosecond Laser-Assisted Phacoemulsification
+c0c318ba-c0a8-48cb-a2f4-abfe4e0d255c,63,Mixed,5,2482,3.2,Moderate Weakness,Good,26.0,530,0.54,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+dce41dc7-f9fa-43c8-a1f6-28a0040ccf5a,91,Posterior Subcapsular,4,1857,4.3,Severe Weakness,Poor,23.6,605,1.08,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+de151b64-bd7c-4259-87d9-806bc06bfead,52,Mixed,5,665,2.5,Severe Weakness,Fair,26.4,569,1.78,None,Small Incision Cataract Surgery (Manual)
+15791b0f-366a-4861-a10f-1b6dd50802ad,86,Mixed,4,1210,2.6,Intact,Fair,25.4,487,2.44,None,Small Incision Cataract Surgery (Manual)
+bbc85ffd-8070-4b3c-8b29-436e3206034f,88,Cortical,3,1413,3.5,Mild Weakness,Good,21.8,503,2.26,None,Standard Phacoemulsification
+e0108fe6-cf4e-4e67-a5e7-890628d3fba3,50,Cortical,4,879,4.1,Moderate Weakness,Poor,23.1,616,2.3,None,Small Incision Cataract Surgery (Manual)
+d0637d6a-48e9-4cfe-876d-f7559e8ab8e4,91,Nuclear,1,3145,3.9,Moderate Weakness,Good,22.9,533,3.26,None,Standard Phacoemulsification
+c6e69b27-25c1-46ae-8b33-d1cc04c21335,76,Nuclear,1,1086,3.9,Severe Weakness,Poor,23.9,553,2.57,None,Extracapsular Cataract Extraction
+4329248b-73e8-44cc-ae33-54929f96b8fa,57,Mixed,2,2658,4.4,Severe Weakness,Poor,26.7,527,0.7,Diabetes,Extracapsular Cataract Extraction
+b70876e4-6a26-4345-84e7-9c2736e70238,71,Mixed,5,500,4.2,Mild Weakness,Good,23.1,576,0.44,"Pseudoexfoliation,Glaucoma",Small Incision Cataract Surgery (Manual)
+4ffe023a-e94a-4d71-bb3a-6b41d2375ed2,76,Nuclear,1,1050,2.7,Intact,Poor,25.1,490,0.34,Glaucoma,Standard Phacoemulsification
+a75c01b4-296e-42c1-97f9-495dfb94b419,93,Posterior Subcapsular,4,2138,3.9,Severe Weakness,Fair,23.6,567,3.5,None,Femtosecond Laser-Assisted Phacoemulsification
+b82a889e-a508-4328-aa55-f5add8c9f64b,69,Nuclear,3,1752,4.0,Intact,Fair,27.1,582,2.54,None,Femtosecond Laser-Assisted Phacoemulsification
+970542fb-c8bc-405e-b2f5-9e666f22e8c0,78,Posterior Subcapsular,2,2109,3.1,Severe Weakness,Poor,23.9,528,0.01,None,Extracapsular Cataract Extraction
+64400cf7-7903-44a3-8a8e-6d4c185bb2c9,85,Posterior Subcapsular,1,2133,3.7,Mild Weakness,Poor,24.4,636,2.78,None,Standard Phacoemulsification
+61d0e6d8-e3ca-46e4-8d84-5e0cd372d73a,75,Nuclear,4,1403,3.5,Mild Weakness,Poor,27.1,609,0.11,Glaucoma,Small Incision Cataract Surgery (Manual)
+2dc8f002-49f4-4edb-9b3d-55338dfaa809,80,Mixed,2,2427,4.4,Severe Weakness,Poor,24.8,542,0.74,Diabetes,Extracapsular Cataract Extraction
+4af0ff6c-f065-4106-b7ef-0f085d4a86d7,72,Nuclear,2,1937,4.3,Moderate Weakness,Good,26.0,650,1.67,Diabetes,Standard Phacoemulsification
+7e4aeb44-f559-4f70-b7e3-2d0e0b77875e,79,Mixed,1,2163,4.2,Intact,Poor,23.4,577,2.29,None,Standard Phacoemulsification
+f1a94cca-05a5-4bfc-b915-59a69d409303,59,Cortical,3,873,2.7,Intact,Good,23.4,631,3.28,None,Femtosecond Laser-Assisted Phacoemulsification
+98872728-a32e-4705-814b-33c873dc3047,65,Mixed,5,500,2.8,Mild Weakness,Fair,27.9,561,2.7,Diabetes,Small Incision Cataract Surgery (Manual)
+b3cb36aa-6408-41d6-afac-34e9c60870c3,87,Cortical,1,2419,2.0,Severe Weakness,Fair,22.0,555,2.93,None,Extracapsular Cataract Extraction
+00f84822-ef69-4aa3-b415-60ee936c1d4d,54,Nuclear,5,1311,2.8,Intact,Fair,28.0,626,1.67,None,Small Incision Cataract Surgery (Manual)
+e039597f-0f28-4156-8654-589652979fe8,69,Nuclear,3,1025,4.1,Mild Weakness,Poor,27.5,537,2.45,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+8b4d3e59-d916-4bd6-b8f9-fea1a1618c35,76,Mixed,3,1052,4.5,Severe Weakness,Fair,24.0,601,3.47,None,Extracapsular Cataract Extraction
+37828024-c57f-416c-bac0-c77b348b76a4,63,Posterior Subcapsular,2,2844,3.0,Mild Weakness,Fair,26.3,628,3.03,Pseudoexfoliation,Standard Phacoemulsification
+d1e455e2-a281-4e01-b4e3-d98d543ca609,86,Cortical,5,563,3.1,Severe Weakness,Fair,27.3,533,0.76,Diabetes,Small Incision Cataract Surgery (Manual)
+08270c67-5f81-45b5-af85-f5fbaddb3f10,91,Nuclear,2,2142,4.4,Severe Weakness,Poor,26.9,494,0.34,Diabetes,Extracapsular Cataract Extraction
+f06757dd-244f-441c-a237-3f95acf58542,77,Posterior Subcapsular,5,1776,4.4,Severe Weakness,Good,21.2,541,1.39,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+4c1b9095-6b3c-4540-9f11-448e1def145e,92,Mixed,1,2699,4.2,Severe Weakness,Fair,25.4,593,1.29,"Pseudoexfoliation,Glaucoma",Intracapsular Cataract Extraction
+bfc40fb1-58c3-4378-ac16-4342305082b1,87,Cortical,1,3203,3.4,Severe Weakness,Fair,25.9,504,2.78,None,Extracapsular Cataract Extraction
+95640525-f658-4c1f-bcb2-2f2cdb1298bf,72,Posterior Subcapsular,5,512,2.2,Intact,Poor,27.4,617,0.65,Glaucoma,Small Incision Cataract Surgery (Manual)
+9fd4f4f6-5941-4d7c-bb01-878dc1758d00,79,Mixed,1,2925,4.1,Intact,Good,27.8,510,0.63,None,Standard Phacoemulsification
+280822bd-8f6a-4643-94e9-fcd1a678b255,65,Nuclear,1,1327,3.4,Mild Weakness,Good,24.9,488,0.3,Pseudoexfoliation,Standard Phacoemulsification
+f61c1c15-77d5-4645-ba72-628be7282d31,55,Mixed,1,1817,2.8,Moderate Weakness,Poor,24.7,515,2.02,None,Standard Phacoemulsification
+39318c34-7e5e-42b4-8844-1048a62c0a09,67,Cortical,1,983,2.6,Mild Weakness,Good,23.1,535,3.35,None,Standard Phacoemulsification
+c67a2455-0ddd-4aeb-829f-635b42bdc9f5,53,Mixed,1,3052,2.6,Severe Weakness,Poor,27.3,582,1.6,None,Extracapsular Cataract Extraction
+b0aa0eae-037f-42d5-872d-3573220ed51e,54,Cortical,1,1903,4.5,Mild Weakness,Poor,23.6,648,2.27,None,Standard Phacoemulsification
+6c3e5d74-4554-4d29-baa4-5585d090a9be,65,Mixed,4,500,4.4,Mild Weakness,Good,22.9,616,0.38,Glaucoma,Small Incision Cataract Surgery (Manual)
+d65925fb-8e6e-439b-b739-046f07328646,68,Posterior Subcapsular,3,999,4.2,Mild Weakness,Fair,21.1,576,3.43,None,Standard Phacoemulsification
+87d0b621-fbfd-4bf9-9d42-18df9af9d393,52,Cortical,5,1255,3.5,Severe Weakness,Good,24.7,626,3.03,None,Small Incision Cataract Surgery (Manual)
+b88b2c72-da4f-4907-912c-085fe2ad8398,55,Posterior Subcapsular,4,940,2.9,Severe Weakness,Fair,25.1,546,0.03,Diabetes,Small Incision Cataract Surgery (Manual)
+f69f9c79-b59f-4df2-b64b-703bdb83791a,69,Posterior Subcapsular,1,2316,3.8,Mild Weakness,Poor,25.3,597,0.64,None,Standard Phacoemulsification
+37a1af56-88b0-4275-b659-4a96cfebc93e,62,Mixed,5,937,2.8,Intact,Fair,23.8,560,2.96,Glaucoma,Small Incision Cataract Surgery (Manual)
+fada3909-fe2c-40b4-a271-04bb1bfc132c,50,Cortical,5,500,2.2,Moderate Weakness,Poor,27.5,482,3.37,None,Small Incision Cataract Surgery (Manual)
+ad9f714d-5e24-4ebc-85c4-17361cc6e1ce,75,Mixed,5,2180,3.7,Severe Weakness,Good,25.3,481,2.5,None,Femtosecond Laser-Assisted Phacoemulsification
+cd7aa6d5-5420-45ff-9b17-5a6c3eeea3bf,92,Nuclear,5,1837,4.4,Mild Weakness,Good,21.5,514,1.8,None,Femtosecond Laser-Assisted Phacoemulsification
+f0f7f940-801a-476f-99a0-d204cb096d5f,68,Nuclear,3,1423,4.1,Intact,Fair,23.1,555,0.93,Pseudoexfoliation,Standard Phacoemulsification
+abdaffaa-1970-4e67-a5c7-6f084bf1804e,64,Nuclear,4,2199,2.1,Intact,Poor,24.2,556,1.24,"Pseudoexfoliation,Diabetes",Femtosecond Laser-Assisted Phacoemulsification
+f00c74b3-5736-4782-a3f6-f81940667c2d,67,Nuclear,1,2564,3.2,Intact,Poor,24.6,519,1.44,Glaucoma,Standard Phacoemulsification
+3eee1aca-6345-47ca-83f2-95423ff86a9d,61,Cortical,4,1819,2.9,Moderate Weakness,Fair,27.2,617,2.84,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+0651af62-8467-400a-bbc1-6b93d94e3211,55,Cortical,3,2177,2.0,Mild Weakness,Good,22.3,490,0.47,Diabetes,Standard Phacoemulsification
+17b93282-9932-4d99-94b9-7602ddecda2f,87,Cortical,4,1288,2.3,Severe Weakness,Poor,24.5,512,1.14,None,Small Incision Cataract Surgery (Manual)
+fd817711-7fea-40d8-8e30-cefb490e0f81,92,Mixed,2,1049,4.4,Intact,Good,22.1,608,0.05,Glaucoma,Standard Phacoemulsification
+04bcc3df-1be3-4405-a47b-36a53dc67d43,72,Nuclear,4,2166,2.7,Severe Weakness,Good,26.3,543,2.16,None,Femtosecond Laser-Assisted Phacoemulsification
+26ecd758-d557-4f48-be10-80d580324959,52,Posterior Subcapsular,2,2357,2.5,Intact,Poor,26.1,636,0.63,None,Standard Phacoemulsification
+0c729c22-5367-4601-9ed6-8af33665fa44,59,Nuclear,2,2243,2.1,Mild Weakness,Good,24.0,637,0.7,None,Standard Phacoemulsification
+38f30735-97f8-4791-b1f2-98b9be8e7ced,89,Cortical,2,1976,3.1,Intact,Poor,24.0,493,1.07,None,Standard Phacoemulsification
+737a8b0a-f915-423f-8db3-33e03aaf6868,71,Cortical,3,594,2.5,Intact,Good,25.6,562,0.74,Diabetes,Standard Phacoemulsification
+919a9bdb-b062-40fe-ba14-85d8cdef936c,56,Posterior Subcapsular,4,1689,2.8,Intact,Good,25.7,621,2.7,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+e59021b2-3666-459c-9d52-30619a87a45b,92,Posterior Subcapsular,2,1730,2.5,Severe Weakness,Good,27.2,513,2.2,Glaucoma,Extracapsular Cataract Extraction
+bed65b4e-ef2d-491f-9d7b-d10d1a28b00c,86,Cortical,2,2425,4.3,Intact,Poor,25.3,557,2.54,None,Standard Phacoemulsification
+ef266bc5-0337-403f-a316-48f5de5ff927,47,Cortical,2,2312,3.4,Moderate Weakness,Poor,27.8,573,1.57,Diabetes,Standard Phacoemulsification
+09c5647e-dc2c-4e4e-8eb9-b2de2d25d88f,71,Nuclear,2,3054,2.7,Mild Weakness,Fair,21.3,624,0.21,None,Standard Phacoemulsification
+70e2524e-5781-42e7-b49c-a0a3dceaab49,76,Nuclear,2,2393,3.9,Severe Weakness,Poor,26.5,582,2.13,Glaucoma,Extracapsular Cataract Extraction
+f2a350ae-68f6-4789-81c1-fcd027479e6a,82,Nuclear,5,1865,3.3,Moderate Weakness,Fair,27.0,555,2.48,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+eccb1166-8d8e-440d-b88c-8a33f40b46cb,60,Posterior Subcapsular,1,1406,4.4,Moderate Weakness,Good,22.9,493,2.25,None,Standard Phacoemulsification
+b2942a5f-1ffd-4992-9e8f-4415879b0ac6,45,Posterior Subcapsular,5,1511,2.8,Moderate Weakness,Poor,21.9,636,1.03,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+eb2ac070-389b-4300-bc8b-f1d5e7f4cdc7,67,Cortical,3,1123,2.6,Intact,Poor,25.6,629,0.37,None,Standard Phacoemulsification
+05b64752-dd77-4ec4-b36b-616d1b3696d4,85,Cortical,4,1103,2.8,Mild Weakness,Poor,25.4,581,0.54,None,Small Incision Cataract Surgery (Manual)
+79d4228d-cdb3-4d13-bad8-755234c9092f,75,Nuclear,4,943,3.1,Mild Weakness,Good,25.0,526,2.27,"Pseudoexfoliation,Diabetes",Small Incision Cataract Surgery (Manual)
+a0a0c265-020c-4212-b19e-a03876e79d44,70,Cortical,1,1387,2.2,Mild Weakness,Fair,27.4,583,0.35,None,Standard Phacoemulsification
+d868622f-430b-4261-8062-251b64c8f60c,83,Nuclear,4,1772,2.1,Intact,Poor,27.5,513,0.87,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+1552e7ad-4fe5-4759-beed-760f84ad7515,45,Nuclear,1,3021,3.8,Moderate Weakness,Poor,21.6,515,1.68,Diabetes,Standard Phacoemulsification
+ebc0b777-86b4-4902-8dee-e345af9f2ed6,66,Mixed,2,1598,2.1,Moderate Weakness,Poor,24.8,485,2.89,Pseudoexfoliation,Standard Phacoemulsification
+c3c3513f-2cb2-4bf8-8961-93867226289a,71,Cortical,1,1718,2.1,Severe Weakness,Fair,22.0,647,1.0,None,Extracapsular Cataract Extraction
+434f0ea6-414e-4f4c-9172-3fdc6c4d598a,90,Nuclear,4,894,4.5,Mild Weakness,Good,27.7,552,1.25,None,Small Incision Cataract Surgery (Manual)
+e8ee8a59-aa49-44e6-882e-0ab511c76596,50,Nuclear,5,618,2.4,Moderate Weakness,Poor,22.3,588,0.53,None,Small Incision Cataract Surgery (Manual)
+08e7d269-1a2b-4c23-8e89-3e0f72d6a5b6,67,Nuclear,3,2444,3.7,Moderate Weakness,Poor,26.6,480,3.02,Diabetes,Standard Phacoemulsification
+381bac2d-06e3-411c-b49e-96e1c0927178,54,Mixed,4,2159,4.0,Intact,Poor,24.0,551,0.51,None,Femtosecond Laser-Assisted Phacoemulsification
+857f97b7-c0c4-4dde-9c2f-66e1b695076e,67,Posterior Subcapsular,4,1936,3.2,Severe Weakness,Poor,26.6,565,0.48,None,Femtosecond Laser-Assisted Phacoemulsification
+15ef27bc-0404-47e1-8250-600cca5e7bb0,80,Mixed,5,2186,3.2,Mild Weakness,Fair,21.6,587,1.84,None,Femtosecond Laser-Assisted Phacoemulsification
+c9f57a46-b500-4ee1-8611-3f4b385ffde2,50,Cortical,3,500,2.5,Intact,Fair,24.9,514,3.22,Pseudoexfoliation,Standard Phacoemulsification
+8d108db4-1c69-4251-b040-761991456a14,94,Cortical,3,2285,2.4,Severe Weakness,Good,22.5,537,0.2,Pseudoexfoliation,Intracapsular Cataract Extraction
+d90fa040-2cd6-4998-939a-b84384718b60,69,Nuclear,4,1722,2.1,Intact,Poor,25.1,602,2.93,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+e6e01efd-300e-45a9-9964-2bd738993359,50,Cortical,1,851,3.4,Severe Weakness,Good,26.4,600,2.6,None,Extracapsular Cataract Extraction
+32957c77-6069-4866-bd4e-f56feb12144d,71,Posterior Subcapsular,4,500,2.7,Mild Weakness,Good,27.2,488,2.11,None,Small Incision Cataract Surgery (Manual)
+cf902e30-cbb8-4604-9dad-ee17ac72cdc6,72,Mixed,5,1056,4.3,Moderate Weakness,Poor,22.6,520,0.95,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+54704d48-b122-4e41-bb34-14e0a018cb01,92,Cortical,4,500,2.5,Mild Weakness,Poor,27.8,634,2.95,None,Small Incision Cataract Surgery (Manual)
+e06a0f05-ee6c-47c1-b5e2-b67dcce2885f,86,Mixed,4,875,2.1,Moderate Weakness,Poor,24.0,549,0.38,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+f1f11313-5967-40dd-a35a-bf37fcc2e98a,46,Cortical,3,1066,3.4,Intact,Good,25.2,559,0.66,None,Standard Phacoemulsification
+f1df6ba8-fccb-4ba6-9abd-1a3da30dcb8a,50,Nuclear,5,1981,2.1,Moderate Weakness,Good,27.6,482,3.43,None,Femtosecond Laser-Assisted Phacoemulsification
+187bce22-6eaa-40a2-8de4-a9975bcca26d,65,Mixed,3,930,3.8,Intact,Fair,23.9,608,0.35,None,Standard Phacoemulsification
+c15f6080-9b50-4fdc-981f-6ccee8160f7e,69,Mixed,5,500,2.7,Mild Weakness,Poor,24.2,640,0.33,None,Small Incision Cataract Surgery (Manual)
+3df58d12-5990-4f29-89aa-86ecbc43541f,86,Cortical,2,2654,3.3,Moderate Weakness,Fair,26.5,566,1.02,Diabetes,Standard Phacoemulsification
+66198617-001c-49f8-b6b7-e680bc927f15,90,Mixed,2,1455,4.5,Intact,Good,25.0,607,0.34,Pseudoexfoliation,Standard Phacoemulsification
+8eca440e-1081-4d31-8f15-5c42e5d8384d,95,Nuclear,4,585,3.1,Mild Weakness,Fair,22.1,551,2.02,Glaucoma,Small Incision Cataract Surgery (Manual)
+d0318803-cd14-4266-a252-e5ae5d25ad64,74,Posterior Subcapsular,4,1248,3.9,Severe Weakness,Poor,27.5,511,3.4,None,Small Incision Cataract Surgery (Manual)
+50c5939c-deba-48de-b1c0-98dd07a703ca,71,Cortical,4,1702,3.3,Moderate Weakness,Fair,21.6,585,1.77,None,Femtosecond Laser-Assisted Phacoemulsification
+6ca48c68-f685-4cb6-85e1-6a3b3b8a57cc,84,Nuclear,2,2897,2.0,Intact,Fair,23.6,625,1.4,Pseudoexfoliation,Standard Phacoemulsification
+7b207da8-b9f2-44e3-a825-273dd38674f5,50,Posterior Subcapsular,4,2118,3.6,Severe Weakness,Good,21.6,507,3.21,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+a3ef01da-cefb-4a5d-bbc5-ee9ea7be7eca,66,Nuclear,3,1802,4.5,Severe Weakness,Good,25.9,601,0.4,None,Extracapsular Cataract Extraction
+b9dc34ee-ce11-423a-81eb-bba633462353,54,Cortical,3,2727,2.1,Severe Weakness,Good,27.6,572,2.76,None,Extracapsular Cataract Extraction
+b7fdab3c-f2a0-45f4-a3ff-99bb94774bd6,46,Mixed,3,1432,3.6,Intact,Good,21.5,583,0.29,None,Standard Phacoemulsification
+943aec0a-8b45-4904-9b60-54b8af7a671d,58,Posterior Subcapsular,2,820,2.2,Severe Weakness,Fair,27.7,556,0.58,None,Extracapsular Cataract Extraction
+c17a7c1e-f5dd-4818-b7ff-95c2f7daadb3,89,Cortical,4,1652,4.3,Severe Weakness,Good,24.9,632,0.69,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+450a5a83-4703-46ab-a304-a1fd01b8f223,87,Posterior Subcapsular,1,1416,4.2,Mild Weakness,Fair,27.1,509,2.77,None,Standard Phacoemulsification
+fe4b4b9f-0d53-442e-86f5-7b2800087932,73,Cortical,4,2569,2.2,Mild Weakness,Poor,27.9,587,2.44,None,Femtosecond Laser-Assisted Phacoemulsification
+d387b096-29ba-4893-8034-c2efacf426df,58,Cortical,5,500,2.9,Moderate Weakness,Good,23.1,558,1.76,None,Small Incision Cataract Surgery (Manual)
+7b99db48-f94d-4bf9-9248-bdcb2a796eb5,74,Mixed,4,1640,2.9,Severe Weakness,Poor,27.8,565,0.4,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+6e4c8e74-887b-4a66-8f9e-79caf808b064,83,Cortical,5,1785,3.0,Severe Weakness,Poor,23.0,638,3.28,"Glaucoma,Diabetes",Femtosecond Laser-Assisted Phacoemulsification
+17b3a663-c85f-415a-b894-246551639a6c,51,Nuclear,1,2484,2.3,Intact,Poor,24.1,628,2.82,None,Small Incision Cataract Surgery (Manual)
+564286b4-605b-415b-ab93-bfcf948500f6,94,Mixed,5,1560,2.3,Severe Weakness,Good,23.5,598,1.45,None,Femtosecond Laser-Assisted Phacoemulsification
+2135ed7b-6460-4fe5-b0c6-a05a1214b817,45,Posterior Subcapsular,2,2678,2.7,Moderate Weakness,Fair,26.9,586,2.36,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+6f7ba504-b6c8-4626-9b54-430afae74ad3,46,Cortical,3,2525,4.1,Moderate Weakness,Fair,22.2,626,3.47,Diabetes,Standard Phacoemulsification
+93864c21-66a7-410f-b8f9-bb8d637fd81e,86,Mixed,1,3166,3.1,Severe Weakness,Poor,22.2,561,1.81,Glaucoma,Extracapsular Cataract Extraction
+6e5fe72c-ed03-455c-b6d6-67a093408431,77,Nuclear,5,1605,4.1,Moderate Weakness,Poor,22.1,562,0.71,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+2e400483-b62e-4fd4-89b8-4454a7c6366d,82,Cortical,1,3026,4.3,Intact,Poor,23.7,513,3.44,Diabetes,Standard Phacoemulsification
+5b8896a4-d91b-4b17-8773-286a8863a135,86,Cortical,3,1193,3.3,Mild Weakness,Poor,26.5,576,2.7,None,Standard Phacoemulsification
+43987944-313e-4a3b-9411-b4408772302e,85,Nuclear,5,500,2.3,Intact,Good,22.0,547,3.13,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+190e6d20-104e-4f23-9578-cb67f76e29e2,58,Mixed,1,2811,4.0,Severe Weakness,Good,24.4,640,0.27,None,Extracapsular Cataract Extraction
+b8b76ddf-552c-4cb2-9443-bb548c8e470c,73,Cortical,2,1823,2.0,Mild Weakness,Poor,25.0,635,2.99,Pseudoexfoliation,Standard Phacoemulsification
+733073f7-7b05-4692-9a6b-d0c8a1b296c9,84,Nuclear,2,2737,3.9,Intact,Good,25.2,617,0.08,None,Standard Phacoemulsification
+24dff3cd-1668-48e6-8ba8-1205f3fb8cd1,52,Cortical,1,2141,2.3,Intact,Poor,25.8,512,0.94,None,Small Incision Cataract Surgery (Manual)
+96b4583d-6622-4566-9755-2cb4d0a7d941,80,Posterior Subcapsular,4,2230,3.1,Severe Weakness,Good,22.8,530,2.4,None,Femtosecond Laser-Assisted Phacoemulsification
+df005a66-f9b4-4863-8717-bf72585e8cc1,82,Posterior Subcapsular,2,1443,4.4,Severe Weakness,Fair,27.2,588,2.09,Diabetes,Extracapsular Cataract Extraction
+3108b133-f080-4f52-90f7-a369c7ee378f,69,Mixed,2,2923,2.9,Intact,Fair,22.2,488,3.35,None,Femtosecond Laser-Assisted Phacoemulsification
+e1f94617-9e7d-4f2f-b7bb-552525ad5300,86,Posterior Subcapsular,4,500,2.3,Moderate Weakness,Fair,26.5,571,0.86,Diabetes,Small Incision Cataract Surgery (Manual)
+8a82fe9a-2e8b-4d60-9e91-0d5e79706679,65,Nuclear,1,2104,3.7,Moderate Weakness,Good,24.3,562,3.15,None,Standard Phacoemulsification
+b7747d5a-4eb1-4a8a-ac84-e22d44701edb,78,Cortical,1,3097,2.7,Intact,Poor,27.2,587,2.39,Diabetes,Standard Phacoemulsification
+c2ba716e-af75-4c1f-a6ea-557c3ca1ab27,48,Mixed,4,500,4.5,Severe Weakness,Good,21.9,523,2.11,Diabetes,Small Incision Cataract Surgery (Manual)
+5d9c33ab-53e7-470f-8108-b89dd1e84d0f,46,Nuclear,4,1364,2.3,Severe Weakness,Good,27.3,615,0.14,"Glaucoma,Diabetes",Small Incision Cataract Surgery (Manual)
+09183085-5a09-4016-9c5c-1b547bdc531f,71,Posterior Subcapsular,3,1699,3.9,Severe Weakness,Good,24.9,560,1.73,Pseudoexfoliation,Intracapsular Cataract Extraction
+ac0deac8-207a-42d5-b527-ce6d35948f63,76,Nuclear,3,820,2.1,Intact,Good,22.0,562,3.01,Diabetes,Small Incision Cataract Surgery (Manual)
+668a411a-6a00-4565-a057-03514bdf8620,91,Posterior Subcapsular,5,500,4.3,Intact,Fair,27.2,491,0.39,Glaucoma,Small Incision Cataract Surgery (Manual)
+bfe66e08-0ed0-4b8a-9892-d0dd87ebea6e,84,Mixed,3,1097,4.3,Severe Weakness,Good,21.9,517,2.64,None,Extracapsular Cataract Extraction
+7aa8f2ba-01c6-4626-98ed-ef73a1ab64e6,73,Nuclear,5,2161,2.6,Severe Weakness,Poor,24.4,551,1.13,None,Femtosecond Laser-Assisted Phacoemulsification
+8215f46a-6760-469f-9043-b72bd3a2b50b,63,Nuclear,3,2687,4.1,Mild Weakness,Poor,25.5,532,2.43,Pseudoexfoliation,Standard Phacoemulsification
+76720bf1-ab94-499e-8142-273f92f2a994,87,Cortical,4,1777,2.5,Intact,Fair,22.5,631,2.67,None,Femtosecond Laser-Assisted Phacoemulsification
+74a20683-b8ab-45e6-a7f0-1a7100db5be4,90,Mixed,2,2666,2.3,Mild Weakness,Good,27.4,578,3.41,None,Standard Phacoemulsification
+8c3a30cd-e523-45fd-93eb-d27d1db91297,57,Nuclear,3,2132,2.4,Moderate Weakness,Poor,25.5,517,1.61,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+3a2927a5-3dfa-4a93-9737-4d1e559d12fe,74,Cortical,3,517,3.2,Severe Weakness,Fair,22.9,620,0.29,None,Extracapsular Cataract Extraction
+5d5cdaf7-3463-458c-81cf-fc7f8cba64ab,77,Posterior Subcapsular,1,2607,2.7,Intact,Good,25.5,588,0.68,None,Standard Phacoemulsification
+ddecfd69-c6b6-4cb9-ac58-5f941b272501,83,Mixed,5,1775,2.3,Intact,Poor,22.7,508,0.77,"Pseudoexfoliation,Glaucoma",Femtosecond Laser-Assisted Phacoemulsification
+a5eb6ab4-9ba5-42e4-97fd-cfa5fedfc4df,49,Nuclear,3,1327,4.2,Severe Weakness,Fair,23.8,536,2.57,None,Extracapsular Cataract Extraction
+80b86b86-22fc-434d-8388-7576cddd3a0e,95,Cortical,3,1579,3.8,Moderate Weakness,Poor,21.0,527,1.76,None,Standard Phacoemulsification
+ac41dd3c-5234-4017-ae49-1ae87f03abaf,89,Cortical,2,1890,3.7,Mild Weakness,Good,23.3,596,0.5,Pseudoexfoliation,Standard Phacoemulsification
+aa38d987-c081-4436-883d-2e33b169337a,56,Posterior Subcapsular,1,1499,3.7,Intact,Poor,23.5,601,2.04,Diabetes,Standard Phacoemulsification
+be13a200-b6b7-4b6f-adfe-35f69eca850c,46,Posterior Subcapsular,2,2751,3.3,Mild Weakness,Good,21.7,565,1.58,None,Standard Phacoemulsification
+12cc6c1f-1769-4018-bae2-43e0d6e83e44,76,Posterior Subcapsular,3,2279,2.0,Moderate Weakness,Fair,26.0,612,2.71,None,Standard Phacoemulsification
+1adc60ad-bbee-48c5-ab2b-0aac75f6008f,52,Posterior Subcapsular,5,500,2.4,Severe Weakness,Good,25.6,516,1.25,Pseudoexfoliation,Intracapsular Cataract Extraction
+7dbb3095-f2ec-492a-b40a-4b21ed40103f,72,Posterior Subcapsular,2,965,2.5,Severe Weakness,Poor,21.8,550,3.07,None,Extracapsular Cataract Extraction
+fc091a33-f63d-4385-914a-fcc35419cd80,78,Cortical,3,1828,4.2,Severe Weakness,Poor,23.9,550,1.08,Pseudoexfoliation,Intracapsular Cataract Extraction
+ea26d76b-fb58-41ff-9984-e7e36f225cf2,84,Nuclear,4,2063,3.4,Moderate Weakness,Fair,21.8,482,1.75,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+218a2b36-e186-40ce-8d84-ee7a618a0207,63,Cortical,3,2394,2.7,Moderate Weakness,Good,24.2,535,0.99,Glaucoma,Standard Phacoemulsification
+cae9e53b-ded2-4e7b-9d0d-3d17174df786,72,Posterior Subcapsular,1,1004,2.6,Moderate Weakness,Fair,26.5,608,2.33,Diabetes,Standard Phacoemulsification
+08a61151-3aa8-4867-b964-06374be360da,62,Cortical,2,2369,3.5,Intact,Fair,22.5,601,3.27,None,Femtosecond Laser-Assisted Phacoemulsification
+105cb9a9-2ab2-447a-9e6f-ab1608e4cf6a,70,Nuclear,3,1637,3.5,Mild Weakness,Poor,24.1,562,2.82,Pseudoexfoliation,Standard Phacoemulsification
+2eab661f-6050-4a4c-a006-8ee185bb89c6,71,Cortical,3,1649,2.2,Severe Weakness,Poor,22.3,591,0.34,None,Extracapsular Cataract Extraction
+f487258d-d6e1-4100-9467-6fd3f3a56722,88,Posterior Subcapsular,4,1650,3.1,Severe Weakness,Fair,24.2,623,0.09,"Glaucoma,Diabetes",Femtosecond Laser-Assisted Phacoemulsification
+7d593bd7-8758-4e52-85ba-55a230dda1e8,64,Cortical,5,2097,2.9,Moderate Weakness,Good,26.3,580,0.44,None,Femtosecond Laser-Assisted Phacoemulsification
+2feb50d5-eefd-4483-a0da-9d703f6eb844,78,Mixed,1,1146,2.1,Intact,Fair,25.2,554,1.98,Diabetes,Small Incision Cataract Surgery (Manual)
+5148ce5d-449d-455e-a42d-5f4f60006afa,82,Nuclear,2,2714,2.4,Severe Weakness,Good,22.6,643,2.98,None,Extracapsular Cataract Extraction
+2a3c59f0-1331-4a8b-9d33-a7017e251735,45,Mixed,5,822,2.3,Intact,Good,25.2,510,1.82,Diabetes,Small Incision Cataract Surgery (Manual)
+532ddea9-6150-4370-bbd8-e01779a473ba,77,Mixed,4,500,4.3,Moderate Weakness,Fair,24.4,527,2.87,None,Small Incision Cataract Surgery (Manual)
+d4a5d1ed-01c7-455c-bf22-90d33fa07605,88,Mixed,5,504,3.1,Intact,Good,22.0,648,0.84,None,Small Incision Cataract Surgery (Manual)
+9cddd12f-0f58-4a93-a300-ae3be82cc055,75,Posterior Subcapsular,3,809,4.4,Severe Weakness,Fair,25.7,580,1.35,None,Extracapsular Cataract Extraction
+32235ec0-172f-4994-af8d-661f1d10d3f8,54,Nuclear,3,2272,2.3,Severe Weakness,Good,25.1,488,2.26,Diabetes,Extracapsular Cataract Extraction
+9ca43b7a-29a4-4ae5-b236-4f3c2c809afc,67,Cortical,4,2077,2.7,Mild Weakness,Fair,24.5,608,0.74,None,Femtosecond Laser-Assisted Phacoemulsification
+276bafae-219c-445e-b38e-d59f0c32bec3,56,Cortical,3,2706,2.8,Mild Weakness,Fair,26.5,648,1.06,None,Standard Phacoemulsification
+2597757c-c5eb-4236-a9a4-846c40ed2f2e,69,Mixed,5,738,3.4,Moderate Weakness,Good,25.9,630,3.34,None,Small Incision Cataract Surgery (Manual)
+e4e214cb-fd0f-4286-9ce2-e627ca9d188e,47,Nuclear,2,1549,2.2,Intact,Fair,27.5,601,1.13,None,Small Incision Cataract Surgery (Manual)
+67fb65d4-a05c-416f-ae81-499c8ddd9f73,95,Cortical,1,1512,3.8,Severe Weakness,Fair,27.5,495,2.14,"Pseudoexfoliation,Diabetes",Intracapsular Cataract Extraction
+b922669c-c2b6-4bb7-9cf9-cf24fa5a1473,93,Posterior Subcapsular,5,500,4.3,Moderate Weakness,Good,25.9,576,0.47,Diabetes,Small Incision Cataract Surgery (Manual)
+16bfe86b-47a0-4110-a07c-cf9a30bccfee,76,Mixed,3,1323,2.5,Mild Weakness,Fair,26.7,529,0.3,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+0e35fd6e-d7eb-40a5-bd71-6f4e1c81f5a7,47,Cortical,1,2272,3.9,Intact,Fair,22.3,644,1.85,None,Femtosecond Laser-Assisted Phacoemulsification
+d0fda5af-11dc-4858-957a-2d4d7b4062d9,77,Posterior Subcapsular,3,2688,4.1,Intact,Fair,24.0,576,3.06,None,Femtosecond Laser-Assisted Phacoemulsification
+11d0cc59-1a6d-44d4-a76d-b381727b60ef,51,Nuclear,4,1144,2.1,Moderate Weakness,Good,22.6,554,3.23,Diabetes,Small Incision Cataract Surgery (Manual)
+25420313-78dc-4ccb-83bc-5dea79a48351,55,Posterior Subcapsular,1,2988,3.4,Moderate Weakness,Fair,25.3,619,2.44,Pseudoexfoliation,Standard Phacoemulsification
+b4727645-8fbf-4565-9f13-4e9067945ebf,61,Nuclear,1,2184,3.1,Mild Weakness,Fair,27.2,495,0.49,None,Standard Phacoemulsification
+e70108eb-de9c-46d1-aeaa-d196fe1e27ae,87,Nuclear,2,2621,2.2,Intact,Fair,27.9,586,2.09,Glaucoma,Small Incision Cataract Surgery (Manual)
+9f21a51d-b0ee-4649-8b51-82e35067315d,53,Posterior Subcapsular,1,1226,2.1,Mild Weakness,Poor,23.5,602,1.06,Diabetes,Standard Phacoemulsification
+f55d7dd9-7711-4126-aec4-36af716c80bf,48,Nuclear,2,2788,3.5,Severe Weakness,Poor,25.8,484,1.93,Pseudoexfoliation,Intracapsular Cataract Extraction
+983f43d2-044f-479c-a7e2-bba9a0dcb1a7,72,Mixed,5,564,2.3,Intact,Poor,27.9,574,1.23,None,Small Incision Cataract Surgery (Manual)
+401688f2-17f6-4a3f-9b06-947f0a24b5ce,50,Nuclear,2,2291,3.9,Intact,Good,27.1,543,2.84,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+1f534601-1c4b-4e21-84d1-bcb84a49d14d,47,Posterior Subcapsular,3,2867,3.6,Mild Weakness,Fair,21.9,581,1.68,"Pseudoexfoliation,Glaucoma",Standard Phacoemulsification
+95d6ea87-c709-442c-adcf-35b8a24cf47c,79,Cortical,4,1662,4.2,Mild Weakness,Fair,26.0,573,2.73,None,Femtosecond Laser-Assisted Phacoemulsification
+3af2096e-e292-4113-81c6-727ef43361ca,62,Posterior Subcapsular,5,2062,2.3,Moderate Weakness,Fair,25.9,639,1.7,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+84aa71e7-f51e-40ca-9f7c-50bfd2b31195,78,Cortical,3,2664,2.5,Moderate Weakness,Poor,26.7,516,0.13,None,Standard Phacoemulsification
+5f6c8360-3de4-416c-8caf-3e7aca7ab2e8,52,Nuclear,4,500,2.7,Severe Weakness,Fair,26.8,501,0.21,Diabetes,Small Incision Cataract Surgery (Manual)
+592e2694-90e8-44f1-9709-7b98bf463277,69,Mixed,4,500,2.6,Severe Weakness,Good,25.6,616,0.18,None,Small Incision Cataract Surgery (Manual)
+e3549e25-7736-4849-9562-69a578693832,46,Posterior Subcapsular,3,2820,2.5,Intact,Fair,26.1,639,1.52,None,Femtosecond Laser-Assisted Phacoemulsification
+6daca920-8fa4-4d74-83a6-5c50a7efdeb5,48,Nuclear,5,1589,4.4,Moderate Weakness,Poor,24.2,626,2.52,None,Femtosecond Laser-Assisted Phacoemulsification
+4fb4b843-86d3-48af-a22e-321097d0b7a9,74,Cortical,2,662,2.7,Moderate Weakness,Good,28.0,618,1.04,Glaucoma,Standard Phacoemulsification
+da244dad-5459-4b4d-98cd-924a829d2243,62,Posterior Subcapsular,5,500,2.3,Moderate Weakness,Fair,26.9,593,1.62,None,Small Incision Cataract Surgery (Manual)
+a28ee0a7-0647-468a-9f84-49d3996338ee,75,Cortical,4,500,3.4,Intact,Fair,27.3,621,1.1,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+c4999586-21d8-483e-86a3-542e21ba7de4,62,Posterior Subcapsular,4,721,2.6,Mild Weakness,Good,27.1,647,0.17,"Pseudoexfoliation,Glaucoma",Small Incision Cataract Surgery (Manual)
+90b2f8c8-1cf3-41d7-920c-7fb583e5283d,73,Posterior Subcapsular,1,3066,3.8,Intact,Poor,27.9,545,0.06,None,Standard Phacoemulsification
+84537fba-4b24-4bc0-b4b0-d5cb98a0806f,47,Cortical,3,847,2.2,Severe Weakness,Good,24.6,540,0.71,None,Extracapsular Cataract Extraction
+c7229960-a14e-4c65-8390-31550664eb5c,49,Mixed,3,986,2.1,Moderate Weakness,Fair,27.8,646,1.31,Diabetes,Standard Phacoemulsification
+9efe6721-7dfb-4e3a-84cf-5e783eac29b3,68,Nuclear,3,1014,4.3,Intact,Good,25.3,560,1.79,None,Femtosecond Laser-Assisted Phacoemulsification
+8c097d79-da61-458a-8290-e5732c4ee3aa,67,Cortical,4,2586,2.1,Mild Weakness,Fair,26.3,646,0.27,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+06278a21-3952-4ab0-9e81-f9e9712e0a82,77,Mixed,5,500,4.1,Intact,Poor,24.3,614,1.82,None,Small Incision Cataract Surgery (Manual)
+56cdef4a-3c97-46f7-9506-bf66fba07ca4,60,Posterior Subcapsular,2,2082,2.6,Moderate Weakness,Poor,27.8,541,1.56,Diabetes,Standard Phacoemulsification
+3266953d-2eff-4251-aaf8-133c785aa556,80,Nuclear,3,2383,3.5,Severe Weakness,Fair,22.6,512,3.24,None,Extracapsular Cataract Extraction
+ad5c6ad8-843b-44d2-ab4a-b9be6184479a,87,Cortical,5,1066,4.0,Moderate Weakness,Fair,21.8,584,1.47,None,Small Incision Cataract Surgery (Manual)
+fc06e51b-f02f-425f-a72a-da0cb2ce6eb4,94,Cortical,2,2459,2.0,Intact,Fair,22.8,621,2.49,None,Small Incision Cataract Surgery (Manual)
+a3892027-623c-4127-9419-0f71b68bcfb5,72,Nuclear,2,899,2.3,Severe Weakness,Fair,23.5,582,2.44,None,Extracapsular Cataract Extraction
+486cb4fc-d566-4814-b545-e523cd4f85e6,66,Nuclear,1,1102,3.8,Moderate Weakness,Fair,27.4,641,1.57,None,Standard Phacoemulsification
+408ab7c8-dfcf-4aba-ac3a-ca156f3dc825,53,Cortical,5,2086,2.2,Intact,Poor,25.2,646,1.59,None,Femtosecond Laser-Assisted Phacoemulsification
+121c5f08-59eb-43a9-8f93-bdbae7573b4a,62,Nuclear,2,1817,3.2,Intact,Poor,24.6,614,2.03,None,Standard Phacoemulsification
+42f5990f-28a6-4ecc-ae25-062175bad39d,65,Cortical,2,771,4.0,Mild Weakness,Fair,24.6,627,3.08,Diabetes,Standard Phacoemulsification
+a87d201a-7e3f-4a11-ade5-57daee8d36d4,63,Posterior Subcapsular,4,1997,2.6,Mild Weakness,Fair,27.6,546,3.46,None,Femtosecond Laser-Assisted Phacoemulsification
+d2435a62-1ada-4443-b63d-bbb55d838165,54,Nuclear,2,2861,4.1,Mild Weakness,Good,25.2,490,3.36,Diabetes,Standard Phacoemulsification
+feb962cd-477c-428b-b9f9-ef5c3990fee6,46,Posterior Subcapsular,2,1754,4.4,Severe Weakness,Poor,24.1,512,2.91,None,Extracapsular Cataract Extraction
+18ad7554-247e-437d-9715-a527d233a282,52,Mixed,4,2220,2.7,Mild Weakness,Fair,26.1,509,3.39,None,Femtosecond Laser-Assisted Phacoemulsification
+1f0f0596-5b30-478b-b9ce-92c046533584,49,Posterior Subcapsular,2,2676,2.8,Severe Weakness,Poor,26.1,498,2.47,None,Extracapsular Cataract Extraction
+3850a79a-4e51-44e1-855c-c7f0afe388dd,90,Posterior Subcapsular,2,2886,3.7,Intact,Poor,25.4,542,0.48,None,Standard Phacoemulsification
+63442701-cee1-4191-9e35-390128c5a36f,61,Mixed,2,2584,4.0,Severe Weakness,Fair,21.9,642,3.07,None,Extracapsular Cataract Extraction
+b33183c0-1de3-4fb0-86b0-a837e155e2a9,45,Mixed,1,2809,3.4,Mild Weakness,Poor,22.2,587,2.41,None,Standard Phacoemulsification
+365c3210-9b92-4f20-a417-9848976e8a54,67,Mixed,5,737,4.2,Mild Weakness,Fair,25.7,605,2.79,None,Small Incision Cataract Surgery (Manual)
+1b8847e2-cd30-4be4-8d0b-bef53aa5eb51,51,Cortical,1,1976,3.0,Severe Weakness,Fair,22.7,588,0.41,Diabetes,Extracapsular Cataract Extraction
+38fcfcb8-f34f-483d-a5e1-1e622240f183,89,Mixed,2,2581,4.1,Severe Weakness,Poor,23.9,540,0.1,None,Extracapsular Cataract Extraction
+de0140e8-6774-4571-ab0a-78b8b13da3a6,71,Nuclear,5,1323,2.7,Moderate Weakness,Fair,23.7,593,1.49,Glaucoma,Small Incision Cataract Surgery (Manual)
+df381f17-4f70-4049-9a3e-788a86804bae,59,Posterior Subcapsular,1,2063,3.1,Mild Weakness,Poor,27.1,617,0.72,None,Standard Phacoemulsification
+47430b51-f42d-4ace-a4b9-f92e367cad35,66,Cortical,5,2210,2.0,Intact,Fair,21.6,565,3.19,None,Femtosecond Laser-Assisted Phacoemulsification
+098c3501-6620-48c9-819a-fea0055e7190,78,Cortical,3,2593,2.5,Mild Weakness,Poor,23.8,538,1.02,None,Standard Phacoemulsification
+928e3495-e5ec-4104-8ff1-1db89294d14f,80,Cortical,1,947,4.1,Intact,Poor,23.8,604,0.15,Glaucoma,Standard Phacoemulsification
+dfd62c6e-ccd3-499d-967a-b9cae0039b5e,89,Cortical,1,1915,3.9,Severe Weakness,Poor,23.8,549,3.02,Pseudoexfoliation,Intracapsular Cataract Extraction
+b09e3d53-0251-44cb-9a86-ed8937477b7e,91,Mixed,1,860,3.9,Mild Weakness,Good,26.2,580,0.68,None,Standard Phacoemulsification
+3ee427f8-2989-45b5-a230-a348806c48d7,77,Nuclear,3,1522,3.1,Intact,Fair,27.8,627,1.65,Glaucoma,Femtosecond Laser-Assisted Phacoemulsification
+c00cb2c1-3c38-46a4-b1f3-dca72f99590c,80,Posterior Subcapsular,4,1364,4.3,Mild Weakness,Fair,21.1,607,2.55,None,Small Incision Cataract Surgery (Manual)
+bec56fc2-899a-4bb6-be24-05d086edd120,73,Cortical,5,500,3.0,Mild Weakness,Fair,23.6,624,0.38,None,Small Incision Cataract Surgery (Manual)
+8b75b7a4-8df5-4715-8bcf-94e6069a006a,50,Nuclear,5,693,2.5,Severe Weakness,Poor,22.7,516,1.41,None,Small Incision Cataract Surgery (Manual)
+6670f10a-6688-48ee-af7d-f9cdca9db222,93,Cortical,1,2821,2.6,Moderate Weakness,Poor,23.4,518,0.13,None,Standard Phacoemulsification
+1323137e-4a20-4457-ab24-8967cf206aae,62,Cortical,5,2001,3.4,Moderate Weakness,Poor,22.7,598,2.48,None,Femtosecond Laser-Assisted Phacoemulsification
+c165b06a-f45d-453a-8896-5b98cf7347b4,50,Nuclear,4,517,2.9,Intact,Good,24.6,511,0.58,Diabetes,Small Incision Cataract Surgery (Manual)
+834a7465-1088-40e3-b319-1b8970a6f259,72,Mixed,2,2748,3.2,Severe Weakness,Fair,21.1,510,1.52,None,Extracapsular Cataract Extraction
+8f5afc19-400a-4f43-9c4e-34f1a0add3f2,78,Posterior Subcapsular,5,1522,3.4,Mild Weakness,Good,23.0,532,2.81,None,Femtosecond Laser-Assisted Phacoemulsification
+32c35d1e-26cb-4244-9a4d-78146079d50d,75,Mixed,2,1952,4.3,Mild Weakness,Good,24.7,601,0.03,Diabetes,Standard Phacoemulsification
+363f59b7-4bdf-49a2-b602-2650c73b11c4,45,Posterior Subcapsular,2,1416,3.7,Severe Weakness,Fair,21.7,639,1.64,None,Extracapsular Cataract Extraction
+5df516ef-837f-4aca-ae3b-4819005800a6,59,Posterior Subcapsular,1,1589,2.7,Severe Weakness,Poor,26.1,574,2.19,None,Extracapsular Cataract Extraction
+e7b9a2ec-3dea-470f-81ed-113f1bc9db60,87,Cortical,1,3227,2.4,Mild Weakness,Fair,22.2,624,0.36,None,Standard Phacoemulsification
+e0c1a1fc-0f21-47d0-9f22-459aaab15890,66,Posterior Subcapsular,5,1939,2.5,Intact,Good,27.9,503,3.25,None,Femtosecond Laser-Assisted Phacoemulsification
+7ba6caea-9dd5-498d-8d2c-1ef1f74f538a,45,Posterior Subcapsular,1,1013,2.3,Severe Weakness,Fair,25.7,563,1.06,None,Extracapsular Cataract Extraction
+e7d7fe5e-4b4a-4c50-895e-75772ea19d43,94,Mixed,4,1654,2.8,Moderate Weakness,Poor,21.5,634,2.95,None,Femtosecond Laser-Assisted Phacoemulsification
+e6777096-af58-4453-8ade-06e0051deaef,90,Cortical,4,2495,3.1,Moderate Weakness,Poor,21.8,591,2.28,None,Femtosecond Laser-Assisted Phacoemulsification
+dfd26e13-65a3-42d1-a830-c58d4c29c799,94,Posterior Subcapsular,4,1075,3.5,Mild Weakness,Fair,23.6,482,0.69,None,Small Incision Cataract Surgery (Manual)
+0fa74793-add6-449b-8066-15500c54ce56,66,Nuclear,3,1439,3.3,Intact,Poor,22.9,645,0.96,Glaucoma,Standard Phacoemulsification
+5dad8c38-ec69-41b3-ba06-9498188c32f7,61,Posterior Subcapsular,1,3143,4.1,Severe Weakness,Poor,25.4,605,0.61,None,Extracapsular Cataract Extraction
+f4c7eec4-8f3f-4096-9830-02f1e4bd9d3e,51,Nuclear,3,518,3.5,Mild Weakness,Poor,26.2,513,0.29,None,Standard Phacoemulsification
+9cdb55dd-20b1-4dc9-9587-c74cb03d24a0,90,Nuclear,3,799,4.1,Moderate Weakness,Good,25.6,484,1.16,None,Standard Phacoemulsification
+c213b158-de4e-4149-a919-5d9504ea7442,55,Posterior Subcapsular,5,500,4.4,Severe Weakness,Fair,26.9,495,0.23,None,Small Incision Cataract Surgery (Manual)
+7d796b02-a2f2-43db-9295-59f55d7c40c4,50,Cortical,4,500,2.7,Mild Weakness,Poor,24.5,524,2.22,None,Small Incision Cataract Surgery (Manual)
+8d213551-6046-4b2a-b28f-64b99f7ac2b7,80,Posterior Subcapsular,1,2198,3.2,Intact,Poor,27.5,502,0.41,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+f83af1c1-a7a6-49ee-bb9c-3fece59de1a8,82,Nuclear,2,642,2.5,Moderate Weakness,Fair,21.6,543,1.08,None,Standard Phacoemulsification
+e06d8998-08a2-4330-b758-c96f491a0d24,92,Cortical,3,618,2.9,Moderate Weakness,Good,23.0,624,1.1,None,Standard Phacoemulsification
+67885353-490c-4b44-af5c-e6a23d4491ed,56,Posterior Subcapsular,3,2200,2.7,Severe Weakness,Fair,25.1,569,2.7,None,Extracapsular Cataract Extraction
+6ee7aad5-d3c1-4387-b8ab-4d2e126dbceb,55,Nuclear,5,1579,2.4,Mild Weakness,Poor,24.0,645,2.84,None,Femtosecond Laser-Assisted Phacoemulsification
+73e76814-a80e-4743-8882-0223e648a330,77,Posterior Subcapsular,1,2902,3.9,Moderate Weakness,Good,24.3,488,3.23,None,Standard Phacoemulsification
+9f0ee5e1-d1f4-4e4f-971a-acbeae3955d0,74,Posterior Subcapsular,3,2709,2.9,Intact,Fair,25.9,641,1.26,None,Standard Phacoemulsification
+4ee6d16d-1d41-48d4-b650-d70d1627381c,66,Nuclear,2,2066,2.8,Severe Weakness,Poor,22.3,485,1.54,None,Extracapsular Cataract Extraction
+354bea84-def4-46db-a4cd-ead34f785465,91,Mixed,4,1197,2.6,Moderate Weakness,Poor,23.4,582,1.05,None,Small Incision Cataract Surgery (Manual)
+f41c7428-8aaa-43f6-b7f5-41ddf46766d5,77,Nuclear,4,1944,3.9,Severe Weakness,Poor,21.2,611,0.58,None,Femtosecond Laser-Assisted Phacoemulsification
+d53b192e-3d20-4d3f-a36c-054de9d4bcba,78,Cortical,5,571,2.3,Moderate Weakness,Good,27.8,559,2.78,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+e0cd6023-2e76-4364-8d90-547c38c00be7,74,Nuclear,2,1420,4.2,Moderate Weakness,Fair,21.6,540,3.0,Diabetes,Standard Phacoemulsification
+5a41de15-667a-480e-9944-5324d276e9d0,80,Posterior Subcapsular,1,2755,2.4,Intact,Fair,24.8,580,2.45,None,Small Incision Cataract Surgery (Manual)
+4c951afd-a00c-438b-9f6d-f2ee0f4445e6,90,Cortical,1,2387,2.3,Mild Weakness,Fair,26.4,552,2.87,None,Standard Phacoemulsification
+bbd1594a-63e2-4491-9c8f-43690a837014,49,Posterior Subcapsular,4,2602,2.1,Mild Weakness,Good,23.6,567,1.76,Pseudoexfoliation,Femtosecond Laser-Assisted Phacoemulsification
+1abfe756-c192-457a-b595-6b8c76e3c2a7,49,Cortical,2,2647,2.5,Mild Weakness,Fair,24.0,566,1.34,None,Standard Phacoemulsification
+a920ffa3-9dbf-4739-8e2e-d4fd377d0983,88,Mixed,1,1869,4.4,Severe Weakness,Good,22.1,612,2.92,Glaucoma,Extracapsular Cataract Extraction
+e70432b6-b7d0-44f7-bae4-603e555ebf25,51,Mixed,1,1458,2.8,Severe Weakness,Poor,24.2,604,2.29,Diabetes,Extracapsular Cataract Extraction
+8e98b831-f25c-4d75-b2df-91927c6e7afa,72,Posterior Subcapsular,1,3272,4.0,Severe Weakness,Poor,23.6,601,2.49,Diabetes,Extracapsular Cataract Extraction
+9c632ceb-c1e6-442c-a855-a2f4624e9bbd,56,Mixed,5,1570,4.2,Intact,Good,21.0,631,0.9,None,Femtosecond Laser-Assisted Phacoemulsification
+0180dd47-1ff5-4fd0-8d42-3ecd3f85ed54,72,Nuclear,4,1353,2.1,Severe Weakness,Fair,23.6,633,2.4,None,Small Incision Cataract Surgery (Manual)
+0e76ff3d-ebea-497b-9df3-6b6f9c1c8829,46,Posterior Subcapsular,2,1801,2.9,Intact,Fair,23.3,642,0.12,Pseudoexfoliation,Standard Phacoemulsification
+b3774dcc-0f74-41a0-a56a-700a9eb52823,70,Cortical,2,944,3.3,Mild Weakness,Poor,22.0,606,1.51,None,Standard Phacoemulsification
+4d6875f9-7d7c-48e8-ae85-8790b995710a,60,Mixed,1,1113,2.8,Intact,Good,25.3,643,2.84,Pseudoexfoliation,Standard Phacoemulsification
+c04c38d7-1e5e-4dca-aedc-63f6745d8a40,66,Posterior Subcapsular,4,1841,2.1,Moderate Weakness,Poor,25.6,500,2.93,Diabetes,Femtosecond Laser-Assisted Phacoemulsification
+5043e004-41ca-4641-847c-364fd55c0bfa,61,Posterior Subcapsular,5,2105,3.3,Mild Weakness,Poor,26.6,575,2.01,None,Femtosecond Laser-Assisted Phacoemulsification
+1eefc017-f97d-43ff-8496-3a7e4225434a,89,Cortical,3,2454,3.7,Severe Weakness,Good,25.7,549,0.02,None,Extracapsular Cataract Extraction
+b49946ff-5bdb-417c-bfcb-5ee09bed472c,62,Posterior Subcapsular,4,2653,4.0,Moderate Weakness,Good,22.5,484,2.48,None,Femtosecond Laser-Assisted Phacoemulsification
+08cae700-fef1-47c5-a009-e2fe87f0ba1f,83,Mixed,5,1723,3.6,Moderate Weakness,Poor,23.7,622,0.04,None,Femtosecond Laser-Assisted Phacoemulsification
+ddb0029d-01ed-4524-9997-6a350222bfa2,74,Mixed,2,2780,3.7,Severe Weakness,Fair,23.8,649,2.98,None,Extracapsular Cataract Extraction
+eb58cfab-bba6-490b-86de-5f60f2cf830a,67,Nuclear,2,2769,2.9,Moderate Weakness,Fair,24.2,599,0.1,None,Standard Phacoemulsification
+daf1669d-2d82-4c31-b05f-26e48f9c5f7c,72,Mixed,1,1962,3.4,Severe Weakness,Good,23.6,617,0.46,Diabetes,Extracapsular Cataract Extraction
+f708c1bd-45f4-45a0-bebb-60900c871aa3,58,Cortical,1,3137,2.7,Mild Weakness,Poor,27.9,620,1.43,None,Standard Phacoemulsification
+d5caec25-b88c-404d-bdbf-fcc3066426bb,65,Posterior Subcapsular,1,2101,3.3,Severe Weakness,Good,27.0,606,2.65,Diabetes,Extracapsular Cataract Extraction
+194eb64b-90e0-4f5b-a5a6-cbc0d1102f37,56,Mixed,3,500,3.3,Moderate Weakness,Fair,25.6,505,1.34,None,Standard Phacoemulsification
+96272ea7-c293-40f2-9f45-8ba4f106a68a,85,Nuclear,5,918,2.3,Intact,Poor,25.0,584,3.31,None,Small Incision Cataract Surgery (Manual)
+8270f59a-b89e-4b02-ab71-dd4f81675aee,75,Nuclear,3,500,3.9,Severe Weakness,Poor,24.6,529,2.98,None,Extracapsular Cataract Extraction
+5d56c975-faa0-4fcf-b5a7-e5bac2a09d86,56,Mixed,2,1921,2.3,Intact,Good,22.4,598,1.61,None,Small Incision Cataract Surgery (Manual)
+dc6a5b43-c9de-4280-850e-117784682610,56,Mixed,5,500,4.0,Moderate Weakness,Good,22.7,497,0.02,Pseudoexfoliation,Small Incision Cataract Surgery (Manual)
+8b75c239-4c3e-408b-8209-63853f4bc332,75,Mixed,1,2508,4.4,Intact,Poor,26.4,645,3.46,None,Standard Phacoemulsification
+e5b1ce95-e5e2-4fb9-8fb9-bf1b2a614fa0,48,Posterior Subcapsular,4,500,2.9,Severe Weakness,Fair,26.5,506,0.51,None,Small Incision Cataract Surgery (Manual)
+93813f4f-bb76-414e-aaec-311c7c00992d,52,Cortical,3,2091,3.6,Mild Weakness,Good,26.6,533,0.93,None,Standard Phacoemulsification
+5dd1f0f2-cc3e-4b80-bd6a-62ff79f66f30,90,Mixed,2,1664,2.9,Severe Weakness,Fair,26.5,546,1.99,Diabetes,Extracapsular Cataract Extraction
+a4b44b1f-0378-49b1-8414-ccaf09f87c4e,63,Nuclear,2,2119,3.4,Moderate Weakness,Fair,27.6,520,1.99,None,Standard Phacoemulsification
+dc7dde20-79ce-4478-ac46-c5076b679648,54,Cortical,2,3088,2.7,Severe Weakness,Fair,25.5,487,2.98,Diabetes,Extracapsular Cataract Extraction
+b66cfa13-8939-48c5-96b9-9b18e5a13aed,68,Mixed,4,897,4.4,Mild Weakness,Poor,27.0,560,1.83,None,Small Incision Cataract Surgery (Manual)
+542856e6-89d5-4bde-aa4d-b084bba28517,78,Mixed,2,2582,4.2,Intact,Poor,27.6,567,0.79,None,Standard Phacoemulsification
+aa4e8ac6-1bd0-4f23-8872-c0d4be5a90af,91,Nuclear,2,2060,3.2,Intact,Poor,26.9,614,3.14,Diabetes,Standard Phacoemulsification
+eaab1692-4259-4062-9ca3-d22e95a1633c,85,Nuclear,3,2478,2.2,Intact,Good,24.1,613,0.87,None,Small Incision Cataract Surgery (Manual)
+cc919b68-f0dc-49b1-936d-64d51d586556,86,Cortical,2,2468,2.4,Moderate Weakness,Poor,22.9,528,2.57,Diabetes,Standard Phacoemulsification
+f3c85c87-b148-4277-9197-79741d6dcfde,64,Nuclear,2,1532,2.6,Severe Weakness,Fair,21.7,493,1.12,Diabetes,Extracapsular Cataract Extraction
+b61ebe63-e175-4438-8e32-c60319814985,50,Mixed,2,1009,3.4,Mild Weakness,Poor,24.4,625,0.03,None,Standard Phacoemulsification
+ded92a99-e608-4015-89fc-7300ef52287e,73,Cortical,5,1868,4.5,Moderate Weakness,Fair,25.2,606,2.21,None,Femtosecond Laser-Assisted Phacoemulsification
+5b72d3b0-066b-4c1b-b7ea-e562ca62e0fd,86,Posterior Subcapsular,3,2579,2.6,Moderate Weakness,Poor,24.9,559,2.19,"Pseudoexfoliation,Diabetes",Standard Phacoemulsification
+82a73acc-f65c-44ed-be42-38b9e8bc880a,45,Posterior Subcapsular,5,1927,3.2,Mild Weakness,Good,26.3,557,0.33,None,Femtosecond Laser-Assisted Phacoemulsification
+622a7b63-15c2-4add-bd5f-4310dc04adda,56,Cortical,1,1749,2.5,Moderate Weakness,Fair,26.4,600,0.36,None,Standard Phacoemulsification
+d7f11cff-4d31-43ba-a555-b2ec2b3165d1,54,Posterior Subcapsular,2,1386,3.9,Mild Weakness,Good,25.3,520,1.14,None,Standard Phacoemulsification
+362bb19d-66d2-4164-afe4-ade50c91265d,71,Posterior Subcapsular,2,1676,3.2,Moderate Weakness,Fair,22.0,565,2.54,None,Standard Phacoemulsification
+1999de24-52ed-4ec8-bbeb-d4db786d02a7,81,Mixed,4,500,3.9,Severe Weakness,Good,27.8,570,2.26,Pseudoexfoliation,Intracapsular Cataract Extraction
+a70b4b2a-7b8b-4977-8024-bbfa99ec1dc4,90,Cortical,2,1648,2.7,Moderate Weakness,Good,23.3,577,1.14,None,Standard Phacoemulsification
+7a528e88-a1f5-4c1f-86af-a0c9925867da,77,Mixed,3,837,2.2,Mild Weakness,Fair,26.1,631,1.64,Glaucoma,Standard Phacoemulsification
+9f693e57-0117-447f-a79d-e8cc77ed0653,89,Mixed,2,1747,4.5,Severe Weakness,Good,21.7,643,1.2,None,Extracapsular Cataract Extraction
+65d4ac6d-79f4-4dd9-a436-6fc6d761c3f4,75,Cortical,1,2129,4.4,Severe Weakness,Good,27.1,630,1.05,Glaucoma,Extracapsular Cataract Extraction
+9fdccad6-94a7-4615-9b85-de4d01017752,81,Posterior Subcapsular,5,2175,4.0,Intact,Good,26.4,497,3.05,None,Femtosecond Laser-Assisted Phacoemulsification
+6155f6b0-58b6-4d77-85a4-8dd83d576fee,68,Mixed,2,1354,2.8,Mild Weakness,Fair,23.5,530,2.37,None,Standard Phacoemulsification
+9054c8b9-e287-4e41-820f-3706197ae191,46,Cortical,1,2482,3.1,Severe Weakness,Good,26.8,495,3.2,Glaucoma,Extracapsular Cataract Extraction
+68a02c18-bf6f-4e0c-8909-0f8c3b0b3dd2,47,Posterior Subcapsular,5,2015,2.7,Moderate Weakness,Poor,21.5,499,1.98,None,Femtosecond Laser-Assisted Phacoemulsification
